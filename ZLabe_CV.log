@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  29 AUG 2017 19:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  8 SEP 2017 09:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -712,7 +712,7 @@ Overfull \hbox (8.10364pt too wide) in paragraph at lines 284--284
 []\T1/ggm/m/n/10 Software/Tools: 
  []
 
-<github.png, id=36, 64.24pt x 64.24pt>
+<github.png, id=38, 64.24pt x 64.24pt>
 File: github.png Graphic file (type png)
  <use github.png>
 Package pdftex.def Info: github.png used on input line 286.
@@ -778,10 +778,10 @@ ri7.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></
 usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmtt10.pfb></usr/local/
 texlive/2015/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb></usr/local/te
 xlive/2015/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on ZLabe_CV.pdf (5 pages, 194321 bytes).
+Output written on ZLabe_CV.pdf (5 pages, 194590 bytes).
 PDF statistics:
- 120 PDF objects out of 1000 (max. 8388607)
- 97 compressed objects within 1 object stream
+ 122 PDF objects out of 1000 (max. 8388607)
+ 99 compressed objects within 1 object stream
  6 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
