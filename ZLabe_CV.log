@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  26 SEP 2017 08:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  27 SEP 2017 18:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -618,20 +618,8 @@ Overfull \hbox (72.2025pt too wide) in paragraph at lines 74--81
  []
 
 
-Overfull \hbox (4.26851pt too wide) in paragraph at lines 114--130
+Overfull \hbox (4.26851pt too wide) in paragraph at lines 120--136
 [][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 139--141
-
- []
-
-
-Overfull \hbox (3.27492pt too wide) in paragraph at lines 142--143
-\T1/ggm/m/n/10 Spring On-sets in the CESM Large En-sem-ble Project, R. Clim Dyn
-, DOI:$\OT1/lmr/m/n/10 10\OML/lmm/m/it/10 :\OT1/lmr/m/n/10 1007\OML/lmm/m/it/10
- =$\T1/ggm/m/n/10 s$\OT1/lmr/m/n/10 00382$\T1/ggm/m/n/10 -
  []
 
 
@@ -640,136 +628,148 @@ Underfull \hbox (badness 10000) in paragraph at lines 145--147
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 151--153
-
+Overfull \hbox (3.27492pt too wide) in paragraph at lines 148--149
+\T1/ggm/m/n/10 Spring On-sets in the CESM Large En-sem-ble Project, R. Clim Dyn
+, DOI:$\OT1/lmr/m/n/10 10\OML/lmm/m/it/10 :\OT1/lmr/m/n/10 1007\OML/lmm/m/it/10
+ =$\T1/ggm/m/n/10 s$\OT1/lmr/m/n/10 00382$\T1/ggm/m/n/10 -
  []
 
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 154.
+(Font)              <8> on input line 151.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 154.
+(Font)              <6> on input line 151.
 LaTeX Font Info:    Font shape `T1/ggm/bx/n' in size <8> not available
-(Font)              Font shape `T1/ggm/b/n' tried instead on input line 154.
+(Font)              Font shape `T1/ggm/b/n' tried instead on input line 151.
 [1
 
  <./twitter.png>]
-Overfull \hbox (3.5462pt too wide) in paragraph at lines 180--190
+Underfull \hbox (badness 10000) in paragraph at lines 152--154
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--160
+
+ []
+
+
+Overfull \hbox (3.5462pt too wide) in paragraph at lines 187--197
 [][] 
  []
 
 
-Overfull \hbox (3.5462pt too wide) in paragraph at lines 201--206
+Overfull \hbox (3.5462pt too wide) in paragraph at lines 208--213
 [] 
  []
 
 
-Overfull \hbox (3.5462pt too wide) in paragraph at lines 207--214
-[] 
- []
-
-
-Overfull \hbox (3.5462pt too wide) in paragraph at lines 215--232
-[]
- []
-
-
-Overfull \hbox (3.5462pt too wide) in paragraph at lines 215--232
+Overfull \hbox (3.5462pt too wide) in paragraph at lines 214--221
 [] 
  []
 
 [2]
-Overfull \hbox (3.5462pt too wide) in paragraph at lines 239--246
+Overfull \hbox (3.5462pt too wide) in paragraph at lines 223--241
+[]
+ []
+
+
+Overfull \hbox (3.5462pt too wide) in paragraph at lines 223--241
+[] 
+ []
+
+
+Overfull \hbox (3.5462pt too wide) in paragraph at lines 248--255
 [][] 
  []
 
 
-Overfull \hbox (3.5462pt too wide) in paragraph at lines 247--255
+Overfull \hbox (3.5462pt too wide) in paragraph at lines 256--264
 [] 
  []
 
 
-Overfull \hbox (3.5462pt too wide) in paragraph at lines 258--263
+Overfull \hbox (3.5462pt too wide) in paragraph at lines 267--272
 [] 
  []
 
 
-Overfull \hbox (3.5462pt too wide) in paragraph at lines 264--269
+Overfull \hbox (3.5462pt too wide) in paragraph at lines 273--278
 [] 
  []
 
 
-Overfull \hbox (3.5462pt too wide) in paragraph at lines 270--278
+Overfull \hbox (3.5462pt too wide) in paragraph at lines 279--287
 [] 
  []
 
-
-Overfull \hbox (1.90372pt too wide) in paragraph at lines 284--284
+[3]
+Overfull \hbox (1.90372pt too wide) in paragraph at lines 293--293
 []\T1/ggm/m/n/10 Programming: 
  []
 
 
-Overfull \hbox (8.10364pt too wide) in paragraph at lines 285--285
+Overfull \hbox (8.10364pt too wide) in paragraph at lines 294--294
 []\T1/ggm/m/n/10 Software/Tools: 
  []
 
-<github.png, id=39, 64.24pt x 64.24pt>
+<github.png, id=44, 64.24pt x 64.24pt>
 File: github.png Graphic file (type png)
  <use github.png>
-Package pdftex.def Info: github.png used on input line 287.
+Package pdftex.def Info: github.png used on input line 296.
 (pdftex.def)             Requested size: 8.9994pt x 9.0pt.
 
-Overfull \hbox (148.08621pt too wide) in paragraph at lines 282--289
-[][] 
- []
-
-[3 <./github.png>]
-Overfull \hbox (32.45378pt too wide) in paragraph at lines 299--315
+Overfull \hbox (148.08621pt too wide) in paragraph at lines 291--298
 [][] 
  []
 
 
-Overfull \hbox (32.45378pt too wide) in paragraph at lines 318--337
+Overfull \hbox (32.45378pt too wide) in paragraph at lines 306--322
 [][] 
  []
 
 
-Underfull \hbox (badness 2781) in paragraph at lines 357--358
+Overfull \hbox (32.45378pt too wide) in paragraph at lines 325--344
+[][] 
+ []
+
+
+Underfull \hbox (badness 2781) in paragraph at lines 364--365
 []\T1/ggm/m/it/10 The Wash-ing-ton Post, Cap-i-tal Weather Gang\T1/ggm/m/n/10 ,
  ```Be-yond the ex-
  []
 
 File: twitter.png Graphic file (type png)
 <use twitter.png>
-Package pdftex.def Info: twitter.png used on input line 374.
+Package pdftex.def Info: twitter.png used on input line 381.
 (pdftex.def)             Requested size: 8.99335pt x 9.0pt.
 
-Overfull \hbox (3.5462pt too wide) in paragraph at lines 348--376
+Overfull \hbox (3.5462pt too wide) in paragraph at lines 355--383
 [][]
  []
 
 
-Overfull \hbox (3.5462pt too wide) in paragraph at lines 348--376
+Overfull \hbox (3.5462pt too wide) in paragraph at lines 355--383
 [] 
  []
 
-[4]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 389.
+[4 <./github.png>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 396.
  [5]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 389.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 396.
  (./ZLabe_CV.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 389.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 389.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 396.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 396.
 Package rerunfilecheck Info: File `ZLabe_CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
  9468 strings out of 493089
  134739 string characters out of 6134842
- 260013 words of memory out of 5000000
+ 261013 words of memory out of 5000000
  12702 multiletter control sequences out of 15000+600000
  133709 words of font info for 92 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,15n,43p,1071b,486s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,15n,43p,1071b,384s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/lo
 cal/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/20
 15/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/texlive/2015/texmf-dist/f
@@ -783,7 +783,7 @@ ri7.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></
 usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmtt10.pfb></usr/local/
 texlive/2015/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb></usr/local/te
 xlive/2015/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on ZLabe_CV.pdf (5 pages, 194938 bytes).
+Output written on ZLabe_CV.pdf (5 pages, 194860 bytes).
 PDF statistics:
  125 PDF objects out of 1000 (max. 8388607)
  101 compressed objects within 2 object streams
