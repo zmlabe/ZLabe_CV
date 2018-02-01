@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  23 JAN 2018 18:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  31 JAN 2018 20:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -699,13 +699,13 @@ Overfull \hbox (3.5462pt too wide) in paragraph at lines 260--268
 [] 
  []
 
-[3]
-Overfull \hbox (3.5462pt too wide) in paragraph at lines 272--277
+
+Overfull \hbox (3.5462pt too wide) in paragraph at lines 271--276
 [] 
  []
 
-
-Overfull \hbox (3.5462pt too wide) in paragraph at lines 278--283
+[3]
+Overfull \hbox (3.5462pt too wide) in paragraph at lines 277--283
 [] 
  []
 
@@ -777,7 +777,7 @@ Package rerunfilecheck Info: File `ZLabe_CV.out' has not changed.
 Here is how much of TeX's memory you used:
  9468 strings out of 493089
  134739 string characters out of 6134842
- 264013 words of memory out of 5000000
+ 263013 words of memory out of 5000000
  12702 multiletter control sequences out of 15000+600000
  133709 words of font info for 92 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -795,7 +795,7 @@ ri7.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></
 usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmtt10.pfb></usr/local/
 texlive/2015/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb></usr/local/te
 xlive/2015/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on ZLabe_CV.pdf (5 pages, 196520 bytes).
+Output written on ZLabe_CV.pdf (5 pages, 196590 bytes).
 PDF statistics:
  126 PDF objects out of 1000 (max. 8388607)
  102 compressed objects within 2 object streams
