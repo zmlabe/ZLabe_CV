@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  3 MAY 2018 10:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  11 MAY 2018 09:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -665,7 +665,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 159--161
  []
 
 
-Overfull \hbox (3.5462pt too wide) in paragraph at lines 190--200
+Overfull \hbox (3.5462pt too wide) in paragraph at lines 191--201
 [][] 
  []
 
@@ -823,7 +823,7 @@ ri7.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></
 usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmtt10.pfb></usr/local/
 texlive/2015/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb></usr/local/te
 xlive/2015/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on ZLabe_CV.pdf (6 pages, 201136 bytes).
+Output written on ZLabe_CV.pdf (6 pages, 201316 bytes).
 PDF statistics:
  142 PDF objects out of 1000 (max. 8388607)
  117 compressed objects within 2 object streams
