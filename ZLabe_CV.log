@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  3 OCT 2018 16:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  5 OCT 2018 10:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -669,12 +669,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 159--161
 
  []
 
-
-Overfull \hbox (3.5462pt too wide) in paragraph at lines 191--201
+[2]
+Overfull \hbox (3.5462pt too wide) in paragraph at lines 192--202
 [][] 
  []
 
-[2]
+
 Overfull \hbox (3.5462pt too wide) in paragraph at lines 213--218
 [] 
  []
@@ -712,7 +712,7 @@ Overfull \hbox (3.5462pt too wide) in paragraph at lines 227--253
 [] 
  []
 
-
+[3]
 Overfull \hbox (3.5462pt too wide) in paragraph at lines 260--271
 [][]
  []
@@ -722,7 +722,7 @@ Overfull \hbox (3.5462pt too wide) in paragraph at lines 260--271
 [] 
  []
 
-[3]
+
 Overfull \hbox (3.5462pt too wide) in paragraph at lines 272--280
 [] 
  []
@@ -752,7 +752,7 @@ Overfull \hbox (8.10364pt too wide) in paragraph at lines 311--311
 []\T1/ggm/m/n/10 Software/Tools: 
  []
 
-<github.png, id=46, 64.24pt x 64.24pt>
+<github.png, id=49, 64.24pt x 64.24pt>
 File: github.png Graphic file (type png)
  <use github.png>
 Package pdftex.def Info: github.png used on input line 313.
@@ -762,7 +762,7 @@ Overfull \hbox (148.08621pt too wide) in paragraph at lines 308--315
 [][] 
  []
 
-
+[4 <./github.png>]
 Overfull \hbox (32.45378pt too wide) in paragraph at lines 323--339
 [][] 
  []
@@ -772,14 +772,14 @@ Overfull \hbox (32.45378pt too wide) in paragraph at lines 342--361
 [][] 
  []
 
-[4 <./github.png>]
+
 Underfull \hbox (badness 1325) in paragraph at lines 375--376
 []\T1/ggm/m/it/10 Val $[]$ - Slovene ra-dio sta-tion \T1/ggm/m/n/10 ``The Arc-t
 ic is rapidly melt-ing''
  []
 
 
-Underfull \hbox (badness 2781) in paragraph at lines 395--396
+Underfull \hbox (badness 2781) in paragraph at lines 397--398
 []\T1/ggm/m/it/10 The Wash-ing-ton Post, Cap-i-tal Weather Gang\T1/ggm/m/n/10 ,
  ```Be-yond the ex-
  []
@@ -816,7 +816,7 @@ Package rerunfilecheck Info: File `ZLabe_CV.out' has not changed.
 Here is how much of TeX's memory you used:
  9469 strings out of 493089
  134745 string characters out of 6134842
- 263013 words of memory out of 5000000
+ 266013 words of memory out of 5000000
  12702 multiletter control sequences out of 15000+600000
  133709 words of font info for 92 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -834,10 +834,10 @@ ri7.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></
 usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmtt10.pfb></usr/local/
 texlive/2015/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb></usr/local/te
 xlive/2015/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on ZLabe_CV.pdf (6 pages, 204524 bytes).
+Output written on ZLabe_CV.pdf (6 pages, 206343 bytes).
 PDF statistics:
- 148 PDF objects out of 1000 (max. 8388607)
- 123 compressed objects within 2 object streams
+ 151 PDF objects out of 1000 (max. 8388607)
+ 126 compressed objects within 2 object streams
  7 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
