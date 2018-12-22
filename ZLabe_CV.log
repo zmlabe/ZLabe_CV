@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  7 DEC 2018 08:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  22 DEC 2018 15:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -685,19 +685,19 @@ Overfull \hbox (3.5462pt too wide) in paragraph at lines 227--234
  []
 
 
-Underfull \hbox (badness 1400) in paragraph at lines 243--244
+Underfull \hbox (badness 1400) in paragraph at lines 244--245
 []\T1/ggm/m/it/10 Climate, Lit-er-acy, Em-pow-er-ment And iN-quiry (CLEAN)\T1/g
 gm/m/n/10 , Weather
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 244--245
+Underfull \hbox (badness 10000) in paragraph at lines 245--246
 []\T1/ggm/m/it/10 Orange County Re-gional Sci-ence Olympiad\T1/ggm/m/n/10 , Cli
 -mate Science-
  []
 
 
-Underfull \hbox (badness 7888) in paragraph at lines 245--246
+Underfull \hbox (badness 7888) in paragraph at lines 246--247
 []\T1/ggm/m/it/10 Climate, Lit-er-acy, Em-pow-er-ment And iN-quiry (CLEAN)\T1/g
 gm/m/n/10 , The
  []
@@ -747,7 +747,7 @@ Overfull \hbox (8.10364pt too wide) in paragraph at lines 316--316
 []\T1/ggm/m/n/10 Software/Tools: 
  []
 
-<github.png, id=50, 64.24pt x 64.24pt>
+<github.png, id=51, 64.24pt x 64.24pt>
 File: github.png Graphic file (type png)
  <use github.png>
 Package pdftex.def Info: github.png used on input line 318.
@@ -757,7 +757,7 @@ Overfull \hbox (148.08621pt too wide) in paragraph at lines 313--320
 [][] 
  []
 
-[4 <./github.png>]
+[4]
 Overfull \hbox (32.45378pt too wide) in paragraph at lines 328--345
 [][] 
  []
@@ -774,7 +774,7 @@ ic is rapidly melt-ing''
  []
 
 
-Underfull \hbox (badness 2781) in paragraph at lines 405--406
+Underfull \hbox (badness 2781) in paragraph at lines 407--408
 []\T1/ggm/m/it/10 The Wash-ing-ton Post, Cap-i-tal Weather Gang\T1/ggm/m/n/10 ,
  ```Be-yond the ex-
  []
@@ -798,7 +798,7 @@ Overfull \hbox (3.5462pt too wide) in paragraph at lines 378--424
 [] 
  []
 
-[5]
+[5 <./github.png>]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 437.
  [6]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 437.
@@ -811,7 +811,7 @@ Package rerunfilecheck Info: File `ZLabe_CV.out' has not changed.
 Here is how much of TeX's memory you used:
  9469 strings out of 493089
  134745 string characters out of 6134842
- 267013 words of memory out of 5000000
+ 268013 words of memory out of 5000000
  12702 multiletter control sequences out of 15000+600000
  133709 words of font info for 92 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -829,10 +829,10 @@ ri7.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></
 usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmtt10.pfb></usr/local/
 texlive/2015/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb></usr/local/te
 xlive/2015/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on ZLabe_CV.pdf (6 pages, 207356 bytes).
+Output written on ZLabe_CV.pdf (6 pages, 207509 bytes).
 PDF statistics:
- 154 PDF objects out of 1000 (max. 8388607)
- 129 compressed objects within 2 object streams
+ 155 PDF objects out of 1000 (max. 8388607)
+ 130 compressed objects within 2 object streams
  7 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
