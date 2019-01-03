@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  22 DEC 2018 15:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  3 JAN 2019 12:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -713,98 +713,98 @@ Overfull \hbox (3.5462pt too wide) in paragraph at lines 235--261
  []
 
 [3]
-Overfull \hbox (3.5462pt too wide) in paragraph at lines 268--276
+Overfull \hbox (3.5462pt too wide) in paragraph at lines 268--277
 [][] 
  []
 
 
-Overfull \hbox (3.5462pt too wide) in paragraph at lines 277--285
+Overfull \hbox (3.5462pt too wide) in paragraph at lines 278--286
 [] 
  []
 
 
-Overfull \hbox (3.5462pt too wide) in paragraph at lines 288--293
+Overfull \hbox (3.5462pt too wide) in paragraph at lines 289--294
 [] 
  []
 
 
-Overfull \hbox (3.5462pt too wide) in paragraph at lines 294--300
+Overfull \hbox (3.5462pt too wide) in paragraph at lines 295--301
 [] 
  []
 
 
-Overfull \hbox (3.5462pt too wide) in paragraph at lines 301--309
+Overfull \hbox (3.5462pt too wide) in paragraph at lines 302--310
 [] 
  []
 
-
-Overfull \hbox (1.90372pt too wide) in paragraph at lines 315--315
+[4]
+Overfull \hbox (1.90372pt too wide) in paragraph at lines 316--316
 []\T1/ggm/m/n/10 Programming: 
  []
 
 
-Overfull \hbox (8.10364pt too wide) in paragraph at lines 316--316
+Overfull \hbox (8.10364pt too wide) in paragraph at lines 317--317
 []\T1/ggm/m/n/10 Software/Tools: 
  []
 
-<github.png, id=51, 64.24pt x 64.24pt>
+<github.png, id=56, 64.24pt x 64.24pt>
 File: github.png Graphic file (type png)
  <use github.png>
-Package pdftex.def Info: github.png used on input line 318.
+Package pdftex.def Info: github.png used on input line 319.
 (pdftex.def)             Requested size: 8.9994pt x 9.0pt.
 
-Overfull \hbox (148.08621pt too wide) in paragraph at lines 313--320
-[][] 
- []
-
-[4]
-Overfull \hbox (32.45378pt too wide) in paragraph at lines 328--345
+Overfull \hbox (148.08621pt too wide) in paragraph at lines 314--321
 [][] 
  []
 
 
-Overfull \hbox (32.45378pt too wide) in paragraph at lines 348--367
+Overfull \hbox (32.45378pt too wide) in paragraph at lines 329--346
 [][] 
  []
 
 
-Underfull \hbox (badness 1325) in paragraph at lines 383--384
+Overfull \hbox (32.45378pt too wide) in paragraph at lines 349--368
+[][] 
+ []
+
+
+Underfull \hbox (badness 1325) in paragraph at lines 384--385
 []\T1/ggm/m/it/10 Val $[]$ - Slovene ra-dio sta-tion \T1/ggm/m/n/10 ``The Arc-t
 ic is rapidly melt-ing''
  []
 
 
-Underfull \hbox (badness 2781) in paragraph at lines 407--408
+Underfull \hbox (badness 2781) in paragraph at lines 408--409
 []\T1/ggm/m/it/10 The Wash-ing-ton Post, Cap-i-tal Weather Gang\T1/ggm/m/n/10 ,
  ```Be-yond the ex-
  []
 
 File: twitter.png Graphic file (type png)
 <use twitter.png>
-Package pdftex.def Info: twitter.png used on input line 422.
+Package pdftex.def Info: twitter.png used on input line 423.
 (pdftex.def)             Requested size: 8.99335pt x 9.0pt.
 
-Overfull \hbox (3.5462pt too wide) in paragraph at lines 378--424
+Overfull \hbox (3.5462pt too wide) in paragraph at lines 379--425
 [][]
  []
 
 
-Overfull \hbox (3.5462pt too wide) in paragraph at lines 378--424
+Overfull \hbox (3.5462pt too wide) in paragraph at lines 379--425
 []
  []
 
 
-Overfull \hbox (3.5462pt too wide) in paragraph at lines 378--424
+Overfull \hbox (3.5462pt too wide) in paragraph at lines 379--425
 [] 
  []
 
 [5 <./github.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 437.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 438.
  [6]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 437.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 438.
  (./ZLabe_CV.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 437.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 437.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 438.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 438.
 Package rerunfilecheck Info: File `ZLabe_CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
@@ -829,7 +829,7 @@ ri7.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></
 usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmtt10.pfb></usr/local/
 texlive/2015/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb></usr/local/te
 xlive/2015/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on ZLabe_CV.pdf (6 pages, 207509 bytes).
+Output written on ZLabe_CV.pdf (6 pages, 207781 bytes).
 PDF statistics:
  155 PDF objects out of 1000 (max. 8388607)
  130 compressed objects within 2 object streams
