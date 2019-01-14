@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  3 JAN 2019 12:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  14 JAN 2019 11:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -670,141 +670,141 @@ Underfull \hbox (badness 10000) in paragraph at lines 159--161
  []
 
 [2]
-Overfull \hbox (3.5462pt too wide) in paragraph at lines 198--209
+Overfull \hbox (3.5462pt too wide) in paragraph at lines 198--210
 [][] 
  []
 
 
-Overfull \hbox (3.5462pt too wide) in paragraph at lines 220--226
+Overfull \hbox (3.5462pt too wide) in paragraph at lines 221--227
 [] 
  []
 
 
-Overfull \hbox (3.5462pt too wide) in paragraph at lines 227--234
+Overfull \hbox (3.5462pt too wide) in paragraph at lines 228--235
 [] 
  []
 
 
-Underfull \hbox (badness 1400) in paragraph at lines 244--245
+Underfull \hbox (badness 1400) in paragraph at lines 245--246
 []\T1/ggm/m/it/10 Climate, Lit-er-acy, Em-pow-er-ment And iN-quiry (CLEAN)\T1/g
 gm/m/n/10 , Weather
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 245--246
+Underfull \hbox (badness 10000) in paragraph at lines 246--247
 []\T1/ggm/m/it/10 Orange County Re-gional Sci-ence Olympiad\T1/ggm/m/n/10 , Cli
 -mate Science-
  []
 
 
-Underfull \hbox (badness 7888) in paragraph at lines 246--247
+Underfull \hbox (badness 7888) in paragraph at lines 247--248
 []\T1/ggm/m/it/10 Climate, Lit-er-acy, Em-pow-er-ment And iN-quiry (CLEAN)\T1/g
 gm/m/n/10 , The
  []
 
 
-Overfull \hbox (3.5462pt too wide) in paragraph at lines 235--261
+Overfull \hbox (3.5462pt too wide) in paragraph at lines 236--262
 []
  []
 
 
-Overfull \hbox (3.5462pt too wide) in paragraph at lines 235--261
+Overfull \hbox (3.5462pt too wide) in paragraph at lines 236--262
 [] 
  []
 
 [3]
-Overfull \hbox (3.5462pt too wide) in paragraph at lines 268--277
+Overfull \hbox (3.5462pt too wide) in paragraph at lines 269--278
 [][] 
  []
 
 
-Overfull \hbox (3.5462pt too wide) in paragraph at lines 278--286
+Overfull \hbox (3.5462pt too wide) in paragraph at lines 279--287
 [] 
  []
 
 
-Overfull \hbox (3.5462pt too wide) in paragraph at lines 289--294
+Overfull \hbox (3.5462pt too wide) in paragraph at lines 290--295
 [] 
  []
 
 
-Overfull \hbox (3.5462pt too wide) in paragraph at lines 295--301
+Overfull \hbox (3.5462pt too wide) in paragraph at lines 296--302
 [] 
  []
 
 
-Overfull \hbox (3.5462pt too wide) in paragraph at lines 302--310
+Overfull \hbox (3.5462pt too wide) in paragraph at lines 303--311
 [] 
  []
 
 [4]
-Overfull \hbox (1.90372pt too wide) in paragraph at lines 316--316
+Overfull \hbox (1.90372pt too wide) in paragraph at lines 317--317
 []\T1/ggm/m/n/10 Programming: 
  []
 
 
-Overfull \hbox (8.10364pt too wide) in paragraph at lines 317--317
+Overfull \hbox (8.10364pt too wide) in paragraph at lines 318--318
 []\T1/ggm/m/n/10 Software/Tools: 
  []
 
 <github.png, id=56, 64.24pt x 64.24pt>
 File: github.png Graphic file (type png)
  <use github.png>
-Package pdftex.def Info: github.png used on input line 319.
+Package pdftex.def Info: github.png used on input line 320.
 (pdftex.def)             Requested size: 8.9994pt x 9.0pt.
 
-Overfull \hbox (148.08621pt too wide) in paragraph at lines 314--321
+Overfull \hbox (148.08621pt too wide) in paragraph at lines 315--322
 [][] 
  []
 
 
-Overfull \hbox (32.45378pt too wide) in paragraph at lines 329--346
+Overfull \hbox (32.45378pt too wide) in paragraph at lines 330--347
 [][] 
  []
 
 
-Overfull \hbox (32.45378pt too wide) in paragraph at lines 349--368
+Overfull \hbox (32.45378pt too wide) in paragraph at lines 350--369
 [][] 
  []
 
 
-Underfull \hbox (badness 1325) in paragraph at lines 384--385
+Underfull \hbox (badness 1325) in paragraph at lines 385--386
 []\T1/ggm/m/it/10 Val $[]$ - Slovene ra-dio sta-tion \T1/ggm/m/n/10 ``The Arc-t
 ic is rapidly melt-ing''
  []
 
 
-Underfull \hbox (badness 2781) in paragraph at lines 408--409
+Underfull \hbox (badness 2781) in paragraph at lines 409--410
 []\T1/ggm/m/it/10 The Wash-ing-ton Post, Cap-i-tal Weather Gang\T1/ggm/m/n/10 ,
  ```Be-yond the ex-
  []
 
 File: twitter.png Graphic file (type png)
 <use twitter.png>
-Package pdftex.def Info: twitter.png used on input line 423.
+Package pdftex.def Info: twitter.png used on input line 424.
 (pdftex.def)             Requested size: 8.99335pt x 9.0pt.
 
-Overfull \hbox (3.5462pt too wide) in paragraph at lines 379--425
+Overfull \hbox (3.5462pt too wide) in paragraph at lines 380--426
 [][]
  []
 
 
-Overfull \hbox (3.5462pt too wide) in paragraph at lines 379--425
+Overfull \hbox (3.5462pt too wide) in paragraph at lines 380--426
 []
  []
 
 
-Overfull \hbox (3.5462pt too wide) in paragraph at lines 379--425
+Overfull \hbox (3.5462pt too wide) in paragraph at lines 380--426
 [] 
  []
 
 [5 <./github.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 438.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 439.
  [6]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 438.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 439.
  (./ZLabe_CV.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 438.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 438.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 439.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 439.
 Package rerunfilecheck Info: File `ZLabe_CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
@@ -829,7 +829,7 @@ ri7.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></
 usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmtt10.pfb></usr/local/
 texlive/2015/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb></usr/local/te
 xlive/2015/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on ZLabe_CV.pdf (6 pages, 207781 bytes).
+Output written on ZLabe_CV.pdf (6 pages, 208043 bytes).
 PDF statistics:
  155 PDF objects out of 1000 (max. 8388607)
  130 compressed objects within 2 object streams
