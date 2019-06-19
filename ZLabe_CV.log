@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  14 JUN 2019 10:05
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.5.24)  18 JUN 2019 21:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -251,8 +251,324 @@ Package: bm 2014/10/28 v1.1c Bold Symbol Support (DPC/FMi)
 \symboldsymbols=\mathgroup8
 LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
 LaTeX Info: Redefining \bm on input line 207.
-) (./garamond.sty{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdf
-tex.map}{ggm.map})
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/fontspec/fontspec.sty
+Package: fontspec 2015/03/14 v2.4c Font selection for XeLaTeX and LuaLaTeX
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2015/03/01 v5547 L3 programming layer (loader) 
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+Package: expl3 2015/03/01 v5547 L3 programming layer (code) 
+L3 Module: l3bootstrap 2015/02/28 v5542 L3 Bootstrap code
+L3 Module: l3names 2015/02/24 v5535 L3 Namespace for primitives
+L3 Module: l3basics 2015/01/27 v5500 L3 Basic definitions
+L3 Module: l3expan 2014/11/27 v5472 L3 Argument expansion
+L3 Module: l3tl 2015/01/27 v5500 L3 Token lists
+L3 Module: l3str 2015/03/01 v5545 L3 Strings
+L3 Module: l3seq 2014/08/23 v5354 L3 Sequences and stacks
+L3 Module: l3int 2015/02/21 v5529 L3 Integers
+\c_max_int=\count128
+\l_tmpa_int=\count129
+\l_tmpb_int=\count130
+\g_tmpa_int=\count131
+\g_tmpb_int=\count132
+L3 Module: l3quark 2014/08/23 v5354 L3 Quarks
+L3 Module: l3prg 2014/08/23 v5354 L3 Control structures
+\g__prg_map_int=\count133
+L3 Module: l3clist 2014/08/23 v5354 L3 Comma separated lists
+L3 Module: l3token 2014/09/15 v5422 L3 Experimental token manipulation
+L3 Module: l3prop 2014/08/23 v5354 L3 Property lists
+L3 Module: l3msg 2015/02/26 v5537 L3 Messages
+L3 Module: l3file 2014/08/24 v5369 L3 File and I/O operations
+\l_iow_line_count_int=\count134
+\l__iow_target_count_int=\count135
+\l__iow_current_line_int=\count136
+\l__iow_current_word_int=\count137
+\l__iow_current_indentation_int=\count138
+L3 Module: l3skip 2014/08/23 v5354 L3 Dimensions and skips
+\c_zero_dim=\dimen116
+\c_max_dim=\dimen117
+\l_tmpa_dim=\dimen118
+\l_tmpb_dim=\dimen119
+\g_tmpa_dim=\dimen120
+\g_tmpb_dim=\dimen121
+\c_zero_skip=\skip51
+\c_max_skip=\skip52
+\l_tmpa_skip=\skip53
+\l_tmpb_skip=\skip54
+\g_tmpa_skip=\skip55
+\g_tmpb_skip=\skip56
+\c_zero_muskip=\muskip11
+\c_max_muskip=\muskip12
+\l_tmpa_muskip=\muskip13
+\l_tmpb_muskip=\muskip14
+\g_tmpa_muskip=\muskip15
+\g_tmpb_muskip=\muskip16
+L3 Module: l3keys 2015/01/27 v5500 L3 Key-value interfaces
+\g__keyval_level_int=\count139
+\l_keys_choice_int=\count140
+L3 Module: l3fp 2014/08/22 v5336 L3 Floating points
+\c__fp_leading_shift_int=\count141
+\c__fp_middle_shift_int=\count142
+\c__fp_trailing_shift_int=\count143
+\c__fp_big_leading_shift_int=\count144
+\c__fp_big_middle_shift_int=\count145
+\c__fp_big_trailing_shift_int=\count146
+\c__fp_Bigg_leading_shift_int=\count147
+\c__fp_Bigg_middle_shift_int=\count148
+\c__fp_Bigg_trailing_shift_int=\count149
+L3 Module: l3box 2014/08/23 v5354 L3 Experimental boxes
+\c_empty_box=\box29
+\l_tmpa_box=\box30
+\l_tmpb_box=\box31
+\g_tmpa_box=\box32
+\g_tmpb_box=\box33
+L3 Module: l3coffins 2014/08/23 v5354 L3 Coffin code layer
+\l__coffin_internal_box=\box34
+\l__coffin_internal_dim=\dimen122
+\l__coffin_offset_x_dim=\dimen123
+\l__coffin_offset_y_dim=\dimen124
+\l__coffin_x_dim=\dimen125
+\l__coffin_y_dim=\dimen126
+\l__coffin_x_prime_dim=\dimen127
+\l__coffin_y_prime_dim=\dimen128
+\c_empty_coffin=\box35
+\l__coffin_aligned_coffin=\box36
+\l__coffin_aligned_internal_coffin=\box37
+\l_tmpa_coffin=\box38
+\l_tmpb_coffin=\box39
+\l__coffin_display_coffin=\box40
+\l__coffin_display_coord_coffin=\box41
+\l__coffin_display_pole_coffin=\box42
+\l__coffin_display_offset_dim=\dimen129
+\l__coffin_display_x_dim=\dimen130
+\l__coffin_display_y_dim=\dimen131
+L3 Module: l3color 2014/08/23 v5354 L3 Experimental color support
+L3 Module: l3candidates 2015/03/01 v5544 L3 Experimental additions to l3kernel
+\l__box_top_dim=\dimen132
+\l__box_bottom_dim=\dimen133
+\l__box_left_dim=\dimen134
+\l__box_right_dim=\dimen135
+\l__box_top_new_dim=\dimen136
+\l__box_bottom_new_dim=\dimen137
+\l__box_left_new_dim=\dimen138
+\l__box_right_new_dim=\dimen139
+\l__box_internal_box=\box43
+\l__coffin_bounding_shift_dim=\dimen140
+\l__coffin_left_corner_dim=\dimen141
+\l__coffin_right_corner_dim=\dimen142
+\l__coffin_bottom_corner_dim=\dimen143
+\l__coffin_top_corner_dim=\dimen144
+\l__coffin_scaled_total_height_dim=\dimen145
+\l__coffin_scaled_width_dim=\dimen146
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/l3kernel/l3unicode-data.def
+File: l3unicode-data.def 2015/03/01 v5544 L3 Unicode data
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def
+File: l3xdvidpfmx.def 2015/03/01 v5544 L3 Experimental driver: xdvipdfmx
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2014/11/25 v5471 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count150
+\l__xparse_m_args_int=\count151
+\l__xparse_mandatory_args_int=\count152
+\l__xparse_processor_int=\count153
+\l__xparse_v_nesting_int=\count154
+)
+\l_fontspec_script_int=\count155
+\l_fontspec_language_int=\count156
+\l_fontspec_strnum_int=\count157
+\l__fontspec_tmpa_dim=\dimen147
+\l__fontspec_tmpb_dim=\dimen148
+\l__fontspec_tmpc_dim=\dimen149
+Variant \tl_gset:cV already defined; not changing it on line 71
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/fontspec/fontspec-patches.sty
+Package: fontspec-patches 2015/03/14 v2.4c Font selection for XeLaTeX and LuaLa
+TeX
+LaTeX Info: Redefining \em on input line 49.
+LaTeX Info: Redefining \emph on input line 57.
+LaTeX Info: Redefining \- on input line 60.
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \oldstylenums with sig. 'm' on line 155.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \liningnums with sig. 'm' on line 159.
+.................................................
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2015/03/14 v2.4c Font selection for XeLaTeX and LuaLaTe
+X
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/euenc/eu1enc.def
+File: eu1enc.def 2010/05/27 v0.1h Experimental Unicode font encodings
+)
+LaTeX Font Info:    Try loading font information for EU1+lmr on input line 105.
+
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/euenc/eu1lmr.fd
+File: eu1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+))
+(/usr/local/texlive/2015/texmf-dist/tex/xelatex/xunicode/xunicode.sty
+File: xunicode.sty 2011/09/09 v0.981 provides access to latin accents and many 
+other characters in Unicode lower plane
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/tipa/t3enc.def
+File: t3enc.def 2001/12/31 T3 encoding
+LaTeX Font Info:    Try loading font information for EU1+lmss on input line 357
+.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/euenc/eu1lmss.fd
+File: eu1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
+))
+\tipaTiiicode=\count158
+\tipasavetokens=\toks36
+\tipachecktokens=\toks37
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: xetex.def on input line 94.
+
+(/usr/local/texlive/2015/texmf-dist/tex/xelatex/xetex-def/xetex.def
+File: xetex.def 2015/03/25 v4.04 LaTeX color/graphics driver for XeTeX (TeX Liv
+e/RRM/JK)
+))
+\Gin@req@height=\dimen150
+\Gin@req@width=\dimen151
+))
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \__fontspec_post_arg:w with sig. 'mmO{}' on line 42.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \fontspec with sig. 'om' on line 44.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmainfont with sig. 'om' on line 54.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setsansfont with sig. 'om' on line 64.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmonofont with sig. 'om' on line 74.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmathrm with sig. 'om' on line 88.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setboldmathrm with sig. 'om' on line 96.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmathsf with sig. 'om' on line 104.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmathtt with sig. 'om' on line 112.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontfamily with sig. 'mom' on line 126.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontface with sig. 'mom' on line 141.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \defaultfontfeatures with sig. 't+om' on line 155.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \addfontfeatures with sig. 'm' on line 210.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontfeature with sig. 'mm' on line 221.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newAATfeature with sig. 'mmmm' on line 229.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newopentypefeature with sig. 'mmm' on line 237.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \aliasfontfeature with sig. 'mm' on line 261.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \aliasfontfeatureoption with sig. 'mmm' on line 270.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontscript with sig. 'mm' on line 275.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontlanguage with sig. 'mm' on line 301.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareFontsExtensions with sig. 'm' on line 321.
+.................................................
+Variant \prop_gput:cnV already defined; not changing it on line 704
+Variant \prop_gput:cnx already defined; not changing it on line 705
+\l__fontspec_tmp_int=\count159
+LaTeX Info: Redefining \itshape on input line 2232.
+LaTeX Info: Redefining \slshape on input line 2237.
+LaTeX Info: Redefining \scshape on input line 2242.
+LaTeX Info: Redefining \upshape on input line 2247.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/pifont.sty
 Package: pifont 2005/04/12 PSNFSS-v9.2a Pi font support (SPQR) 
 LaTeX Font Info:    Try loading font information for U+pzd on input line 63.
@@ -265,16 +581,341 @@ LaTeX Font Info:    Try loading font information for U+psy on input line 64.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/upsy.fd
 File: upsy.fd 2001/06/04 font definitions for U/psy.
 ))
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/inputenc.sty
-Package: inputenc 2015/03/17 v1.2c Input encoding file
-\inpenc@prehook=\toks36
-\inpenc@posthook=\toks37
+(/usr/local/texlive/2015/texmf-dist/tex/latex/raleway/raleway.sty
+Package: raleway 2015/01/11 v1.3 Matt McInerney’s Raleway family
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/latin1.def
-File: latin1.def 2015/03/17 v1.2c Input encoding file
-))
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+\g__file_internal_ior=\read1
+\g__fontspec_family_Raleway_int=\count160
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Raleway(0)' created for font 'Raleway' with options [Ligatures
+. = TeX,Numbers = Lining,Scale = 1,Extension = .otf,Ligatures=TeX,UprightFont
+. = *-Regular,BoldFont = *-Bold].
+. 
+. This font family consists of the following shapes:
+. 
+. * 'normal' with NFSS spec.:
+. 
+. <->s*[1]"[Raleway-Regular.otf]/OT:script=latn;language=DFLT;mapping=tex-text;
++lnum;mapping=tex-text;"
+. 
+. * 'small caps' with NFSS spec.:
+. 
+. <->s*[1]"[Raleway-Regular.otf]/OT:script=latn;language=DFLT;mapping=tex-text;
++lnum;mapping=tex-text;+smcp;"
+. and font adjustment code:
+. 
+. 
+. * 'bold' with NFSS spec.:
+. 
+. <->s*[1]"[Raleway-Bold.otf]/OT:script=latn;language=DFLT;mapping=tex-text;+ln
+um;mapping=tex-text;"
+. 
+. * 'bold small caps' with NFSS spec.:
+. 
+. <->s*[1]"[Raleway-Bold.otf]/OT:script=latn;language=DFLT;mapping=tex-text;+ln
+um;mapping=tex-text;+smcp;"
+. and font adjustment code:
+. 
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Raleway(1)' created for font 'Raleway' with options [Ligatures
+. = TeX,Numbers = Lining,Scale = 1,Extension = .otf,UprightFont =
+. *-Regular,ItalicFont = *-Regular-Italic,BoldFont = *-Bold,BoldItalicFont =
+. *-Bold-Italic].
+. 
+. This font family consists of the following shapes:
+. 
+. * 'normal' with NFSS spec.:
+. 
+. <->s*[1]"[Raleway-Regular.otf]/OT:script=latn;language=DFLT;mapping=tex-text;
++lnum;"
+. 
+. * 'small caps' with NFSS spec.:
+. 
+. <->s*[1]"[Raleway-Regular.otf]/OT:script=latn;language=DFLT;mapping=tex-text;
++lnum;+smcp;"
+. and font adjustment code:
+. 
+. 
+. * 'bold' with NFSS spec.:
+. 
+. <->s*[1]"[Raleway-Bold.otf]/OT:script=latn;language=DFLT;mapping=tex-text;+ln
+um;"
+. 
+. * 'bold small caps' with NFSS spec.:
+. 
+. <->s*[1]"[Raleway-Bold.otf]/OT:script=latn;language=DFLT;mapping=tex-text;+ln
+um;+smcp;"
+. and font adjustment code:
+. 
+. 
+. * 'italic' with NFSS spec.:
+. 
+. <->s*[1]"[Raleway-Regular-Italic.otf]/OT:script=latn;language=DFLT;mapping=te
+x-text;+lnum;"
+. 
+. * 'small caps' with NFSS spec.:
+. 
+. <->s*[1]"[Raleway-Regular-Italic.otf]/OT:script=latn;language=DFLT;mapping=te
+x-text;+lnum;+smcp;"
+. and font adjustment code:
+. 
+. 
+. * 'bold italic' with NFSS spec.:
+. 
+. <->s*[1]"[Raleway-Bold-Italic.otf]/OT:script=latn;language=DFLT;mapping=tex-t
+ext;+lnum;"
+. 
+. * 'bold small caps' with NFSS spec.:
+. 
+. <->s*[1]"[Raleway-Bold-Italic.otf]/OT:script=latn;language=DFLT;mapping=tex-t
+ext;+lnum;+smcp;"
+. and font adjustment code:
+. 
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Raleway(2)' created for font 'Raleway' with options [Ligatures
+. = TeX,Numbers = Lining,Scale = 1,Extension = .otf,UprightFont =
+. *-Medium,ItalicFont = *-Medium-Italic,BoldFont = *-Bold,BoldItalicFont =
+. *-Bold-Italic].
+. 
+. This font family consists of the following shapes:
+. 
+. * 'normal' with NFSS spec.:
+. 
+. <->s*[1]"[Raleway-Medium.otf]/OT:script=latn;language=DFLT;mapping=tex-text;+
+lnum;"
+. 
+. * 'small caps' with NFSS spec.:
+. 
+. <->s*[1]"[Raleway-Medium.otf]/OT:script=latn;language=DFLT;mapping=tex-text;+
+lnum;+smcp;"
+. and font adjustment code:
+. 
+. 
+. * 'bold' with NFSS spec.:
+. 
+. <->s*[1]"[Raleway-Bold.otf]/OT:script=latn;language=DFLT;mapping=tex-text;+ln
+um;"
+. 
+. * 'bold small caps' with NFSS spec.:
+. 
+. <->s*[1]"[Raleway-Bold.otf]/OT:script=latn;language=DFLT;mapping=tex-text;+ln
+um;+smcp;"
+. and font adjustment code:
+. 
+. 
+. * 'italic' with NFSS spec.:
+. 
+. <->s*[1]"[Raleway-Medium-Italic.otf]/OT:script=latn;language=DFLT;mapping=tex
+-text;+lnum;"
+. 
+. * 'small caps' with NFSS spec.:
+. 
+. <->s*[1]"[Raleway-Medium-Italic.otf]/OT:script=latn;language=DFLT;mapping=tex
+-text;+lnum;+smcp;"
+. and font adjustment code:
+. 
+. 
+. * 'bold italic' with NFSS spec.:
+. 
+. <->s*[1]"[Raleway-Bold-Italic.otf]/OT:script=latn;language=DFLT;mapping=tex-t
+ext;+lnum;"
+. 
+. * 'bold small caps' with NFSS spec.:
+. 
+. <->s*[1]"[Raleway-Bold-Italic.otf]/OT:script=latn;language=DFLT;mapping=tex-t
+ext;+lnum;+smcp;"
+. and font adjustment code:
+. 
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Raleway(3)' created for font 'Raleway' with options [Ligatures
+. = TeX,Numbers = Lining,Scale = 1,Extension = .otf,UprightFont =
+. *-Light,ItalicFont = *-Light-Italic,BoldFont = *-SemiBold,BoldItalicFont =
+. *-SemiBold-Italic].
+. 
+. This font family consists of the following shapes:
+. 
+. * 'normal' with NFSS spec.:
+. 
+. <->s*[1]"[Raleway-Light.otf]/OT:script=latn;language=DFLT;mapping=tex-text;+l
+num;"
+. 
+. * 'small caps' with NFSS spec.:
+. 
+. <->s*[1]"[Raleway-Light.otf]/OT:script=latn;language=DFLT;mapping=tex-text;+l
+num;+smcp;"
+. and font adjustment code:
+. 
+. 
+. * 'bold' with NFSS spec.:
+. 
+. <->s*[1]"[Raleway-SemiBold.otf]/OT:script=latn;language=DFLT;mapping=tex-text
+;+lnum;"
+. 
+. * 'bold small caps' with NFSS spec.:
+. 
+. <->s*[1]"[Raleway-SemiBold.otf]/OT:script=latn;language=DFLT;mapping=tex-text
+;+lnum;+smcp;"
+. and font adjustment code:
+. 
+. 
+. * 'italic' with NFSS spec.:
+. 
+. <->s*[1]"[Raleway-Light-Italic.otf]/OT:script=latn;language=DFLT;mapping=tex-
+text;+lnum;"
+. 
+. * 'small caps' with NFSS spec.:
+. 
+. <->s*[1]"[Raleway-Light-Italic.otf]/OT:script=latn;language=DFLT;mapping=tex-
+text;+lnum;+smcp;"
+. and font adjustment code:
+. 
+. 
+. * 'bold italic' with NFSS spec.:
+. 
+. <->s*[1]"[Raleway-SemiBold-Italic.otf]/OT:script=latn;language=DFLT;mapping=t
+ex-text;+lnum;"
+. 
+. * 'bold small caps' with NFSS spec.:
+. 
+. <->s*[1]"[Raleway-SemiBold-Italic.otf]/OT:script=latn;language=DFLT;mapping=t
+ex-text;+lnum;+smcp;"
+. and font adjustment code:
+. 
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Raleway(4)' created for font 'Raleway' with options [Ligatures
+. = TeX,Numbers = Lining,Scale = 1,Extension = .otf,UprightFont =
+. *-Thin,ItalicFont = *-Thin-Italic,BoldFont = *-Black,BoldItalicFont =
+. *-Black-Italic].
+. 
+. This font family consists of the following shapes:
+. 
+. * 'normal' with NFSS spec.:
+. 
+. <->s*[1]"[Raleway-Thin.otf]/OT:script=latn;language=DFLT;mapping=tex-text;+ln
+um;"
+. 
+. * 'small caps' with NFSS spec.:
+. 
+. <->s*[1]"[Raleway-Thin.otf]/OT:script=latn;language=DFLT;mapping=tex-text;+ln
+um;+smcp;"
+. and font adjustment code:
+. 
+. 
+. * 'bold' with NFSS spec.:
+. 
+. <->s*[1]"[Raleway-Black.otf]/OT:script=latn;language=DFLT;mapping=tex-text;+l
+num;"
+. 
+. * 'bold small caps' with NFSS spec.:
+. 
+. <->s*[1]"[Raleway-Black.otf]/OT:script=latn;language=DFLT;mapping=tex-text;+l
+num;+smcp;"
+. and font adjustment code:
+. 
+. 
+. * 'italic' with NFSS spec.:
+. 
+. <->s*[1]"[Raleway-Thin-Italic.otf]/OT:script=latn;language=DFLT;mapping=tex-t
+ext;+lnum;"
+. 
+. * 'small caps' with NFSS spec.:
+. 
+. <->s*[1]"[Raleway-Thin-Italic.otf]/OT:script=latn;language=DFLT;mapping=tex-t
+ext;+lnum;+smcp;"
+. and font adjustment code:
+. 
+. 
+. * 'bold italic' with NFSS spec.:
+. 
+. <->s*[1]"[Raleway-Black-Italic.otf]/OT:script=latn;language=DFLT;mapping=tex-
+text;+lnum;"
+. 
+. * 'bold small caps' with NFSS spec.:
+. 
+. <->s*[1]"[Raleway-Black-Italic.otf]/OT:script=latn;language=DFLT;mapping=tex-
+text;+lnum;+smcp;"
+. and font adjustment code:
+. 
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Raleway(5)' created for font 'Raleway' with options [Ligatures
+. = TeX,Numbers = Lining,Scale = 1,Extension = .otf,UprightFont =
+. *-ExtraLight,ItalicFont = *-ExtraLight-Italic,BoldFont =
+. *-ExtraBold,BoldItalicFont = *-ExtraBold-Italic].
+. 
+. This font family consists of the following shapes:
+. 
+. * 'normal' with NFSS spec.:
+. 
+. <->s*[1]"[Raleway-ExtraLight.otf]/OT:script=latn;language=DFLT;mapping=tex-te
+xt;+lnum;"
+. 
+. * 'small caps' with NFSS spec.:
+. 
+. <->s*[1]"[Raleway-ExtraLight.otf]/OT:script=latn;language=DFLT;mapping=tex-te
+xt;+lnum;+smcp;"
+. and font adjustment code:
+. 
+. 
+. * 'bold' with NFSS spec.:
+. 
+. <->s*[1]"[Raleway-ExtraBold.otf]/OT:script=latn;language=DFLT;mapping=tex-tex
+t;+lnum;"
+. 
+. * 'bold small caps' with NFSS spec.:
+. 
+. <->s*[1]"[Raleway-ExtraBold.otf]/OT:script=latn;language=DFLT;mapping=tex-tex
+t;+lnum;+smcp;"
+. and font adjustment code:
+. 
+. 
+. * 'italic' with NFSS spec.:
+. 
+. <->s*[1]"[Raleway-ExtraLight-Italic.otf]/OT:script=latn;language=DFLT;mapping
+=tex-text;+lnum;"
+. 
+. * 'small caps' with NFSS spec.:
+. 
+. <->s*[1]"[Raleway-ExtraLight-Italic.otf]/OT:script=latn;language=DFLT;mapping
+=tex-text;+lnum;+smcp;"
+. and font adjustment code:
+. 
+. 
+. * 'bold italic' with NFSS spec.:
+. 
+. <->s*[1]"[Raleway-ExtraBold-Italic.otf]/OT:script=latn;language=DFLT;mapping=
+tex-text;+lnum;"
+. 
+. * 'bold small caps' with NFSS spec.:
+. 
+. <->s*[1]"[Raleway-ExtraBold-Italic.otf]/OT:script=latn;language=DFLT;mapping=
+tex-text;+lnum;+smcp;"
+. and font adjustment code:
+. 
+.................................................
+)
 (/usr/local/texlive/2015/texmf-dist/tex/latex/url/url.sty
-\Urlmuskip=\muskip11
+\Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/marvosym/marvosym.sty
@@ -282,15 +923,15 @@ Package: marvosym 2011/07/20 v2.2 Martin Vogel's Symbols font definitions
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/etaremune/etaremune.sty
 Package: etaremune 2005/06/01 v1.2 Reversed enumerate (HA)
-\c@EM@itemctr=\count128
-\c@EM@etaremunectr=\count129
+\c@EM@itemctr=\count161
+\c@EM@etaremunectr=\count162
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/dtk/dtklogos.sty
 Package: dtklogos 2014/11/15 v2.2 LaTeX wrapper for `hologo' (RN,HV)
 
 (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
-Package ifpdf Info: pdfTeX in PDF mode is detected.
+Package ifpdf Info: pdfTeX in PDF mode is not detected.
 )
 (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/hologo.sty
 Package: hologo 2012/04/26 v1.10 A logo collection with bookmark support (HO)
@@ -306,11 +947,6 @@ Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
 
 (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/etexcmds.sty
 Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
-
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifluatex.sty
-Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
-)
 Package etexcmds Info: Could not find \expanded.
 (etexcmds)             That can mean that you are not using pdfTeX 1.50 or
 (etexcmds)             that some package has redefined \expanded.
@@ -323,40 +959,15 @@ Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: pdfTeX >= 1.30 not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
+Package pdftexcmds Info: \pdfdraftmode not found.
 )
 (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifvtex.sty
 Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
-)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
-Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
-)
-Package hologo Info: Using driver `pdftex'.
-))
-(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty
-Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
-)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
-File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
-)
-Package graphics Info: Driver file: pdftex.def on input line 94.
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/pdftex-def/pdftex.def
-File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
-\Gread@gobject=\count130
-))
-\Gin@req@height=\dimen116
-\Gin@req@width=\dimen117
-)
+)))
 (/usr/local/texlive/2015/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
 
@@ -364,9 +975,8 @@ Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package xcolor Info: Package option `usenames' ignored on input line 216.
-Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Driver file: xetex.def on input line 225.
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
 Package xcolor Info: Model `RGB' extended on input line 1353.
 Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
 Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
@@ -416,14 +1026,17 @@ Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
 (/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/auxhook.sty
 Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
 )
-\@linkdim=\dimen118
-\Hy@linkcounter=\count131
-\Hy@pagecounter=\count132
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen152
+\Hy@linkcounter=\count163
+\Hy@pagecounter=\count164
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
 )
-\Hy@SavedSpaceFactor=\count133
+\Hy@SavedSpaceFactor=\count165
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
@@ -436,12 +1049,12 @@ Package hyperref Info: Plain pages OFF on input line 4458.
 Package hyperref Info: Backreferencing OFF on input line 4463.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4688.
-\c@Hy@tempcnt=\count134
+\c@Hy@tempcnt=\count166
 LaTeX Info: Redefining \url on input line 5041.
-\XeTeXLinkMargin=\dimen119
-\Fld@menulength=\count135
-\Field@Width=\dimen120
-\Fld@charsize=\dimen121
+\XeTeXLinkMargin=\dimen153
+\Fld@menulength=\count167
+\Field@Width=\dimen154
+\Fld@charsize=\dimen155
 Package hyperref Info: Hyper figures OFF on input line 6295.
 Package hyperref Info: Link nesting OFF on input line 6300.
 Package hyperref Info: Hyper index ON on input line 6303.
@@ -451,40 +1064,53 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6320.
 Package hyperref Info: PDF/A mode OFF on input line 6325.
 LaTeX Info: Redefining \ref on input line 6365.
 LaTeX Info: Redefining \pageref on input line 6369.
-\Hy@abspage=\count136
-\c@Item=\count137
-\c@Hfootnote=\count138
+\Hy@abspage=\count168
+\c@Item=\count169
+\c@Hfootnote=\count170
 )
 
-Package hyperref Message: Driver (autodetected): hpdftex.
+Package hyperref Message: Driver (autodetected): hxetex.
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
-\Fld@listcount=\count139
-\c@bookmark@seq@number=\count140
+(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2012/11/06 v6.83m Hyperref driver for XeTeX
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2012/11/06 v6.83m Hyperref: PDF Unicode definition (HO)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/stringenc.sty
+Package: stringenc 2011/12/02 v1.10 Convert strings between diff. encodings (HO
+)
+)
+\pdfm@box=\box44
+\c@Hy@AnnotLevel=\count171
+\HyField@AnnotCount=\count172
+\Fld@listcount=\count173
+\c@bookmark@seq@number=\count174
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
-82.
-)
-\Hy@SectionHShift=\skip51
-)
-LaTeX Font Info:    Try loading font information for T1+ggm on input line 28.
+Package rerunfilecheck Info: Feature \pdfmdfivesum is not available
+(rerunfilecheck)             (e.g. pdfTeX or LuaTeX with package `pdftexcmds').
 
-(./t1ggm.fd
-File: t1ggm.fd 2005/01/13 Fontinst v1.927 font definitions for T1/ggm.
+(rerunfilecheck)             Therefore file contents cannot be checked efficien
+tly
+(rerunfilecheck)             and the loading of the package is aborted.
 )
+\Hy@SectionHShift=\skip57
+)
+LaTeX Font Info:    Font shape `EU1/Raleway(4)/m/n' will be
+(Font)              scaled to size 10.0pt on input line 30.
+
 (/usr/local/texlive/2015/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-\fancy@headwidth=\skip52
-\f@ncyO@elh=\skip53
-\f@ncyO@erh=\skip54
-\f@ncyO@olh=\skip55
-\f@ncyO@orh=\skip56
-\f@ncyO@elf=\skip57
-\f@ncyO@erf=\skip58
-\f@ncyO@olf=\skip59
-\f@ncyO@orf=\skip60
+\fancy@headwidth=\skip58
+\f@ncyO@elh=\skip59
+\f@ncyO@erh=\skip60
+\f@ncyO@olh=\skip61
+\f@ncyO@orh=\skip62
+\f@ncyO@elf=\skip63
+\f@ncyO@erf=\skip64
+\f@ncyO@olf=\skip65
+\f@ncyO@orf=\skip66
 )
 
 LaTeX Warning: Unused global option(s):
@@ -493,51 +1119,34 @@ LaTeX Warning: Unused global option(s):
 (./ZLabe_CV.aux)
 \openout1 = `ZLabe_CV.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-
-(/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count141
-\scratchdimen=\dimen122
-\scratchbox=\box29
-\nofMPsegments=\count142
-\nofMParguments=\count143
-\everyMPshowfont=\toks38
-\MPscratchCnt=\count144
-\MPscratchDim=\dimen123
-\MPnumerator=\count145
-\makeMPintoPDFobject=\count146
-\everyMPtoPDFconversion=\toks39
-) (/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
-Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/grfext.sty
-Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 67.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 67.
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/tipa/t3cmr.fd
+File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-Package grfext Info: Graphics extension search list:
-(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 452.
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
-))
-\AtBeginShipoutBox=\box30
-Package hyperref Info: Link coloring ON on input line 65.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Font shape `EU1/Raleway(0)/m/n' will be
+(Font)              scaled to size 10.0pt on input line 67.
+\AtBeginShipoutBox=\box45
+Package hyperref Info: Link coloring ON on input line 67.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -545,318 +1154,362 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count147
+\c@section@level=\count175
 )
-LaTeX Info: Redefining \ref on input line 65.
-LaTeX Info: Redefining \pageref on input line 65.
-LaTeX Info: Redefining \nameref on input line 65.
+LaTeX Info: Redefining \ref on input line 67.
+LaTeX Info: Redefining \pageref on input line 67.
+LaTeX Info: Redefining \nameref on input line 67.
 
 (./ZLabe_CV.out) (./ZLabe_CV.out)
 \@outlinefile=\write3
 \openout3 = `ZLabe_CV.out'.
 
-LaTeX Font Info:    Font shape `T1/ggm/bx/n' in size <12> not available
-(Font)              Font shape `T1/ggm/b/n' tried instead on input line 69.
-LaTeX Font Info:    Font shape `T1/ggm/bx/n' in size <24.88> not available
-(Font)              Font shape `T1/ggm/b/n' tried instead on input line 69.
-LaTeX Font Info:    Font shape `T1/ggm/bx/n' in size <10> not available
-(Font)              Font shape `T1/ggm/b/n' tried instead on input line 71.
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 74.
+LaTeX Font Info:    Font shape `EU1/Raleway(1)/m/n' will be
+(Font)              scaled to size 10.0pt on input line 68.
+LaTeX Font Info:    Font shape `EU1/Raleway(1)/m/n' will be
+(Font)              scaled to size 12.0pt on input line 72.
+LaTeX Font Info:    Font shape `EU1/Raleway(0)/m/n' will be
+(Font)              scaled to size 12.0pt on input line 72.
+LaTeX Font Info:    Font shape `EU1/Raleway(0)/bx/n' will be
+(Font)              scaled to size 12.0pt on input line 72.
+LaTeX Font Info:    Font shape `EU1/Raleway(0)/bx/n' will be
+(Font)              scaled to size 24.88pt on input line 72.
+LaTeX Font Info:    Font shape `EU1/Raleway(3)/bx/n' will be
+(Font)              scaled to size 24.88pt on input line 72.
+LaTeX Font Info:    Font shape `EU1/Raleway(0)/bx/n' will be
+(Font)              scaled to size 10.0pt on input line 74.
+LaTeX Font Info:    Font shape `EU1/Raleway(0)/m/sc' will be
+(Font)              scaled to size 10.0pt on input line 74.
+LaTeX Font Info:    Font shape `EU1/Raleway(0)/m/sc' will be
+(Font)              scaled to size 12.0pt on input line 74.
+LaTeX Font Info:    Font shape `EU1/Raleway(0)/bx/sc' will be
+(Font)              scaled to size 12.0pt on input line 74.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 78.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 74.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 78.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 74.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 78.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 74.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 78.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 74.
+(Font)              <10> on input line 78.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 74.
+(Font)              <7> on input line 78.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 74.
-LaTeX Font Info:    Try loading font information for U+msa on input line 74.
+(Font)              <5> on input line 78.
+LaTeX Font Info:    Try loading font information for U+msa on input line 78.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 74.
+LaTeX Font Info:    Try loading font information for U+msb on input line 78.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+mvs on input line 75.
+LaTeX Font Info:    Try loading font information for U+mvs on input line 79.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/marvosym/umvs.fd)
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 77.
+LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 81.
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/lm/t1lmtt.fd
-File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/euenc/eu1lmtt.fd
+File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-<twitter.png, id=6, 628.3475pt x 628.3475pt>
-File: twitter.png Graphic file (type png)
- <use twitter.png>
-Package pdftex.def Info: twitter.png used on input line 78.
-(pdftex.def)             Requested size: 8.99335pt x 9.0pt.
+File: twitter.png Graphic file (type QTm)
 
-Overfull \hbox (72.2025pt too wide) in paragraph at lines 74--81
+<use  "twitter.png" >
+Overfull \hbox (72.2025pt too wide) in paragraph at lines 78--84
+[][] 
+ []
+
+LaTeX Font Info:    Font shape `EU1/Raleway(1)/m/it' will be
+(Font)              scaled to size 10.0pt on input line 115.
+LaTeX Font Info:    Font shape `EU1/Raleway(1)/bx/n' will be
+(Font)              scaled to size 10.0pt on input line 127.
+
+Underfull \hbox (badness 1292) in paragraph at lines 138--139
+\EU1/Raleway(1)/m/n/10 Earth System Temperature (BEST) reanalysis to understand
+
+ []
+
+
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 126--142
 [][] 
  []
 
 
-Overfull \hbox (4.26851pt too wide) in paragraph at lines 120--136
-[][] 
- []
+LaTeX Font Warning: Font shape `EU1/Raleway(0)/m/it' undefined
+(Font)              using `EU1/Raleway(0)/m/n' instead on input line 150.
 
-LaTeX Font Info:    Font shape `T1/ggm/bx/it' in size <10> not available
-(Font)              Font shape `T1/ggm/b/it' tried instead on input line 145.
-
-Underfull \hbox (badness 10000) in paragraph at lines 145--147
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 148--149
-
- []
-
-
-Overfull \hbox (17.07422pt too wide) in paragraph at lines 149--150
-\T1/ggm/m/n/10 ness us-ing PI-OMAS and the CESM Large En-sem-ble, Jour-nal of C
-li-mate, DOI:$\OT1/lmr/m/n/10 10\OML/lmm/m/it/10 :\OT1/lmr/m/n/10 1175$\T1/ggm/
-m/n/10 /JCLI-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 149--150
-
- []
-
+LaTeX Font Info:    Font shape `EU1/Raleway(0)/m/it' will be
+(Font)              scaled to size 8.0pt on input line 150.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <8> on input line 150.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 150.
-LaTeX Font Info:    Font shape `T1/ggm/bx/n' in size <8> not available
-(Font)              Font shape `T1/ggm/b/n' tried instead on input line 150.
+LaTeX Font Info:    Font shape `EU1/Raleway(0)/m/it' will be
+(Font)              scaled to size 6.0pt on input line 150.
+LaTeX Font Info:    Font shape `EU1/Raleway(0)/m/n' will be
+(Font)              scaled to size 8.0pt on input line 150.
+LaTeX Font Info:    Font shape `EU1/Raleway(0)/bx/n' will be
+(Font)              scaled to size 8.0pt on input line 150.
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
+File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
+
+)
 [1
 
- <./twitter.png>]
-Overfull \hbox (26.50484pt too wide) in paragraph at lines 150--151
-\T1/ggm/m/n/10 Spring On-sets in the CESM Large En-sem-ble Project, Cli-mate Dy
--nam-ics, DOI:$\OT1/lmr/m/n/10 10\OML/lmm/m/it/10 :\OT1/lmr/m/n/10 1007\OML/lmm
-/m/it/10 =$\T1/ggm/m/n/10 s$\OT1/lmr/m/n/10 00382$\T1/ggm/m/n/10 -
- []
+]
+LaTeX Font Info:    Font shape `EU1/Raleway(1)/bx/it' will be
+(Font)              scaled to size 10.0pt on input line 152.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 153--155
+Underfull \hbox (badness 10000) in paragraph at lines 152--154
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 160--162
+Overfull \hbox (2.4693pt too wide) in paragraph at lines 158--159
+\EU1/Raleway(1)/m/n/10 Spring Onsets in the CESM Large Ensemble Project, Climat
+e Dynamics, DOI:10.10
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--163
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--169
+
+ []
+
+LaTeX Font Info:    Font shape `EU1/Raleway(0)/m/it' will be
+(Font)              scaled to size 10.0pt on input line 190.
 [2]
-Overfull \hbox (3.5462pt too wide) in paragraph at lines 200--212
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 211--223
 [][] 
  []
 
 
-Overfull \hbox (3.5462pt too wide) in paragraph at lines 223--230
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 234--241
 [] 
  []
 
 
-Overfull \hbox (3.5462pt too wide) in paragraph at lines 231--238
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 242--249
 [] 
  []
 
 
-Underfull \hbox (badness 1400) in paragraph at lines 244--245
-[]\T1/ggm/m/it/10 Climate, Lit-er-acy, Em-pow-er-ment And iN-quiry (CLEAN)\T1/g
-gm/m/n/10 , Weather
+Underfull \hbox (badness 4193) in paragraph at lines 257--258
+[]\EU1/Raleway(1)/m/it/10 Climate, Literacy, Empowerment And iNquiry (CLEAN)\EU
+1/Raleway(1)/m/n/10 , The
+ []
+
+LaTeX Font Info:    Font shape `EU1/Raleway(1)/m/it' will be
+(Font)              scaled to size 7.0pt on input line 263.
+
+Underfull \hbox (badness 4193) in paragraph at lines 266--267
+[]\EU1/Raleway(1)/m/it/10 Climate, Literacy, Empowerment And iNquiry (CLEAN)\EU
+1/Raleway(1)/m/n/10 , The
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 245--246
-[]\T1/ggm/m/it/10 Orange County Re-gional Sci-ence Olympiad\T1/ggm/m/n/10 , Cli
--mate Science-
+Underfull \hbox (badness 2460) in paragraph at lines 269--270
+[]\EU1/Raleway(1)/m/it/10 NASA DIRECT-STEM Program\EU1/Raleway(1)/m/n/10 , Asse
+ssing a changing Arctic
  []
 
 
-Underfull \hbox (badness 7888) in paragraph at lines 246--247
-[]\T1/ggm/m/it/10 Climate, Lit-er-acy, Em-pow-er-ment And iN-quiry (CLEAN)\T1/g
-gm/m/n/10 , The
+Underfull \hbox (badness 1742) in paragraph at lines 273--274
+[]\EU1/Raleway(1)/m/it/10 Orange County Regional Science Olympiad\EU1/Raleway(1
+)/m/n/10 , Severe Storms-
  []
 
 
-Underfull \hbox (badness 1400) in paragraph at lines 255--256
-[]\T1/ggm/m/it/10 Climate, Lit-er-acy, Em-pow-er-ment And iN-quiry (CLEAN)\T1/g
-gm/m/n/10 , Weather
+Underfull \hbox (badness 1394) in paragraph at lines 278--279
+[]\EU1/Raleway(1)/m/it/10 NASA DIRECT-STEM Workshop\EU1/Raleway(1)/m/n/10 , Dat
+a and Analysis of Arctic
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 256--257
-[]\T1/ggm/m/it/10 Orange County Re-gional Sci-ence Olympiad\T1/ggm/m/n/10 , Cli
--mate Science-
+Underfull \hbox (badness 1616) in paragraph at lines 278--279
+\EU1/Raleway(1)/m/n/10 Climate Change in CMIP$\OT1/lmr/m/n/10 5$ \EU1/Raleway(1
+)/m/n/10 using Python (\EU1/Raleway(1)/bx/n/10 Instructor\EU1/Raleway(1)/m/n/10
+ ). [][][Syl-
  []
 
 
-Underfull \hbox (badness 7888) in paragraph at lines 257--258
-[]\T1/ggm/m/it/10 Climate, Lit-er-acy, Em-pow-er-ment And iN-quiry (CLEAN)\T1/g
-gm/m/n/10 , The
- []
-
-
-Overfull \hbox (3.5462pt too wide) in paragraph at lines 239--270
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 250--280
 []
  []
 
 
-Overfull \hbox (3.5462pt too wide) in paragraph at lines 239--270
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 250--280
 [] 
  []
 
 [3]
-Overfull \hbox (3.5462pt too wide) in paragraph at lines 277--286
-[][] 
- []
+Overfull \vbox (5.51717pt too high) has occurred while \output is active []
+
 
 [4]
-Overfull \hbox (3.5462pt too wide) in paragraph at lines 288--296
-[] 
+Underfull \hbox (badness 1496) in paragraph at lines 288--289
+[]\EU1/Raleway(1)/m/n/10 Student Board Member, American Meteorological Society’
+s
  []
 
 
-Overfull \hbox (3.5462pt too wide) in paragraph at lines 299--304
-[] 
+Underfull \hbox (badness 1496) in paragraph at lines 291--292
+[]\EU1/Raleway(1)/m/n/10 Student Board Member, American Meteorological Society’
+s
  []
 
 
-Overfull \hbox (3.5462pt too wide) in paragraph at lines 305--311
-[] 
- []
-
-
-Overfull \hbox (3.5462pt too wide) in paragraph at lines 312--320
-[] 
- []
-
-
-Overfull \hbox (1.90372pt too wide) in paragraph at lines 326--326
-[]\T1/ggm/m/n/10 Programming: 
- []
-
-
-Overfull \hbox (8.10364pt too wide) in paragraph at lines 327--327
-[]\T1/ggm/m/n/10 Software/Tools: 
- []
-
-<github.png, id=56, 64.24pt x 64.24pt>
-File: github.png Graphic file (type png)
- <use github.png>
-Package pdftex.def Info: github.png used on input line 329.
-(pdftex.def)             Requested size: 8.9994pt x 9.0pt.
-
-Overfull \hbox (148.08621pt too wide) in paragraph at lines 324--331
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 287--296
 [][] 
  []
 
 
-Overfull \hbox (32.45378pt too wide) in paragraph at lines 339--356
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 297--305
+[] 
+ []
+
+
+Underfull \hbox (badness 3029) in paragraph at lines 311--312
+[]\EU1/Raleway(1)/m/n/10 INTPART Arctic Field Summer Schools: Norway–Canada–
+ []
+
+
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 308--313
+[] 
+ []
+
+
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 314--320
+[] 
+ []
+
+[5]
+LaTeX Font Info:    Font shape `EU1/Raleway(1)/m/n' will be
+(Font)              scaled to size 7.0pt on input line 324.
+LaTeX Font Info:    Font shape `EU1/Raleway(1)/m/n' will be
+(Font)              scaled to size 5.0pt on input line 324.
+
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 321--329
+[] 
+ []
+
+
+Overfull \hbox (8.48744pt too wide) in paragraph at lines 336--336
+[]\EU1/Raleway(1)/m/n/10 Software/Tools: 
+ []
+
+File: github.png Graphic file (type QTm)
+<use  "github.png" >
+Overfull \hbox (155.31256pt too wide) in paragraph at lines 333--340
 [][] 
  []
 
 
-Overfull \hbox (32.45378pt too wide) in paragraph at lines 359--377
+Underfull \hbox (badness 10000) in paragraph at lines 350--351
+[]\EU1/Raleway(1)/m/n/10 Atmospheric Chemistry &
+ []
+
+
+Overfull \hbox (32.45378pt too wide) in paragraph at lines 348--365
 [][] 
  []
 
 
-Underfull \hbox (badness 1325) in paragraph at lines 403--404
-[]\T1/ggm/m/it/10 Val $[]$ - Slovene ra-dio sta-tion \T1/ggm/m/n/10 ``The Arc-t
-ic is rapidly melt-ing''
+Underfull \hbox (badness 7468) in paragraph at lines 375--376
+[]\EU1/Raleway(1)/m/n/10 Thermodynamics and Hydro-
  []
 
 
-Underfull \hbox (badness 2781) in paragraph at lines 425--426
-[]\T1/ggm/m/it/10 The Wash-ing-ton Post, Cap-i-tal Weather Gang\T1/ggm/m/n/10 ,
- ```Be-yond the ex-
+Overfull \hbox (32.45378pt too wide) in paragraph at lines 368--386
+[][] 
  []
 
-File: twitter.png Graphic file (type png)
-<use twitter.png>
-Package pdftex.def Info: twitter.png used on input line 440.
-(pdftex.def)             Requested size: 8.99335pt x 9.0pt.
 
-Overfull \hbox (3.5462pt too wide) in paragraph at lines 386--442
+Underfull \hbox (badness 1648) in paragraph at lines 396--397
+\EU1/Raleway(1)/m/n/10 and Greenland ice sheet have seen record June ice loss”
+ []
+
+
+Underfull \hbox (badness 2469) in paragraph at lines 419--420
+\EU1/Raleway(1)/m/n/10 above freezing in the dead of winter, stunning scientist
+s”
+ []
+
+
+Underfull \hbox (badness 3029) in paragraph at lines 421--422
+[]\EU1/Raleway(1)/m/it/10 USA Today\EU1/Raleway(1)/m/n/10 , “Arctic sea ice at 
+record low January levels”
+ []
+
+
+Underfull \hbox (badness 1668) in paragraph at lines 446--447
+[]\EU1/Raleway(1)/m/it/10 Cornell University\EU1/Raleway(1)/m/n/10 , “Early-ons
+et spring models may indicate
+ []
+
+File: twitter.png Graphic file (type QTm)
+<use  "twitter.png" >
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 395--453
 [][]
  []
 
 
-Overfull \hbox (3.5462pt too wide) in paragraph at lines 386--442
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 395--453
 []
  []
 
 
-Overfull \hbox (3.5462pt too wide) in paragraph at lines 386--442
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 395--453
+[]
+ []
+
+
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 395--453
 [] 
  []
 
-[5 <./github.png>]
-Overfull \vbox (19.99373pt too high) has occurred while \output is active []
-
-
-[6]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 453.
- [7]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 453.
+[6] [7]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 464.
+ [8]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 464.
  (./ZLabe_CV.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 453.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 453.
-Package rerunfilecheck Info: File `ZLabe_CV.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 464.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 464.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
  ) 
 Here is how much of TeX's memory you used:
- 9474 strings out of 493089
- 134794 string characters out of 6134842
- 278147 words of memory out of 5000000
- 12704 multiletter control sequences out of 15000+600000
- 138468 words of font info for 94 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 38i,15n,43p,1071b,496s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/lo
-cal/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/20
-15/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/texlive/2015/texmf-dist/f
-onts/enc/dvips/lm/lm-mathsy.enc}{/usr/local/texlive/2015/texmf-dist/fonts/enc/d
-vips/lm/lm-ec.enc}<./ggmm8a.pfb><./ggmmi8a.pfb><./ggmr8a.pfb><./ggmri8a.pfb></u
-sr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/local/t
-exlive/2015/texmf-dist/fonts/type1/public/lm/lmmi7.pfb></usr/local/texlive/2015
-/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2015/texmf-dist
-/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2015/texmf-dist/fonts/typ
-e1/public/lm/lmri7.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/l
-m/lmsy10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmtt10.p
-fb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb
-></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on ZLabe_CV.pdf (7 pages, 231215 bytes).
-PDF statistics:
- 175 PDF objects out of 1000 (max. 8388607)
- 148 compressed objects within 2 object streams
- 8 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 24584 strings out of 493706
+ 448871 string characters out of 6145769
+ 528973 words of memory out of 5000000
+ 27556 multiletter control sequences out of 15000+600000
+ 44494 words of font info for 105 fonts, out of 8000000 for 9000
+ 1328 hyphenation exceptions out of 8191
+ 47i,14n,61p,10378b,497s stack positions out of 5000i,500n,10000p,200000b,80000s
 
+Output written on ZLabe_CV.pdf (8 pages).
