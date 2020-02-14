@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  5 FEB 2020 12:50
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  14 FEB 2020 08:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1149,60 +1149,60 @@ Overfull \hbox (10.77255pt too wide) in paragraph at lines 303--314
  []
 
 [5]
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 315--324
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 315--325
 [] 
  []
 
 
-Underfull \hbox (badness 3029) in paragraph at lines 328--329
+Underfull \hbox (badness 3029) in paragraph at lines 329--330
 []\TU/Raleway(1)/m/n/10 INTPART Arctic Field Summer Schools: Norway–Canada–
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 325--330
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 326--331
 [] 
  []
 
 
-Underfull \hbox (badness 2334) in paragraph at lines 334--335
+Underfull \hbox (badness 2334) in paragraph at lines 335--336
 []\TU/Raleway(1)/m/n/10 Transdisciplinary Research on the Changing Arctic and I
 ts
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 331--338
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 332--339
 [] 
  []
 
 LaTeX Font Info:    Font shape `TU/Raleway(1)/m/n' will be
-(Font)              scaled to size 7.0pt on input line 342.
+(Font)              scaled to size 7.0pt on input line 343.
 LaTeX Font Info:    Font shape `TU/Raleway(1)/m/n' will be
-(Font)              scaled to size 5.0pt on input line 342.
+(Font)              scaled to size 5.0pt on input line 343.
 
-Underfull \hbox (badness 10000) in paragraph at lines 342--343
+Underfull \hbox (badness 10000) in paragraph at lines 343--344
 []\TU/Raleway(1)/m/n/10 100$[]$ American Meteorological Society Annual Meeting,
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 343--344
+Underfull \hbox (badness 10000) in paragraph at lines 344--345
 []\TU/Raleway(1)/m/n/10 99$[]$ American Meteorological Society Annual Meeting,
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 339--349
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 340--350
 [] 
  []
 
 
-Overfull \hbox (8.48744pt too wide) in paragraph at lines 356--356
+Overfull \hbox (8.48744pt too wide) in paragraph at lines 357--357
 []\TU/Raleway(1)/m/n/10 Software/Tools: 
  []
 
 File: github.png Graphic file (type bmp)
 <github.png>
 
-Overfull \hbox (155.31256pt too wide) in paragraph at lines 353--360
+Overfull \hbox (155.31256pt too wide) in paragraph at lines 354--361
 [][] 
  []
 
@@ -1289,7 +1289,7 @@ Package rerunfilecheck Info: File `ZLabe_CV.out' has not changed.
 Here is how much of TeX's memory you used:
  23529 strings out of 492916
  439504 string characters out of 6133346
- 566784 words of memory out of 5000000
+ 566824 words of memory out of 5000000
  27283 multiletter control sequences out of 15000+600000
  575427 words of font info for 116 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
