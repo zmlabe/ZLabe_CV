@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  2 MAY 2020 09:13
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  14 MAY 2020 08:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1057,6 +1057,12 @@ Overfull \hbox (1.08014pt too wide) in paragraph at lines 184--185
 ate model projections of Arctic climate change.
  []
 
+
+Overfull \hbox (0.62592pt too wide) in paragraph at lines 184--185
+\TU/Raleway(1)/m/n/10 Geography Department, Irvine Valley College, CA (May 2020
+). (\TU/Raleway(1)/bx/n/10 Invited-Remote\TU/Raleway(1)/m/n/10 ) 
+ []
+
 [2]
 Overfull \hbox (10.77255pt too wide) in paragraph at lines 225--240
 [][]
@@ -1250,24 +1256,24 @@ Overfull \hbox (32.45378pt too wide) in paragraph at lines 401--419
  []
 
 
-Underfull \hbox (badness 1648) in paragraph at lines 445--446
+Underfull \hbox (badness 1648) in paragraph at lines 446--447
 \TU/Raleway(1)/m/n/10 and Greenland ice sheet have seen record June ice loss”
  []
 
 
-Underfull \hbox (badness 2469) in paragraph at lines 468--469
+Underfull \hbox (badness 2469) in paragraph at lines 469--470
 \TU/Raleway(1)/m/n/10 above freezing in the dead of winter, stunning scientists
 ”
  []
 
 
-Underfull \hbox (badness 3029) in paragraph at lines 470--471
+Underfull \hbox (badness 3029) in paragraph at lines 471--472
 []\TU/Raleway(0)/m/it/10 USA Today\TU/Raleway(1)/m/n/10 , “Arctic sea ice at re
 cord low January levels”
  []
 
 
-Underfull \hbox (badness 1668) in paragraph at lines 495--496
+Underfull \hbox (badness 1668) in paragraph at lines 496--497
 []\TU/Raleway(0)/m/it/10 Cornell University\TU/Raleway(1)/m/n/10 , “Early-onset
  spring models may indicate
  []
@@ -1275,48 +1281,52 @@ Underfull \hbox (badness 1668) in paragraph at lines 495--496
 File: twitter.png Graphic file (type bmp)
 <twitter.png>
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 428--502
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 428--503
 [][]
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 428--502
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 428--503
 []
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 428--502
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 428--503
 []
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 428--502
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 428--503
 []
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 428--502
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 428--503
 [] 
  []
 
-[7] [8]
+[7]
+Overfull \vbox (16.00659pt too high) has occurred while \output is active []
+
+
+[8]
 Overfull \vbox (5.21689pt too high) has occurred while \output is active []
 
 
 [9]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 513.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 514.
  [10]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 513.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 514.
  (./ZLabe_CV.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 513.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 513.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 514.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 514.
 Package rerunfilecheck Info: File `ZLabe_CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E.
  ) 
 Here is how much of TeX's memory you used:
  23530 strings out of 492916
  439516 string characters out of 6133346
- 571744 words of memory out of 5000000
+ 572958 words of memory out of 5000000
  27284 multiletter control sequences out of 15000+600000
  575427 words of font info for 116 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
