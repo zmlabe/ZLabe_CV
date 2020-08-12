@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  12 AUG 2020 07:51
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  12 AUG 2020 09:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1036,13 +1036,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 152--154
  []
 
 
-Overfull \hbox (2.4693pt too wide) in paragraph at lines 160--161
+Overfull \hbox (2.4693pt too wide) in paragraph at lines 161--162
 \TU/Raleway(1)/m/n/10 Spring Onsets in the CESM Large Ensemble Project, Climate
  Dynamics, DOI:10.10
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 163--165
+Underfull \hbox (badness 10000) in paragraph at lines 164--166
 
  []
 
@@ -1344,7 +1344,7 @@ Package rerunfilecheck Info: File `ZLabe_CV.out' has not changed.
 Here is how much of TeX's memory you used:
  23530 strings out of 492916
  439516 string characters out of 6133346
- 584369 words of memory out of 5000000
+ 583369 words of memory out of 5000000
  27284 multiletter control sequences out of 15000+600000
  575427 words of font info for 116 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
