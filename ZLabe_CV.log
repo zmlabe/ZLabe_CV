@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  23 SEP 2020 11:15
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  25 SEP 2020 08:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1270,36 +1270,42 @@ Overfull \hbox (32.45378pt too wide) in paragraph at lines 413--431
  []
 
 
-Underfull \hbox (badness 1005) in paragraph at lines 459--460
+Underfull \hbox (badness 2368) in paragraph at lines 441--442
+[]\TU/Raleway(0)/m/it/10 ABC News\TU/Raleway(1)/m/n/10 , “2nd-lowest Arctic sea
+ ice increases concerns
+ []
+
+
+Underfull \hbox (badness 1005) in paragraph at lines 460--461
 []\TU/Raleway(0)/m/it/10 National Geographic\TU/Raleway(1)/m/n/10 , “A heat wav
 e thawed Siberia’s tundra.
  []
 
 
-Underfull \hbox (badness 1389) in paragraph at lines 463--464
+Underfull \hbox (badness 1389) in paragraph at lines 464--465
 \TU/Raleway(1)/m/n/10 mafrost melt as Russian village sees record temperatures”
 
  []
 
 
-Underfull \hbox (badness 1648) in paragraph at lines 483--484
+Underfull \hbox (badness 1648) in paragraph at lines 484--485
 \TU/Raleway(1)/m/n/10 and Greenland ice sheet have seen record June ice loss”
  []
 
 
-Underfull \hbox (badness 2469) in paragraph at lines 506--507
+Underfull \hbox (badness 2469) in paragraph at lines 507--508
 \TU/Raleway(1)/m/n/10 above freezing in the dead of winter, stunning scientists
 ”
  []
 
 
-Underfull \hbox (badness 3029) in paragraph at lines 508--509
+Underfull \hbox (badness 3029) in paragraph at lines 509--510
 []\TU/Raleway(0)/m/it/10 USA Today\TU/Raleway(1)/m/n/10 , “Arctic sea ice at re
 cord low January levels”
  []
 
 
-Underfull \hbox (badness 1668) in paragraph at lines 535--536
+Underfull \hbox (badness 1668) in paragraph at lines 536--537
 []\TU/Raleway(0)/m/it/10 Cornell University\TU/Raleway(1)/m/n/10 , “Early-onset
  spring models may indicate
  []
@@ -1307,49 +1313,49 @@ Underfull \hbox (badness 1668) in paragraph at lines 535--536
 File: twitter.png Graphic file (type bmp)
 <twitter.png>
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 440--542
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 440--543
 [][]
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 440--542
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 440--543
 []
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 440--542
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 440--543
 []
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 440--542
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 440--543
 []
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 440--542
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 440--543
 []
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 440--542
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 440--543
 [] 
  []
 
 [8] [9] [10] [11]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 553.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 554.
  [12]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 553.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 554.
  (./ZLabe_CV.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 553.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 553.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 554.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 554.
 Package rerunfilecheck Info: File `ZLabe_CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E.
  ) 
 Here is how much of TeX's memory you used:
  23530 strings out of 492916
  439516 string characters out of 6133346
- 582641 words of memory out of 5000000
+ 583878 words of memory out of 5000000
  27284 multiletter control sequences out of 15000+600000
  575427 words of font info for 116 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
