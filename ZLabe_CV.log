@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  21 FEB 2021 18:52
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  24 FEB 2021 11:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1260,48 +1260,48 @@ Overfull \hbox (32.45378pt too wide) in paragraph at lines 426--444
  []
 
 
-Underfull \hbox (badness 3407) in paragraph at lines 458--459
+Underfull \hbox (badness 3407) in paragraph at lines 459--460
 []\TU/Raleway(0)/m/it/10 Australian Broadcasting Corporation\TU/Raleway(1)/m/n/
 10 , “The vanishing Arctic”
  []
 
 
-Underfull \hbox (badness 2368) in paragraph at lines 469--470
+Underfull \hbox (badness 2368) in paragraph at lines 470--471
 []\TU/Raleway(0)/m/it/10 ABC News\TU/Raleway(1)/m/n/10 , “2nd-lowest Arctic sea
  ice increases concerns
  []
 
 
-Underfull \hbox (badness 1005) in paragraph at lines 490--491
+Underfull \hbox (badness 1005) in paragraph at lines 491--492
 []\TU/Raleway(0)/m/it/10 National Geographic\TU/Raleway(1)/m/n/10 , “A heat wav
 e thawed Siberia’s tundra.
  []
 
 
-Underfull \hbox (badness 1389) in paragraph at lines 492--493
+Underfull \hbox (badness 1389) in paragraph at lines 493--494
 \TU/Raleway(1)/m/n/10 mafrost melt as Russian village sees record temperatures”
 
  []
 
 
-Underfull \hbox (badness 1648) in paragraph at lines 514--515
+Underfull \hbox (badness 1648) in paragraph at lines 515--516
 \TU/Raleway(1)/m/n/10 and Greenland ice sheet have seen record June ice loss”
  []
 
 
-Underfull \hbox (badness 2469) in paragraph at lines 535--536
+Underfull \hbox (badness 2469) in paragraph at lines 536--537
 \TU/Raleway(1)/m/n/10 above freezing in the dead of winter, stunning scientists
 ”
  []
 
 
-Underfull \hbox (badness 3029) in paragraph at lines 537--538
+Underfull \hbox (badness 3029) in paragraph at lines 538--539
 []\TU/Raleway(0)/m/it/10 USA Today\TU/Raleway(1)/m/n/10 , “Arctic sea ice at re
 cord low January levels”
  []
 
 
-Underfull \hbox (badness 1668) in paragraph at lines 562--563
+Underfull \hbox (badness 1668) in paragraph at lines 563--564
 []\TU/Raleway(0)/m/it/10 Cornell University\TU/Raleway(1)/m/n/10 , “Early-onset
  spring models may indicate
  []
@@ -1309,53 +1309,57 @@ Underfull \hbox (badness 1668) in paragraph at lines 562--563
 File: twitter.png Graphic file (type bmp)
 <twitter.png>
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 453--569
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 453--570
 [][]
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 453--569
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 453--570
 []
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 453--569
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 453--570
 []
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 453--569
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 453--570
 []
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 453--569
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 453--570
 []
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 453--569
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 453--570
 [] 
  []
 
-[8] [9]
+[8]
+Overfull \vbox (7.91673pt too high) has occurred while \output is active []
+
+
+[9]
 Overfull \vbox (0.43686pt too high) has occurred while \output is active []
 
 
 [10] [11] [12]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 580.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 581.
  [13]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 580.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 581.
  (./ZLabe_CV.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 580.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 580.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 581.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 581.
 Package rerunfilecheck Info: File `ZLabe_CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E.
  ) 
 Here is how much of TeX's memory you used:
  23528 strings out of 492916
  439423 string characters out of 6133346
- 597485 words of memory out of 5000000
+ 598702 words of memory out of 5000000
  27283 multiletter control sequences out of 15000+600000
  575419 words of font info for 115 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
