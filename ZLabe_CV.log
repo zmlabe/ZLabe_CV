@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  18 MAR 2021 09:39
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  18 MAR 2021 14:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1051,123 +1051,130 @@ Underfull \hbox (badness 10000) in paragraph at lines 174--176
 
  []
 
+
+Overfull \hbox (8.14594pt too wide) in paragraph at lines 190--191
+\TU/Raleway(0)/m/it/10 doctoral Research Symposium\TU/Raleway(1)/m/n/10 , Color
+ado State University, CO (Mar 2021). (\TU/Raleway(1)/bx/n/10 Remote\TU/Raleway(
+1)/m/n/10 ) 
+ []
+
 [2]
-Overfull \hbox (1.08014pt too wide) in paragraph at lines 196--197
+Overfull \hbox (1.08014pt too wide) in paragraph at lines 198--199
 []\TU/Raleway(1)/bx/n/10 Labe, Z.M. \TU/Raleway(1)/m/n/10 Observations and clim
 ate model projections of Arctic climate change.
  []
 
 
-Overfull \hbox (0.62592pt too wide) in paragraph at lines 196--197
+Overfull \hbox (0.62592pt too wide) in paragraph at lines 198--199
 \TU/Raleway(1)/m/n/10 Geography Department, Irvine Valley College, CA (May 2020
 ). (\TU/Raleway(1)/bx/n/10 Invited-Remote\TU/Raleway(1)/m/n/10 ) 
  []
 
 [3]
-Overfull \hbox (6.94006pt too wide) in paragraph at lines 225--226
+Overfull \hbox (6.94006pt too wide) in paragraph at lines 227--228
 \TU/Raleway(0)/m/it/10 2020 American Geophysical Union Annual Meeting\TU/Ralewa
 y(1)/m/n/10 , Virtual Conference (Dec 2020).
  []
 
 [4]
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 243--259
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 245--261
 [][]
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 243--259
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 245--261
 [] 
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 270--280
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 272--282
 []
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 270--280
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 272--282
 [] 
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 281--288
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 283--290
 [] 
  []
 
 
-Underfull \hbox (badness 1275) in paragraph at lines 296--297
+Underfull \hbox (badness 1275) in paragraph at lines 298--299
 []\TU/Raleway(0)/m/it/10 AMS Early Career Leadership Academy\TU/Raleway(1)/m/n/
 10 , Session on Climate
  []
 
 
-Underfull \hbox (badness 4193) in paragraph at lines 301--302
+Underfull \hbox (badness 4193) in paragraph at lines 303--304
 []\TU/Raleway(0)/m/it/10 Climate, Literacy, Empowerment And iNquiry (CLEAN)\TU/
 Raleway(1)/m/n/10 , The
  []
 
 LaTeX Font Info:    Font shape `TU/Raleway(1)/m/it' will be
-(Font)              scaled to size 7.0pt on input line 302.
+(Font)              scaled to size 7.0pt on input line 304.
 
-Underfull \hbox (badness 2460) in paragraph at lines 306--307
+Underfull \hbox (badness 2460) in paragraph at lines 308--309
 []\TU/Raleway(0)/m/it/10 Geological Society of America Annual Meeting\TU/Ralewa
 y(1)/m/n/10 , Geoscience
  []
 
 
-Underfull \hbox (badness 1910) in paragraph at lines 306--307
+Underfull \hbox (badness 1910) in paragraph at lines 308--309
 \TU/Raleway(1)/m/n/10 Communication in the Modern Age – “A Changing Arctic”,
  []
 
 
-Underfull \hbox (badness 4193) in paragraph at lines 312--313
+Underfull \hbox (badness 4193) in paragraph at lines 314--315
 []\TU/Raleway(0)/m/it/10 Climate, Literacy, Empowerment And iNquiry (CLEAN)\TU/
 Raleway(1)/m/n/10 , The
  []
 
 
-Underfull \hbox (badness 4193) in paragraph at lines 321--322
+Underfull \hbox (badness 4193) in paragraph at lines 323--324
 []\TU/Raleway(0)/m/it/10 Climate, Literacy, Empowerment And iNquiry (CLEAN)\TU/
 Raleway(1)/m/n/10 , The
  []
 
 
-Underfull \hbox (badness 2460) in paragraph at lines 326--327
+Underfull \hbox (badness 2460) in paragraph at lines 328--329
 []\TU/Raleway(0)/m/it/10 NASA DIRECT-STEM Program\TU/Raleway(1)/m/n/10 , Assess
 ing a changing Arctic
  []
 
 
-Underfull \hbox (badness 1742) in paragraph at lines 330--331
+Underfull \hbox (badness 1742) in paragraph at lines 332--333
 []\TU/Raleway(0)/m/it/10 Orange County Regional Science Olympiad\TU/Raleway(1)/
 m/n/10 , Severe Storms-
  []
 
 
-Underfull \hbox (badness 1394) in paragraph at lines 333--334
+Underfull \hbox (badness 1394) in paragraph at lines 335--336
 []\TU/Raleway(0)/m/it/10 NASA DIRECT-STEM Workshop\TU/Raleway(1)/m/n/10 , Data 
 and Analysis of Arctic
  []
 
 
-Underfull \hbox (badness 1616) in paragraph at lines 333--334
+Underfull \hbox (badness 1616) in paragraph at lines 335--336
 \TU/Raleway(1)/m/n/10 Climate Change in CMIP$\OT1/lmr/m/n/10 5$ \TU/Raleway(1)/
 m/n/10 using Python (\TU/Raleway(1)/bx/n/10 Instructor\TU/Raleway(1)/m/n/10 ). 
 [][][Syl-
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 289--335
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 291--337
 []
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 289--335
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 291--337
 []
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 289--335
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 291--337
 [] 
  []
 
@@ -1176,136 +1183,136 @@ Overfull \vbox (1.93727pt too high) has occurred while \output is active []
 
 
 [6]
-Underfull \hbox (badness 2189) in paragraph at lines 345--346
+Underfull \hbox (badness 2189) in paragraph at lines 347--348
 []\TU/Raleway(1)/m/n/10 Journal Manuscript Referee [][][Publons][][] - \TU/Rale
 way(0)/m/it/10 Atmosphere-Ocean\TU/Raleway(1)/m/n/10 ,
  []
 
 
-Underfull \hbox (badness 1496) in paragraph at lines 346--347
+Underfull \hbox (badness 1496) in paragraph at lines 348--349
 []\TU/Raleway(1)/m/n/10 Student Board Member, American Meteorological Society’s
 
  []
 
 
-Underfull \hbox (badness 1496) in paragraph at lines 350--351
+Underfull \hbox (badness 1496) in paragraph at lines 352--353
 []\TU/Raleway(1)/m/n/10 Student Board Member, American Meteorological Society’s
 
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 341--355
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 343--357
 [][]
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 341--355
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 343--357
 [] 
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 356--366
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 358--368
 [] 
  []
 
 [7]
-Underfull \hbox (badness 3029) in paragraph at lines 370--371
+Underfull \hbox (badness 3029) in paragraph at lines 372--373
 []\TU/Raleway(1)/m/n/10 INTPART Arctic Field Summer Schools: Norway–Canada–
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 367--372
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 369--374
 [] 
  []
 
 
-Underfull \hbox (badness 2334) in paragraph at lines 376--377
+Underfull \hbox (badness 2334) in paragraph at lines 378--379
 []\TU/Raleway(1)/m/n/10 Transdisciplinary Research on the Changing Arctic and I
 ts
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 373--380
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 375--382
 [] 
  []
 
 LaTeX Font Info:    Font shape `TU/Raleway(1)/m/n' will be
-(Font)              scaled to size 7.0pt on input line 397.
+(Font)              scaled to size 7.0pt on input line 399.
 
-Overfull \hbox (8.48744pt too wide) in paragraph at lines 398--398
+Overfull \hbox (8.48744pt too wide) in paragraph at lines 400--400
 []\TU/Raleway(1)/m/n/10 Software/Tools: 
  []
 
 File: github.png Graphic file (type bmp)
 <github.png>
 
-Overfull \hbox (155.31256pt too wide) in paragraph at lines 395--402
+Overfull \hbox (155.31256pt too wide) in paragraph at lines 397--404
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 411--412
+Underfull \hbox (badness 10000) in paragraph at lines 413--414
 []\TU/Raleway(1)/m/n/10 Atmospheric Chemistry &
  []
 
 
-Overfull \hbox (32.45378pt too wide) in paragraph at lines 409--426
+Overfull \hbox (32.45378pt too wide) in paragraph at lines 411--428
 [][] 
  []
 
 
-Underfull \hbox (badness 7468) in paragraph at lines 436--437
+Underfull \hbox (badness 7468) in paragraph at lines 438--439
 []\TU/Raleway(1)/m/n/10 Thermodynamics and Hydro-
  []
 
 
-Overfull \hbox (32.45378pt too wide) in paragraph at lines 429--447
+Overfull \hbox (32.45378pt too wide) in paragraph at lines 431--449
 [][] 
  []
 
 
-Underfull \hbox (badness 3407) in paragraph at lines 464--465
+Underfull \hbox (badness 3407) in paragraph at lines 466--467
 []\TU/Raleway(0)/m/it/10 Australian Broadcasting Corporation\TU/Raleway(1)/m/n/
 10 , “The vanishing Arctic”
  []
 
 
-Underfull \hbox (badness 2368) in paragraph at lines 473--474
+Underfull \hbox (badness 2368) in paragraph at lines 475--476
 []\TU/Raleway(0)/m/it/10 ABC News\TU/Raleway(1)/m/n/10 , “2nd-lowest Arctic sea
  ice increases concerns
  []
 
 
-Underfull \hbox (badness 1005) in paragraph at lines 494--495
+Underfull \hbox (badness 1005) in paragraph at lines 496--497
 []\TU/Raleway(0)/m/it/10 National Geographic\TU/Raleway(1)/m/n/10 , “A heat wav
 e thawed Siberia’s tundra.
  []
 
 
-Underfull \hbox (badness 1389) in paragraph at lines 496--497
+Underfull \hbox (badness 1389) in paragraph at lines 498--499
 \TU/Raleway(1)/m/n/10 mafrost melt as Russian village sees record temperatures”
 
  []
 
 
-Underfull \hbox (badness 1648) in paragraph at lines 518--519
+Underfull \hbox (badness 1648) in paragraph at lines 520--521
 \TU/Raleway(1)/m/n/10 and Greenland ice sheet have seen record June ice loss”
  []
 
 
-Underfull \hbox (badness 2469) in paragraph at lines 541--542
+Underfull \hbox (badness 2469) in paragraph at lines 543--544
 \TU/Raleway(1)/m/n/10 above freezing in the dead of winter, stunning scientists
 ”
  []
 
 
-Underfull \hbox (badness 3029) in paragraph at lines 543--544
+Underfull \hbox (badness 3029) in paragraph at lines 545--546
 []\TU/Raleway(0)/m/it/10 USA Today\TU/Raleway(1)/m/n/10 , “Arctic sea ice at re
 cord low January levels”
  []
 
 
-Underfull \hbox (badness 1668) in paragraph at lines 568--569
+Underfull \hbox (badness 1668) in paragraph at lines 570--571
 []\TU/Raleway(0)/m/it/10 Cornell University\TU/Raleway(1)/m/n/10 , “Early-onset
  spring models may indicate
  []
@@ -1313,42 +1320,42 @@ Underfull \hbox (badness 1668) in paragraph at lines 568--569
 File: twitter.png Graphic file (type bmp)
 <twitter.png>
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 456--573
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 458--575
 [][]
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 456--573
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 458--575
 []
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 456--573
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 458--575
 []
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 456--573
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 458--575
 []
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 456--573
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 458--575
 []
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 456--573
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 458--575
 [] 
  []
 
 [8] [9] [10] [11] [12]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 584.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 586.
  [13]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 584.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 586.
  (./ZLabe_CV.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 584.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 584.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 586.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 586.
 Package rerunfilecheck Info: File `ZLabe_CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E.
  ) 
@@ -1359,6 +1366,6 @@ Here is how much of TeX's memory you used:
  27283 multiletter control sequences out of 15000+600000
  575419 words of font info for 115 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 59i,15n,99p,1071b,493s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 59i,15n,99p,1071b,491s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on ZLabe_CV.pdf (13 pages).
