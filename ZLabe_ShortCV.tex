@@ -1,0 +1,212 @@
+\let\latexnofiles\nofiles
+\let\nofiles\relax
+\documentclass[margin,line,palatino,courier,10pt]{res}
+
+\usepackage{hhline}
+\usepackage{amsmath, amsthm, amssymb, amsfonts}
+\usepackage[nodayofweek]{datetime}
+\newdateformat{mydate}{\twodigit{\THEDAY}{ }\shortmonthname[\THEMONTH], \THEYEAR}
+\usepackage{enumitem}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern,bm}
+\usepackage{fontspec}
+%\usepackage{garamond}
+\usepackage{pifont}
+%\usepackage[utf8]{ inputenc}
+\usepackage[default]{raleway}
+\usepackage{url}
+\usepackage{marvosym}
+\usepackage{etaremune}
+%\usepackage{dtk-logos}
+\usepackage{graphicx}
+\renewcommand{\labelenumi}{[\theenumi]}
+\usepackage[usenames,dvipsnames]{xcolor}
+\usepackage[colorlinks = true,
+            linkcolor = SkyBlue,
+            urlcolor  = SkyBlue,
+            citecolor = SkyBlue,
+            anchorcolor = SkyBlue]{hyperref}
+\newcommand{\sbt}{\,\begin{picture}(-1,1)(-1,-3)\circle*{3}\end{picture}\ }            
+\ralewaythin 
+
+\newcommand*{\LargerCdot}{\raisebox{-0.25ex}{\scalebox{2.1}{$\cdot$}}}
+
+\def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
+    T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
+
+%\topmargin .5in
+%\oddsidemargin -.5in
+%\evensidemargin -.5in
+%\textwidth=6.0in
+ \textheight=9.0in
+%\itemsep=0in
+%\parsep=0in
+\usepackage{fancyhdr}
+%\topmargin=0in
+%\textheight=8.5in
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0pt}
+\fancyhf{}
+%\cfoot{\thepage}
+\lfoot{\textit{\footnotesize \\ Updated: \today}}
+\rfoot{{\footnotesize \textcolor{Cerulean}{\textbf{Zachary Labe}} \\ Curriculum Vit\ae, Page \textbf{[\thepage]} of 2}}
+
+\newenvironment{list1}{
+  \begin{list}{\ding{113}}{%
+      \setlength{\itemsep}{0in}
+      \setlength{\parsep}{0in} \setlength{\parskip}{0in}
+      \setlength{\topsep}{0in} \setlength{\partopsep}{0in}
+      \setlength{\leftmargin}{0.17in}}}{\end{list}}
+\newenvironment{list2}{
+  \begin{list}{$\bullet$}{%
+      \setlength{\itemsep}{0in}
+      \setlength{\parsep}{0in} \setlength{\parskip}{0in}
+      \setlength{\topsep}{0in} \setlength{\partopsep}{0in}
+      \setlength{\leftmargin}{0.2in}}}{\end{list}}
+
+\begin{document}
+\raleway
+
+\name{\fcolorbox{Cerulean}{Cerulean}{\Huge{\textbf{\textcolor{White}{\ralewaylight Zachary M. Labe \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \:\ \ \ \ \ \ \ \ \ \ \ \ \! \! \ \ \ \ \,}}} \vspace*{.1in}}}
+
+\begin{resume}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{\sc \textcolor{Cerulean}{\large{\textbf{Contact Information}}}}
+\raleway
+
+\vspace{.05in}
+\begin{tabular}{@{}p{2.75in}p{3in}}
+ATS Main 406                                                      & \Telefon \ \ 717.602.5959 \\
+Department of Atmospheric Science                       & \Letter \ \ \href{mailto:zmlabe@rams.colostate.edu}{zmlabe@rams.colostate.edu}\\
+Colorado State University                & \Mundus \ \ \url{https://sites.uci.edu/zlabe/}\\
+Fort Collins, Colorado 80523-1371 USA               & \includegraphics[height=9pt]{twitter.png}\href{https://twitter.com/ZLabe}{\ \ @ZLabe}
+\end{tabular}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\vspace*{-.17in}
+\section{\sc \textcolor{Cerulean}{\large{\textbf{Research Interests}}}}
+large-scale climate dynamics $\LargerCdot$ climate variability $\LargerCdot$ atmospheric teleconnections $\LargerCdot$ stratospheric dynamics $\LargerCdot$ sea ice $\LargerCdot$ science communication $\LargerCdot$ data viz.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\vspace{-0.1in}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\noindent\textcolor{Cerulean}{\makebox[\linewidth][r]{\rule{\textwidth}{5pt}}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\vspace{-0.3in}
+\renewcommand{\arraystretch}{1.4}
+\section{\sc \large{\textcolor{Cerulean}{\textbf{Education}}}}
+
+{\bf The University of California, Irvine}, Irvine, CA\\
+\vspace*{-.17in}
+\begin{list1}
+\item[] Ph.D.~in Earth System Science, May 2020
+\end{list1}
+\vspace*{-.17in}
+{\bf The University of California, Irvine}, Irvine, CA\\
+\vspace*{-.17in}
+\begin{list1}
+\item[] M.Sc.~in Earth System Science, Sep 2017
+\end{list1}
+\vspace*{-.17in}
+{\bf Cornell University}, Ithaca, NY\\
+\vspace*{-.17in}
+\begin{list1}
+\item[] B.Sc.~in Atmospheric Science, May 2015, \textit{Distinction in Research}
+
+\end{list1}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{\sc \textcolor{Cerulean}{\large{\textbf{Academic Employment}}}}
+\vspace*{-0.12in}
+\begin{tabular}{@{}p{0.9in}p{4in}}
+2020-Present & \textbf{Postdoctoral Researcher}, Colorado State University\\
+
+2015-2020 & \textbf{Graduate Research Assistant}, University of California, Irvine\\
+
+2014-2015 & \textbf{Undergraduate Research Assistant}, Cornell University\\
+\end{tabular}
+
+\vspace{-0.1in}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\noindent\textcolor{Cerulean}{\makebox[\linewidth][r]{\rule{\textwidth}{5pt}}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\vspace{-0.3in}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{\sc \large{\textcolor{Cerulean}{\textbf{Publications}}}}
+\begin{etaremune}[leftmargin=0in,topsep=0in,parsep=0in]
+\item Peings, Y., \textbf{Z.M. Labe}, and G. Magnusdottir (2021), Are 100 ensemble members enough to capture the remote atmospheric response to $+$2$^{\circ}$C Arctic sea ice loss? Journal of Climate, DOI:10.1175/JCLI-D-20-0613.1. 
+\item Timmermans, M.-L. and \textbf{Z.M. Labe} (2020). Sea surface temperature [in ``Arctic Report Card 2020''], NOAA, DOI:10.25923/v0fs-m920. 
+\item Timmermans, M.-L., \textbf{Z.M. Labe}, and C. Ladd (2020), [The Arctic] Sea surface temperature [in ``State of the Climate in 2019'']. Bull. Amer. Meteor. Soc., DOI: 10.1175/BAMS-D-20-0086.1. 
+\item \textbf{Labe, Z.M.}, Y. Peings, and G. Magnusdottir (2020), Warm Arctic, cold Siberia pattern: role of full Arctic amplification versus sea ice loss alone, Geophysical Research Letters, DOI:10.1029/2020GL088583. 
+\item Thoman, R.L., U. Bhatt, P. Bieniek, B. Brettschneider, M. Brubaker, S. Danielson, \textbf{Z.M. Labe}, R. Lader, W. Meier, G. Sheffield, and J. Walsh (2020), The record low Bering Sea ice extent in 2018: Context, impacts and an assessment of the role of anthropogenic climate change [in ``Explaining Extreme Events of 2018 from a Climate Perspective'']. Bull. Amer. Meteor. Soc., DOI:10.1175/BAMS-D-19-0175.1 
+\item \textbf{Labe, Z.M.}, Y. Peings, and G. Magnusdottir (2019), The effect of QBO phase on the atmospheric response to projected Arctic sea ice loss in early winter, Geophysical Research Letters, DOI:10.1029/2019GL083095. 
+\item \textbf{Labe, Z.M.}, Y. Peings, and G. Magnusdottir (2018), Contributions of ice thickness to the atmospheric response from projected Arctic sea ice loss, Geophysical Research Letters, DOI:10.1029/2018GL078158. 
+\item \textbf{Labe, Z.M.}, G. Magnusdottir, and H.S. Stern (2018), Variability of Arctic sea ice thickness using PIOMAS and the CESM Large Ensemble, Journal of Climate, DOI:10.1175/JCLI-D-17-0436.1. 
+\item \textbf{Labe, Z.M.}, T.R. Ault, and R. Zurita-Milla (2016), Identifying Anomalously Early Spring Onsets in the CESM Large Ensemble Project, Climate Dynamics, DOI:10.10 07/s00382-016-3313-2. 
+\end{etaremune}
+
+\vspace{-0.1in}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\noindent\textcolor{Cerulean}{\makebox[\linewidth][r]{\rule{\textwidth}{5pt}}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\vspace{-0.3in} 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{\sc \textcolor{Cerulean}{\large{\textbf{Fellowships and\\ Awards}}}}
+\begin{tabular}{@{}p{0.9in}p{4in}}
+2020-2021 & SoGES Sustainability Leadership Fellow, Colorado State Univ.\\
+Sep. 2019 & Kavli Fellow, National Academy of Sciences\\
+Jan. 2019 & Outstanding Student Presentation Award - AMS Conference on Middle Atmosphere\\
+Nov. 2018 & Travel Award - AMS Conference on Middle Atmosphere\\
+2016-2018 & NSF NRT-DESE in Data Science \& Physical Science Fellowship\\
+Su. 2016 & Data Science Initiative Fellowship, Department of Statistics, \\
+& UC Irvine\\
+\end{tabular}
+\begin{tabular}{@{}p{0.9in}p{4in}}
+Wi. 2016 & Jenkins Family Graduate Fellowship in Earth System Science,\\ 
+& Department of Earth System
+Science, UC Irvine\\
+\end{tabular}
+
+\vspace{-0.1in}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\noindent\textcolor{Cerulean}{\makebox[\linewidth][r]{\rule{\textwidth}{5pt}}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\vspace{-0.3in} 
+
+\section{\sc \textcolor{Cerulean}{\large{\textbf{Professional Activities}}}}
+\vspace*{0.05in}
+\begin{tabular}{@{}p{0.9in}p{4in}}
+2020-Present & Board of Advisors for the NCAR/UCAR Climate Data Guide\\
+2020-Present & Proposal Referee - \textit{NSF (GEO/AGS)}\\
+2018-Present & Journal Manuscript/Conference Paper Referee \href{https://publons.com/author/1521902/zachary-labe#profile}{[Publons]}\\
+2019-2021& Student Board Member, AMS's Board on Societal Impacts\\
+2017-2020 & Vice President \& Communications Chair, Student Chapter of the AMS at UC Irvine\\
+2017-2020 & Student Board Member, AMS's Committee on Climate Variability and Change\\
+2017-2018 & Member, Student Communications Working Group, UC Irvine\\
+Aug. 2017 & Expert Contributor to the UCAR Climate Data Guide: ``Sea Ice Thickness Data Sets: Overview \& Comparison Table''\\
+2014-2015 & President, AMS Student Chapter, Cornell University\\
+\end{tabular}
+
+\vspace{-0.1in}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\noindent\textcolor{Cerulean}{\makebox[\linewidth][r]{\rule{\textwidth}{5pt}}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\vspace{-0.3in} 
+
+\section{\sc \textcolor{Cerulean}{\large{\textbf{Selected Media/Quotes}}}}
+\vspace*{0.05in}
+\begin{tabular}{@{}p{0.9in}p{4in}}
+& Visit my \href{https://twitter.com/ZLabe}{Twitter} ($>$34,900 followers) \includegraphics[height=9pt]{twitter.png}\ !\\
+2021 & Blasting News, Carbon Brief, CBS News, Inside Climate News, KCSU FM Radio, Weather Geeks Podcast\\
+2020 & ABC, Australian Broadcasting Corporation, Euronews, Guardian, Mashable, National Geographic, Vox, Washington Post\\
+2019 & Axios, Carbon Brief, CBS News, Earther, Euronews, Expressen, Forbes, Guardian, The Hill, Heidi.news, Mashable, Motherboard, Popular Science, TIME, Washington Post, Wunderground\\
+2018 & Arctic Today, The Atlantic, Carbon Brief, Earther, Euronews, Grist, High North News, KTUU Anchorage, KUCI Radio, O Globo, PennLive, UT Austin Geoscience Blogs, United States Senate, Val 202, Washington Post\\
+2017 & Buzzfeed News, Carbon Brief, Climate Central, KUAC Alaska, Mashable, Sydney Morning Herald, UCI News, USA Today, Verge, Washington Post, Yahoo News\\
+2016 & American Geophysical Union Blogs, Climate Central, Cornell University News, Forbes, Mashable, New York Times, National Public Radio, Sydney Morning Herald, Vox, Washington Post, The Weather Channel, Wunderground, Yahoo News\\
+\end{tabular}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\end{resume}
+\end{document}
