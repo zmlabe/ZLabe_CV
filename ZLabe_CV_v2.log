@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  13 MAY 2021 14:42
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  16 MAY 2021 09:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**ZLabe_CV.tex
-(./ZLabe_CV.tex
+**ZLabe_CV_v2.tex
+(./ZLabe_CV_v2.tex
 LaTeX2e <2018-12-01>
 (./res.cls
 Document Style `res' <26 Sep 89>.
@@ -877,8 +877,8 @@ s
 LaTeX Warning: Unused global option(s):
     [palatino,courier,10pt].
 
-(./ZLabe_CV.aux)
-\openout1 = `ZLabe_CV.aux'.
+(./ZLabe_CV_v2.aux)
+\openout1 = `ZLabe_CV_v2.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 67.
 LaTeX Font Info:    ... okay on input line 67.
@@ -921,9 +921,9 @@ LaTeX Info: Redefining \ref on input line 67.
 LaTeX Info: Redefining \pageref on input line 67.
 LaTeX Info: Redefining \nameref on input line 67.
 
-(./ZLabe_CV.out) (./ZLabe_CV.out)
+(./ZLabe_CV_v2.out) (./ZLabe_CV_v2.out)
 \@outlinefile=\write3
-\openout3 = `ZLabe_CV.out'.
+\openout3 = `ZLabe_CV_v2.out'.
 
 LaTeX Font Info:    Font shape `TU/Raleway(1)/m/n' will be
 (Font)              scaled to size 10.0pt on input line 68.
@@ -1358,19 +1358,19 @@ Overfull \vbox (8.89677pt too high) has occurred while \output is active []
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 590.
  [13]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 590.
- (./ZLabe_CV.aux)
+ (./ZLabe_CV_v2.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 590.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 590.
-Package rerunfilecheck Info: File `ZLabe_CV.out' has not changed.
+Package rerunfilecheck Info: File `ZLabe_CV_v2.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E.
  ) 
 Here is how much of TeX's memory you used:
  23528 strings out of 492916
- 439423 string characters out of 6133346
- 593649 words of memory out of 5000000
+ 439462 string characters out of 6133346
+ 593658 words of memory out of 5000000
  27283 multiletter control sequences out of 15000+600000
  575419 words of font info for 115 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 59i,15n,99p,1071b,493s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 59i,15n,99p,1074b,493s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on ZLabe_CV.pdf (13 pages).
+Output written on ZLabe_CV_v2.pdf (13 pages).
