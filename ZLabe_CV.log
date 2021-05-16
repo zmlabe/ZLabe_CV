@@ -1,0 +1,1357 @@
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  16 MAY 2021 10:16
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**ZLabe_CV.tex
+(./ZLabe_CV.tex
+LaTeX2e <2018-12-01>
+(./res.cls
+Document Style `res' <26 Sep 89>.
+Document Class: res 2000/05/19 v1.4b Resume class
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+\tabular@text=\toks14
+\tabular@head=\toks15
+\tabular@tail=\toks16
+\@ta=\toks17
+\undefined@token=\toks18
+\sectionwidth=\dimen103
+\sectionskip=\skip43
+\resumewidth=\dimen104
+\@columnwidth=\dimen105
+\c@numberofcolumns=\count88
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/hhline.sty
+Package: hhline 2014/10/28 v2.03 Table rule package (DPC)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip44
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen106
+))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen107
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count89
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count90
+\leftroot@=\count91
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count92
+\DOTSCASE@=\count93
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen108
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count94
+\c@MaxMatrixCols=\count95
+\dotsspace@=\muskip10
+\c@parentequation=\count96
+\dspbrk@lvl=\count97
+\tag@help=\toks20
+\row@=\count98
+\column@=\count99
+\maxfields@=\count100
+\andhelp@=\toks21
+\eqnshift@=\dimen109
+\alignsep@=\dimen110
+\tagshift@=\dimen111
+\tagwidth@=\dimen112
+\totwidth@=\dimen113
+\lineht@=\dimen114
+\@envbody=\toks22
+\multlinegap=\skip45
+\multlinetaggap=\skip46
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks24
+\thm@bodyfont=\toks25
+\thm@headfont=\toks26
+\thm@notefont=\toks27
+\thm@headpunct=\toks28
+\thm@preskip=\skip47
+\thm@postskip=\skip48
+\thm@headsep=\skip49
+\dth@everypar=\toks29
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/datetime/datetime.sty
+Package: datetime 2015/03/20 v2.60 Date Time Package
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count101
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/fmtcount/fmtcount.sty
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 22 replaced by U+FFFD.
+Package: fmtcount 2017/12/24 v3.05
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2019/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks30
+\XKV@tempa@toks=\toks31
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/xkeyval/keyval.tex))
+\XKV@depth=\count102
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/fmtcount/fcprefix.sty
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 22 replaced by U+FFFD.
+Package: fcprefix 2012/09/28
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/fmtcount/fcnumparser.sty
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 22 replaced by U+FFFD.
+Package: fcnumparser 2017/06/15
+\fc@digit@counter=\count103
+))
+\c@padzeroesN=\count104
+\fc@tmpcatcode=\count105
+\@DT@modctr=\count106
+\@ordinalctr=\count107
+\@orgargctr=\count108
+\@strctr=\count109
+\@tmpstrctr=\count110
+\@DT@loopN=\count111
+\@DT@X=\count112
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/datetime/datetime-defaults.sty
+Package: datetime-defaults 2013/09/10
+)
+\@day=\count113
+\@month=\count114
+\@year=\count115
+\c@HOUR=\count116
+\c@HOURXII=\count117
+\c@MINUTE=\count118
+\c@TOHOUR=\count119
+\c@TOMINUTE=\count120
+\c@SECOND=\count121
+\currenthour=\count122
+\currentminute=\count123
+\currentsecond=\count124
+Package datetime Info: No datetime.cfg file found, using default settings on in
+put line 308.
+\@dtctr=\count125
+\dayofyear=\count126
+\dayofweek=\count127
+LaTeX Info: Redefining \today on input line 736.
+\dt@a=\toks32
+\dt@b=\toks33
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/02/04 v3.8 Customized lists
+\enitkv@toks@=\toks34
+\labelindent=\skip50
+\enit@outerparindent=\dimen115
+\enit@toks=\toks35
+\enit@inbox=\box29
+\enit@count@id=\count128
+\enitdp@description=\count129
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2018/08/11 v2.0j Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+)
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 105.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/lm/lmodern.sty
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2017/01/16 v1.2c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup6
+\symboldletters=\mathgroup7
+\symboldsymbols=\mathgroup8
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
+LaTeX Info: Redefining \bm on input line 207.
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2019-05-07 L3 programming layer (loader) 
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+Package: expl3 2019-05-07 L3 programming layer (code)
+\c_max_int=\count130
+\l_tmpa_int=\count131
+\l_tmpb_int=\count132
+\g_tmpa_int=\count133
+\g_tmpb_int=\count134
+\g__kernel_prg_map_int=\count135
+\c__ior_term_ior=\count136
+\c_log_iow=\count137
+\l_iow_line_count_int=\count138
+\l__iow_line_target_int=\count139
+\l__iow_one_indent_int=\count140
+\l__iow_indent_int=\count141
+\c_zero_dim=\dimen116
+\c_max_dim=\dimen117
+\l_tmpa_dim=\dimen118
+\l_tmpb_dim=\dimen119
+\g_tmpa_dim=\dimen120
+\g_tmpb_dim=\dimen121
+\c_zero_skip=\skip51
+\c_max_skip=\skip52
+\l_tmpa_skip=\skip53
+\l_tmpb_skip=\skip54
+\g_tmpa_skip=\skip55
+\g_tmpb_skip=\skip56
+\c_zero_muskip=\muskip11
+\c_max_muskip=\muskip12
+\l_tmpa_muskip=\muskip13
+\l_tmpb_muskip=\muskip14
+\g_tmpa_muskip=\muskip15
+\g_tmpb_muskip=\muskip16
+\l_keys_choice_int=\count142
+\l__intarray_loop_int=\count143
+\c__intarray_sp_dim=\dimen122
+\g__intarray_font_int=\count144
+\c__fp_leading_shift_int=\count145
+\c__fp_middle_shift_int=\count146
+\c__fp_trailing_shift_int=\count147
+\c__fp_big_leading_shift_int=\count148
+\c__fp_big_middle_shift_int=\count149
+\c__fp_big_trailing_shift_int=\count150
+\c__fp_Bigg_leading_shift_int=\count151
+\c__fp_Bigg_middle_shift_int=\count152
+\c__fp_Bigg_trailing_shift_int=\count153
+\g__fp_array_int=\count154
+\l__fp_array_loop_int=\count155
+\l__sort_length_int=\count156
+\l__sort_min_int=\count157
+\l__sort_top_int=\count158
+\l__sort_max_int=\count159
+\l__sort_true_max_int=\count160
+\l__sort_block_int=\count161
+\l__sort_begin_int=\count162
+\l__sort_end_int=\count163
+\l__sort_A_int=\count164
+\l__sort_B_int=\count165
+\l__sort_C_int=\count166
+\l__tl_analysis_normal_int=\count167
+\l__tl_analysis_index_int=\count168
+\l__tl_analysis_nesting_int=\count169
+\l__tl_analysis_type_int=\count170
+\l__regex_internal_a_int=\count171
+\l__regex_internal_b_int=\count172
+\l__regex_internal_c_int=\count173
+\l__regex_balance_int=\count174
+\l__regex_group_level_int=\count175
+\l__regex_mode_int=\count176
+\c__regex_cs_in_class_mode_int=\count177
+\c__regex_cs_mode_int=\count178
+\l__regex_catcodes_int=\count179
+\l__regex_default_catcodes_int=\count180
+\c__regex_catcode_L_int=\count181
+\c__regex_catcode_O_int=\count182
+\c__regex_catcode_A_int=\count183
+\c__regex_all_catcodes_int=\count184
+\l__regex_show_lines_int=\count185
+\l__regex_min_state_int=\count186
+\l__regex_max_state_int=\count187
+\l__regex_left_state_int=\count188
+\l__regex_right_state_int=\count189
+\l__regex_capturing_group_int=\count190
+\l__regex_min_pos_int=\count191
+\l__regex_max_pos_int=\count192
+\l__regex_curr_pos_int=\count193
+\l__regex_start_pos_int=\count194
+\l__regex_success_pos_int=\count195
+\l__regex_curr_char_int=\count196
+\l__regex_curr_catcode_int=\count197
+\l__regex_last_char_int=\count198
+\l__regex_case_changed_char_int=\count199
+\l__regex_curr_state_int=\count266
+\l__regex_step_int=\count267
+\l__regex_min_active_int=\count268
+\l__regex_max_active_int=\count269
+\l__regex_replacement_csnames_int=\count270
+\l__regex_match_count_int=\count271
+\l__regex_min_submatch_int=\count272
+\l__regex_submatch_int=\count273
+\l__regex_zeroth_submatch_int=\count274
+\g__regex_trace_regex_int=\count275
+\c_empty_box=\box30
+\l_tmpa_box=\box31
+\l_tmpb_box=\box32
+\g_tmpa_box=\box33
+\g_tmpb_box=\box34
+\l__box_top_dim=\dimen123
+\l__box_bottom_dim=\dimen124
+\l__box_left_dim=\dimen125
+\l__box_right_dim=\dimen126
+\l__box_top_new_dim=\dimen127
+\l__box_bottom_new_dim=\dimen128
+\l__box_left_new_dim=\dimen129
+\l__box_right_new_dim=\dimen130
+\l__box_internal_box=\box35
+\l__coffin_internal_box=\box36
+\l__coffin_internal_dim=\dimen131
+\l__coffin_offset_x_dim=\dimen132
+\l__coffin_offset_y_dim=\dimen133
+\l__coffin_x_dim=\dimen134
+\l__coffin_y_dim=\dimen135
+\l__coffin_x_prime_dim=\dimen136
+\l__coffin_y_prime_dim=\dimen137
+\c_empty_coffin=\box37
+\l__coffin_aligned_coffin=\box38
+\l__coffin_aligned_internal_coffin=\box39
+\l_tmpa_coffin=\box40
+\l_tmpb_coffin=\box41
+\g_tmpa_coffin=\box42
+\g_tmpb_coffin=\box43
+\l__coffin_bounding_shift_dim=\dimen138
+\l__coffin_left_corner_dim=\dimen139
+\l__coffin_right_corner_dim=\dimen140
+\l__coffin_bottom_corner_dim=\dimen141
+\l__coffin_top_corner_dim=\dimen142
+\l__coffin_scaled_total_height_dim=\dimen143
+\l__coffin_scaled_width_dim=\dimen144
+\c__coffin_empty_coffin=\box44
+\l__coffin_display_coffin=\box45
+\l__coffin_display_coord_coffin=\box46
+\l__coffin_display_pole_coffin=\box47
+\l__coffin_display_offset_dim=\dimen145
+\l__coffin_display_x_dim=\dimen146
+\l__coffin_display_y_dim=\dimen147
+\g__file_internal_ior=\read1
+\l__seq_internal_a_int=\count276
+\l__seq_internal_b_int=\count277
+\c__deprecation_minus_one=\count278
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def
+File: l3xdvipdfmx.def 2019-04-06 v L3 Experimental driver: xdvipdfmx
+\g__driver_image_int=\count279
+\l__driver_pdf_tmp_box=\box48
+\g__driver_pdf_object_int=\count280
+\g__driver_pdf_annotation_int=\count281
+))
+Package: xparse 2019-05-03 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count282
+\g__xparse_grabber_int=\count283
+\l__xparse_m_args_int=\count284
+\l__xparse_v_nesting_int=\count285
+)
+Package: fontspec 2019/03/15 v2.7c Font selection for XeLaTeX and LuaLaTeX
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2019/03/15 v2.7c Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count286
+\l__fontspec_language_int=\count287
+\l__fontspec_strnum_int=\count288
+\l__fontspec_tmp_int=\count289
+\l__fontspec_tmpa_int=\count290
+\l__fontspec_tmpb_int=\count291
+\l__fontspec_tmpc_int=\count292
+\l__fontspec_em_int=\count293
+\l__fontspec_emdef_int=\count294
+\l__fontspec_strong_int=\count295
+\l__fontspec_strongdef_int=\count296
+\l__fontspec_tmpa_dim=\dimen148
+\l__fontspec_tmpb_dim=\dimen149
+\l__fontspec_tmpc_dim=\dimen150
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/tuenc.def
+File: tuenc.def 2018/08/11 v2.0j Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TU on input line 82.
+))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/fontspec/fontspec.cfg)
+LaTeX Info: Redefining \itshape on input line 4051.
+LaTeX Info: Redefining \slshape on input line 4056.
+LaTeX Info: Redefining \scshape on input line 4061.
+LaTeX Info: Redefining \upshape on input line 4066.
+LaTeX Info: Redefining \em on input line 4096.
+LaTeX Info: Redefining \emph on input line 4121.
+))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/pifont.sty
+Package: pifont 2005/04/12 PSNFSS-v9.2a Pi font support (SPQR) 
+LaTeX Font Info:    Try loading font information for U+pzd on input line 63.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Try loading font information for U+psy on input line 64.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/upsy.fd
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/raleway/raleway.sty
+Package: raleway 2016/12/03 v1.4 Matt McInerney’s Raleway family
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+
+Package fontspec Info: Font family 'Raleway(0)' created for font 'Raleway'
+(fontspec)             with options [Ligatures = TeX,Numbers = Lining,Scale =
+(fontspec)             1,Extension = .otf,Ligatures=TeX,UprightFont =
+(fontspec)             *-Regular,ItalicFont = *-Regular-Italic,BoldFont =
+(fontspec)             *-Bold,BoldItalicFont = *-Bold-Italic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Raleway-Regular.otf]/OT:script=latn;language=D
+FLT;+lnum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Raleway-Regular.otf]/OT:script=latn;language=D
+FLT;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (bx/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Raleway-Bold.otf]/OT:script=latn;language=DFLT
+;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Raleway-Bold.otf]/OT:script=latn;language=DFLT
+;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Raleway-Regular-Italic.otf]/OT:script=latn;lan
+guage=DFLT;+lnum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/itsc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Raleway-Regular-Italic.otf]/OT:script=latn;lan
+guage=DFLT;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold italic' (bx/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Raleway-Bold-Italic.otf]/OT:script=latn;langua
+ge=DFLT;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (bx/itsc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Raleway-Bold-Italic.otf]/OT:script=latn;langua
+ge=DFLT;+lnum;+smcp;mapping=tex-text;"
+
+LaTeX Info: Redefining \sffamily on input line 130.
+
+Package fontspec Info: Font family 'Raleway(1)' created for font 'Raleway'
+(fontspec)             with options [Ligatures = TeX,Numbers = Lining,Scale =
+(fontspec)             1,Extension = .otf,UprightFont = *-Regular,ItalicFont =
+(fontspec)             *-Regular-Italic,BoldFont = *-Bold,BoldItalicFont =
+(fontspec)             *-Bold-Italic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Raleway-Regular.otf]/OT:script=latn;language=D
+FLT;+lnum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Raleway-Regular.otf]/OT:script=latn;language=D
+FLT;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (bx/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Raleway-Bold.otf]/OT:script=latn;language=DFLT
+;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Raleway-Bold.otf]/OT:script=latn;language=DFLT
+;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Raleway-Regular-Italic.otf]/OT:script=latn;lan
+guage=DFLT;+lnum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/itsc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Raleway-Regular-Italic.otf]/OT:script=latn;lan
+guage=DFLT;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold italic' (bx/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Raleway-Bold-Italic.otf]/OT:script=latn;langua
+ge=DFLT;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (bx/itsc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Raleway-Bold-Italic.otf]/OT:script=latn;langua
+ge=DFLT;+lnum;+smcp;mapping=tex-text;"
+
+
+Package fontspec Info: Font family 'Raleway(2)' created for font 'Raleway'
+(fontspec)             with options [Ligatures = TeX,Numbers = Lining,Scale =
+(fontspec)             1,Extension = .otf,UprightFont = *-Medium,ItalicFont =
+(fontspec)             *-Medium-Italic,BoldFont = *-Bold,BoldItalicFont =
+(fontspec)             *-Bold-Italic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Raleway-Medium.otf]/OT:script=latn;language=DF
+LT;+lnum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Raleway-Medium.otf]/OT:script=latn;language=DF
+LT;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (bx/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Raleway-Bold.otf]/OT:script=latn;language=DFLT
+;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Raleway-Bold.otf]/OT:script=latn;language=DFLT
+;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Raleway-Medium-Italic.otf]/OT:script=latn;lang
+uage=DFLT;+lnum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/itsc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Raleway-Medium-Italic.otf]/OT:script=latn;lang
+uage=DFLT;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold italic' (bx/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Raleway-Bold-Italic.otf]/OT:script=latn;langua
+ge=DFLT;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (bx/itsc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Raleway-Bold-Italic.otf]/OT:script=latn;langua
+ge=DFLT;+lnum;+smcp;mapping=tex-text;"
+
+
+Package fontspec Info: Font family 'Raleway(3)' created for font 'Raleway'
+(fontspec)             with options [Ligatures = TeX,Numbers = Lining,Scale =
+(fontspec)             1,Extension = .otf,UprightFont = *-Light,ItalicFont =
+(fontspec)             *-Light-Italic,BoldFont = *-SemiBold,BoldItalicFont =
+(fontspec)             *-SemiBold-Italic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Raleway-Light.otf]/OT:script=latn;language=DFL
+T;+lnum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Raleway-Light.otf]/OT:script=latn;language=DFL
+T;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (bx/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Raleway-SemiBold.otf]/OT:script=latn;language=
+DFLT;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Raleway-SemiBold.otf]/OT:script=latn;language=
+DFLT;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Raleway-Light-Italic.otf]/OT:script=latn;langu
+age=DFLT;+lnum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/itsc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Raleway-Light-Italic.otf]/OT:script=latn;langu
+age=DFLT;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold italic' (bx/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Raleway-SemiBold-Italic.otf]/OT:script=latn;la
+nguage=DFLT;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (bx/itsc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Raleway-SemiBold-Italic.otf]/OT:script=latn;la
+nguage=DFLT;+lnum;+smcp;mapping=tex-text;"
+
+
+Package fontspec Info: Font family 'Raleway(4)' created for font 'Raleway'
+(fontspec)             with options [Ligatures = TeX,Numbers = Lining,Scale =
+(fontspec)             1,Extension = .otf,UprightFont = *-Thin,ItalicFont =
+(fontspec)             *-Thin-Italic,BoldFont = *-Black,BoldItalicFont =
+(fontspec)             *-Black-Italic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Raleway-Thin.otf]/OT:script=latn;language=DFLT
+;+lnum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Raleway-Thin.otf]/OT:script=latn;language=DFLT
+;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (bx/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Raleway-Black.otf]/OT:script=latn;language=DFL
+T;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Raleway-Black.otf]/OT:script=latn;language=DFL
+T;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Raleway-Thin-Italic.otf]/OT:script=latn;langua
+ge=DFLT;+lnum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/itsc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Raleway-Thin-Italic.otf]/OT:script=latn;langua
+ge=DFLT;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold italic' (bx/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Raleway-Black-Italic.otf]/OT:script=latn;langu
+age=DFLT;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (bx/itsc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Raleway-Black-Italic.otf]/OT:script=latn;langu
+age=DFLT;+lnum;+smcp;mapping=tex-text;"
+
+
+Package fontspec Info: Font family 'Raleway(5)' created for font 'Raleway'
+(fontspec)             with options [Ligatures = TeX,Numbers = Lining,Scale =
+(fontspec)             1,Extension = .otf,UprightFont =
+(fontspec)             *-ExtraLight,ItalicFont = *-ExtraLight-Italic,BoldFont
+(fontspec)             = *-ExtraBold,BoldItalicFont = *-ExtraBold-Italic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Raleway-ExtraLight.otf]/OT:script=latn;languag
+e=DFLT;+lnum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Raleway-ExtraLight.otf]/OT:script=latn;languag
+e=DFLT;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (bx/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Raleway-ExtraBold.otf]/OT:script=latn;language
+=DFLT;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Raleway-ExtraBold.otf]/OT:script=latn;language
+=DFLT;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Raleway-ExtraLight-Italic.otf]/OT:script=latn;
+language=DFLT;+lnum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/itsc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Raleway-ExtraLight-Italic.otf]/OT:script=latn;
+language=DFLT;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold italic' (bx/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Raleway-ExtraBold-Italic.otf]/OT:script=latn;l
+anguage=DFLT;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (bx/itsc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Raleway-ExtraBold-Italic.otf]/OT:script=latn;l
+anguage=DFLT;+lnum;+smcp;mapping=tex-text;"
+
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/marvosym/marvosym.sty
+Package: marvosym 2011/07/20 v2.2 Martin Vogel's Symbols font definitions
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/etaremune/etaremune.sty
+Package: etaremune 2005/06/01 v1.2 Reversed enumerate (HA)
+\c@EM@itemctr=\count297
+\c@EM@etaremunectr=\count298
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 99.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen151
+\Gin@req@width=\dimen152
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Package option `usenames' ignored on input line 216.
+Package xcolor Info: Driver file: xetex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: pdfTeX >= 1.30 not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen153
+\Hy@linkcounter=\count299
+\Hy@pagecounter=\count300
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count301
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 4393.
+Package hyperref Info: Hyper figures OFF on input line 4519.
+Package hyperref Info: Link nesting OFF on input line 4524.
+Package hyperref Info: Hyper index ON on input line 4527.
+Package hyperref Info: Plain pages OFF on input line 4534.
+Package hyperref Info: Backreferencing OFF on input line 4539.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4772.
+\c@Hy@tempcnt=\count302
+LaTeX Info: Redefining \url on input line 5125.
+\XeTeXLinkMargin=\dimen154
+\Fld@menulength=\count303
+\Field@Width=\dimen155
+\Fld@charsize=\dimen156
+Package hyperref Info: Hyper figures OFF on input line 6380.
+Package hyperref Info: Link nesting OFF on input line 6385.
+Package hyperref Info: Hyper index ON on input line 6388.
+Package hyperref Info: backreferencing OFF on input line 6395.
+Package hyperref Info: Link coloring ON on input line 6398.
+Package hyperref Info: Link coloring with OCG OFF on input line 6405.
+Package hyperref Info: PDF/A mode OFF on input line 6410.
+LaTeX Info: Redefining \ref on input line 6450.
+LaTeX Info: Redefining \pageref on input line 6454.
+\Hy@abspage=\count304
+\c@Item=\count305
+\c@Hfootnote=\count306
+)
+Package hyperref Info: Driver (autodetected): hxetex.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2018/11/30 v6.88e Hyperref driver for XeTeX
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2018/11/30 v6.88e Hyperref: PDF Unicode definition (HO)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/stringenc.sty
+Package: stringenc 2016/05/16 v1.11 Convert strings between diff. encodings (HO
+)
+)
+\pdfm@box=\box49
+\c@Hy@AnnotLevel=\count307
+\HyField@AnnotCount=\count308
+\Fld@listcount=\count309
+\c@bookmark@seq@number=\count310
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip57
+)
+LaTeX Font Info:    Font shape `TU/Raleway(4)/m/n' will be
+(Font)              scaled to size 10.0pt on input line 30.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip58
+\f@nch@O@elh=\skip59
+\f@nch@O@erh=\skip60
+\f@nch@O@olh=\skip61
+\f@nch@O@orh=\skip62
+\f@nch@O@elf=\skip63
+\f@nch@O@erf=\skip64
+\f@nch@O@olf=\skip65
+\f@nch@O@orf=\skip66
+)
+
+LaTeX Warning: Unused global option(s):
+    [palatino,courier,10pt].
+
+(./ZLabe_CV.aux)
+\openout1 = `ZLabe_CV.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Font shape `TU/Raleway(0)/m/n' will be
+(Font)              scaled to size 10.0pt on input line 67.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/fmtcount/fc-english.def
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 22 replaced by U+FFFD.
+File: fc-english.def 2016/01/12
+)
+\AtBeginShipoutBox=\box50
+Package hyperref Info: Link coloring ON on input line 67.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count311
+)
+LaTeX Info: Redefining \ref on input line 67.
+LaTeX Info: Redefining \pageref on input line 67.
+LaTeX Info: Redefining \nameref on input line 67.
+
+(./ZLabe_CV.out) (./ZLabe_CV.out)
+\@outlinefile=\write3
+\openout3 = `ZLabe_CV.out'.
+
+LaTeX Font Info:    Font shape `TU/Raleway(1)/m/n' will be
+(Font)              scaled to size 10.0pt on input line 68.
+LaTeX Font Info:    Font shape `TU/Raleway(1)/m/n' will be
+(Font)              scaled to size 12.0pt on input line 72.
+LaTeX Font Info:    Font shape `TU/Raleway(0)/m/n' will be
+(Font)              scaled to size 12.0pt on input line 72.
+LaTeX Font Info:    Font shape `TU/Raleway(0)/bx/n' will be
+(Font)              scaled to size 12.0pt on input line 72.
+LaTeX Font Info:    Font shape `TU/Raleway(0)/bx/n' will be
+(Font)              scaled to size 24.88pt on input line 72.
+LaTeX Font Info:    Font shape `TU/Raleway(3)/bx/n' will be
+(Font)              scaled to size 24.88pt on input line 72.
+LaTeX Font Info:    Font shape `TU/Raleway(0)/bx/n' will be
+(Font)              scaled to size 10.0pt on input line 74.
+LaTeX Font Info:    Font shape `TU/Raleway(0)/m/sc' will be
+(Font)              scaled to size 10.0pt on input line 74.
+LaTeX Font Info:    Font shape `TU/Raleway(0)/m/sc' will be
+(Font)              scaled to size 12.0pt on input line 74.
+LaTeX Font Info:    Font shape `TU/Raleway(0)/bx/sc' will be
+(Font)              scaled to size 12.0pt on input line 74.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 78.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 78.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 78.
+
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 78.
+
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 78.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 78.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 78.
+LaTeX Font Info:    Try loading font information for U+msa on input line 78.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 78.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+mvs on input line 79.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/marvosym/umvs.fd)
+File: twitter.png Graphic file (type bmp)
+<twitter.png>
+
+Overfull \hbox (72.2025pt too wide) in paragraph at lines 78--84
+[][] 
+ []
+
+LaTeX Font Info:    Font shape `TU/Raleway(1)/m/it' will be
+(Font)              scaled to size 10.0pt on input line 113.
+LaTeX Font Info:    Font shape `TU/Raleway(1)/bx/n' will be
+(Font)              scaled to size 10.0pt on input line 123.
+
+Underfull \hbox (badness 1292) in paragraph at lines 139--140
+\TU/Raleway(1)/m/n/10 Earth System Temperature (BEST) reanalysis to understand
+ []
+
+
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 122--143
+[][] 
+ []
+
+LaTeX Font Info:    Font shape `TU/Raleway(0)/m/it' will be
+(Font)              scaled to size 10.0pt on input line 149.
+LaTeX Font Info:    Font shape `TU/Raleway(0)/m/it' will be
+(Font)              scaled to size 8.0pt on input line 149.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 149.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 149.
+LaTeX Font Info:    Font shape `TU/Raleway(0)/m/it' will be
+(Font)              scaled to size 6.0pt on input line 149.
+LaTeX Font Info:    Font shape `TU/Raleway(0)/m/n' will be
+(Font)              scaled to size 8.0pt on input line 149.
+LaTeX Font Info:    Font shape `TU/Raleway(0)/bx/n' will be
+(Font)              scaled to size 8.0pt on input line 149.
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
+File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
+
+)
+[1
+
+]
+LaTeX Font Info:    Font shape `TU/Raleway(1)/bx/it' will be
+(Font)              scaled to size 10.0pt on input line 152.
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--154
+
+ []
+
+
+Overfull \hbox (2.4693pt too wide) in paragraph at lines 163--164
+\TU/Raleway(1)/m/n/10 Spring Onsets in the CESM Large Ensemble Project, Climate
+ Dynamics, DOI:10.10
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--168
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--177
+
+ []
+
+[2]
+Overfull \hbox (8.14594pt too wide) in paragraph at lines 191--192
+\TU/Raleway(0)/m/it/10 doctoral Research Symposium\TU/Raleway(1)/m/n/10 , Color
+ado State University, CO (Mar 2021). (\TU/Raleway(1)/bx/n/10 Remote\TU/Raleway(
+1)/m/n/10 ) 
+ []
+
+
+Overfull \hbox (1.08014pt too wide) in paragraph at lines 198--199
+[]\TU/Raleway(1)/bx/n/10 Labe, Z.M. \TU/Raleway(1)/m/n/10 Observations and clim
+ate model projections of Arctic climate change.
+ []
+
+
+Overfull \hbox (0.62592pt too wide) in paragraph at lines 198--199
+\TU/Raleway(1)/m/n/10 Geography Department, Irvine Valley College, CA (May 2020
+). (\TU/Raleway(1)/bx/n/10 Invited-Remote\TU/Raleway(1)/m/n/10 ) 
+ []
+
+[3]
+Overfull \hbox (6.94006pt too wide) in paragraph at lines 229--230
+\TU/Raleway(0)/m/it/10 2020 American Geophysical Union Annual Meeting\TU/Ralewa
+y(1)/m/n/10 , Virtual Conference (Dec 2020).
+ []
+
+[4]
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 247--263
+[][]
+ []
+
+
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 247--263
+[] 
+ []
+
+
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 274--284
+[]
+ []
+
+
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 274--284
+[] 
+ []
+
+
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 285--292
+[] 
+ []
+
+
+Underfull \hbox (badness 1275) in paragraph at lines 303--304
+[]\TU/Raleway(0)/m/it/10 AMS Early Career Leadership Academy\TU/Raleway(1)/m/n/
+10 , Session on Climate
+ []
+
+
+Underfull \hbox (badness 4193) in paragraph at lines 306--307
+[]\TU/Raleway(0)/m/it/10 Climate, Literacy, Empowerment And iNquiry (CLEAN)\TU/
+Raleway(1)/m/n/10 , The
+ []
+
+LaTeX Font Info:    Font shape `TU/Raleway(1)/m/it' will be
+(Font)              scaled to size 7.0pt on input line 307.
+
+Underfull \hbox (badness 2460) in paragraph at lines 311--312
+[]\TU/Raleway(0)/m/it/10 Geological Society of America Annual Meeting\TU/Ralewa
+y(1)/m/n/10 , Geoscience
+ []
+
+
+Underfull \hbox (badness 1910) in paragraph at lines 311--312
+\TU/Raleway(1)/m/n/10 Communication in the Modern Age – “A Changing Arctic”,
+ []
+
+
+Underfull \hbox (badness 4193) in paragraph at lines 317--318
+[]\TU/Raleway(0)/m/it/10 Climate, Literacy, Empowerment And iNquiry (CLEAN)\TU/
+Raleway(1)/m/n/10 , The
+ []
+
+
+Underfull \hbox (badness 4193) in paragraph at lines 328--329
+[]\TU/Raleway(0)/m/it/10 Climate, Literacy, Empowerment And iNquiry (CLEAN)\TU/
+Raleway(1)/m/n/10 , The
+ []
+
+
+Underfull \hbox (badness 2460) in paragraph at lines 331--332
+[]\TU/Raleway(0)/m/it/10 NASA DIRECT-STEM Program\TU/Raleway(1)/m/n/10 , Assess
+ing a changing Arctic
+ []
+
+
+Underfull \hbox (badness 1742) in paragraph at lines 335--336
+[]\TU/Raleway(0)/m/it/10 Orange County Regional Science Olympiad\TU/Raleway(1)/
+m/n/10 , Severe Storms-
+ []
+
+
+Underfull \hbox (badness 1394) in paragraph at lines 338--339
+[]\TU/Raleway(0)/m/it/10 NASA DIRECT-STEM Workshop\TU/Raleway(1)/m/n/10 , Data 
+and Analysis of Arctic
+ []
+
+
+Underfull \hbox (badness 1616) in paragraph at lines 338--339
+\TU/Raleway(1)/m/n/10 Climate Change in CMIP$\OT1/lmr/m/n/10 5$ \TU/Raleway(1)/
+m/n/10 using Python (\TU/Raleway(1)/bx/n/10 Instructor\TU/Raleway(1)/m/n/10 ). 
+[][][Syl-
+ []
+
+
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 293--340
+[]
+ []
+
+
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 293--340
+[]
+ []
+
+
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 293--340
+[] 
+ []
+
+[5] [6]
+Underfull \hbox (badness 2189) in paragraph at lines 350--351
+[]\TU/Raleway(1)/m/n/10 Journal Manuscript Referee [][][Publons][][] - \TU/Rale
+way(0)/m/it/10 Atmosphere-Ocean\TU/Raleway(1)/m/n/10 ,
+ []
+
+
+Underfull \hbox (badness 1496) in paragraph at lines 351--352
+[]\TU/Raleway(1)/m/n/10 Student Board Member, American Meteorological Society’s
+
+ []
+
+
+Underfull \hbox (badness 1496) in paragraph at lines 355--356
+[]\TU/Raleway(1)/m/n/10 Student Board Member, American Meteorological Society’s
+
+ []
+
+
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 346--360
+[][]
+ []
+
+
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 346--360
+[] 
+ []
+
+[7]
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 361--371
+[] 
+ []
+
+
+Underfull \hbox (badness 3029) in paragraph at lines 375--376
+[]\TU/Raleway(1)/m/n/10 INTPART Arctic Field Summer Schools: Norway–Canada–
+ []
+
+
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 372--377
+[] 
+ []
+
+
+Underfull \hbox (badness 2334) in paragraph at lines 383--384
+[]\TU/Raleway(1)/m/n/10 Transdisciplinary Research on the Changing Arctic and I
+ts
+ []
+
+
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 378--387
+[] 
+ []
+
+LaTeX Font Info:    Font shape `TU/Raleway(1)/m/n' will be
+(Font)              scaled to size 7.0pt on input line 404.
+
+Overfull \hbox (8.48744pt too wide) in paragraph at lines 405--405
+[]\TU/Raleway(1)/m/n/10 Software/Tools: 
+ []
+
+File: github.png Graphic file (type bmp)
+<github.png>
+
+Overfull \hbox (155.31256pt too wide) in paragraph at lines 402--410
+[][] 
+ []
+
+
+Underfull \hbox (badness 4168) in paragraph at lines 425--426
+[]\TU/Raleway(0)/m/it/10 Bloomberg\TU/Raleway(1)/m/n/10 , “Arctic Lightning Str
+ikes Tripled in a Decade”
+ []
+
+
+Underfull \hbox (badness 3407) in paragraph at lines 431--432
+[]\TU/Raleway(0)/m/it/10 Australian Broadcasting Corporation\TU/Raleway(1)/m/n/
+10 , “The vanishing Arctic”
+ []
+
+
+Underfull \hbox (badness 2368) in paragraph at lines 440--441
+[]\TU/Raleway(0)/m/it/10 ABC News\TU/Raleway(1)/m/n/10 , “2nd-lowest Arctic sea
+ ice increases concerns
+ []
+
+
+Underfull \hbox (badness 1005) in paragraph at lines 461--462
+[]\TU/Raleway(0)/m/it/10 National Geographic\TU/Raleway(1)/m/n/10 , “A heat wav
+e thawed Siberia’s tundra.
+ []
+
+
+Underfull \hbox (badness 1389) in paragraph at lines 463--464
+\TU/Raleway(1)/m/n/10 mafrost melt as Russian village sees record temperatures”
+
+ []
+
+
+Underfull \hbox (badness 1648) in paragraph at lines 485--486
+\TU/Raleway(1)/m/n/10 and Greenland ice sheet have seen record June ice loss”
+ []
+
+
+Underfull \hbox (badness 2469) in paragraph at lines 508--509
+\TU/Raleway(1)/m/n/10 above freezing in the dead of winter, stunning scientists
+”
+ []
+
+
+Underfull \hbox (badness 3029) in paragraph at lines 510--511
+[]\TU/Raleway(0)/m/it/10 USA Today\TU/Raleway(1)/m/n/10 , “Arctic sea ice at re
+cord low January levels”
+ []
+
+
+Underfull \hbox (badness 1668) in paragraph at lines 535--536
+[]\TU/Raleway(0)/m/it/10 Cornell University\TU/Raleway(1)/m/n/10 , “Early-onset
+ spring models may indicate
+ []
+
+File: twitter.png Graphic file (type bmp)
+<twitter.png>
+
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 419--540
+[][]
+ []
+
+
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 419--540
+[]
+ []
+
+
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 419--540
+[]
+ []
+
+
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 419--540
+[]
+ []
+
+
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 419--540
+[]
+ []
+
+
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 419--540
+[] 
+ []
+
+[8] [9]
+Overfull \vbox (8.89677pt too high) has occurred while \output is active []
+
+
+[10] [11] [12]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 551.
+ [13]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 551.
+ (./ZLabe_CV.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 551.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 551.
+Package rerunfilecheck Info: File `ZLabe_CV.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E.
+ ) 
+Here is how much of TeX's memory you used:
+ 23528 strings out of 492916
+ 439423 string characters out of 6133346
+ 601187 words of memory out of 5000000
+ 27283 multiletter control sequences out of 15000+600000
+ 575419 words of font info for 115 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 59i,15n,99p,1071b,493s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on ZLabe_CV.pdf (13 pages).
