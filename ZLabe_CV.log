@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  31 JUL 2021 10:17
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  3 AUG 2021 17:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1382,7 +1382,7 @@ Package rerunfilecheck Info: File `ZLabe_CV.out' has not changed.
 Here is how much of TeX's memory you used:
  23532 strings out of 492916
  439471 string characters out of 6133346
- 602187 words of memory out of 5000000
+ 601187 words of memory out of 5000000
  27286 multiletter control sequences out of 15000+600000
  575419 words of font info for 115 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
