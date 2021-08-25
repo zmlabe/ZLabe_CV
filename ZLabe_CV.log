@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  19 AUG 2021 19:28
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  25 AUG 2021 10:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1033,13 +1033,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 155--157
  []
 
 
-Overfull \hbox (2.4693pt too wide) in paragraph at lines 167--168
+Overfull \hbox (2.4693pt too wide) in paragraph at lines 168--169
 \TU/Raleway(1)/m/n/10 Spring Onsets in the CESM Large Ensemble Project, Climate
  Dynamics, DOI:10.10
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 170--172
+Underfull \hbox (badness 10000) in paragraph at lines 171--173
 
  []
 
