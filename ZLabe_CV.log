@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  28 JUN 2022 09:18
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  7 JUL 2022 07:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1296,72 +1296,72 @@ Overfull \hbox (155.31256pt too wide) in paragraph at lines 458--466
  []
 
 
-Underfull \hbox (badness 3954) in paragraph at lines 481--482
+Underfull \hbox (badness 3954) in paragraph at lines 482--483
 []\TU/Raleway(0)/m/it/10 EnergieWinde\TU/Raleway(1)/m/n/10 , “Zachary Labes Gra
 fiken zum Klimawandel”
  []
 
 
-Underfull \hbox (badness 1226) in paragraph at lines 493--494
+Underfull \hbox (badness 1226) in paragraph at lines 494--495
 []\TU/Raleway(0)/m/it/10 ABC News\TU/Raleway(1)/m/n/10 , “It’s Not Too Late: Ex
 treme heat in the Arctic”
  []
 
 
-Underfull \hbox (badness 1221) in paragraph at lines 495--496
+Underfull \hbox (badness 1221) in paragraph at lines 496--497
 []\TU/Raleway(0)/m/it/10 The Independent\TU/Raleway(1)/m/n/10 , “Merciless temp
 eratures push Moscow to
  []
 
 
-Underfull \hbox (badness 4168) in paragraph at lines 499--500
+Underfull \hbox (badness 4168) in paragraph at lines 500--501
 []\TU/Raleway(0)/m/it/10 Bloomberg\TU/Raleway(1)/m/n/10 , “Arctic Lightning Str
 ikes Tripled in a Decade”
  []
 
 
-Underfull \hbox (badness 3407) in paragraph at lines 505--506
+Underfull \hbox (badness 3407) in paragraph at lines 506--507
 []\TU/Raleway(0)/m/it/10 Australian Broadcasting Corporation\TU/Raleway(1)/m/n/
 10 , “The vanishing Arctic”
  []
 
 
-Underfull \hbox (badness 2368) in paragraph at lines 516--517
+Underfull \hbox (badness 2368) in paragraph at lines 517--518
 []\TU/Raleway(0)/m/it/10 ABC News\TU/Raleway(1)/m/n/10 , “2nd-lowest Arctic sea
  ice increases concerns
  []
 
 
-Underfull \hbox (badness 1005) in paragraph at lines 535--536
+Underfull \hbox (badness 1005) in paragraph at lines 536--537
 []\TU/Raleway(0)/m/it/10 National Geographic\TU/Raleway(1)/m/n/10 , “A heat wav
 e thawed Siberia’s tundra.
  []
 
 
-Underfull \hbox (badness 1389) in paragraph at lines 537--538
+Underfull \hbox (badness 1389) in paragraph at lines 538--539
 \TU/Raleway(1)/m/n/10 mafrost melt as Russian village sees record temperatures”
 
  []
 
 
-Underfull \hbox (badness 1648) in paragraph at lines 559--560
+Underfull \hbox (badness 1648) in paragraph at lines 560--561
 \TU/Raleway(1)/m/n/10 and Greenland ice sheet have seen record June ice loss”
  []
 
 
-Underfull \hbox (badness 2469) in paragraph at lines 582--583
+Underfull \hbox (badness 2469) in paragraph at lines 583--584
 \TU/Raleway(1)/m/n/10 above freezing in the dead of winter, stunning scientists
 ”
  []
 
 
-Underfull \hbox (badness 3029) in paragraph at lines 584--585
+Underfull \hbox (badness 3029) in paragraph at lines 585--586
 []\TU/Raleway(0)/m/it/10 USA Today\TU/Raleway(1)/m/n/10 , “Arctic sea ice at re
 cord low January levels”
  []
 
 
-Underfull \hbox (badness 1668) in paragraph at lines 611--612
+Underfull \hbox (badness 1668) in paragraph at lines 612--613
 []\TU/Raleway(0)/m/it/10 Cornell University\TU/Raleway(1)/m/n/10 , “Early-onset
  spring models may indicate
  []
@@ -1369,37 +1369,37 @@ Underfull \hbox (badness 1668) in paragraph at lines 611--612
 File: twitter.png Graphic file (type bmp)
 <twitter.png>
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 475--616
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 475--617
 [][]
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 475--616
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 475--617
 []
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 475--616
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 475--617
 []
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 475--616
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 475--617
 []
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 475--616
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 475--617
 []
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 475--616
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 475--617
 []
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 475--616
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 475--617
 [] 
  []
 
@@ -1412,19 +1412,19 @@ Overfull \vbox (12.93669pt too high) has occurred while \output is active []
 
 
 [15]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 627.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 628.
  [16]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 627.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 628.
  (./ZLabe_CV.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 627.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 627.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 628.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 628.
 Package rerunfilecheck Info: File `ZLabe_CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E.
  ) 
 Here is how much of TeX's memory you used:
  23532 strings out of 492916
  439471 string characters out of 6133346
- 609195 words of memory out of 5000000
+ 609420 words of memory out of 5000000
  27286 multiletter control sequences out of 15000+600000
  575419 words of font info for 115 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
