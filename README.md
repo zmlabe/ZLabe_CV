@@ -3,13 +3,13 @@
 ###### Under construction... ```[LaTeX]```
 
 ## Contact
-Zachary Labe - [Research Website](http://sites.uci.edu/zlabe/) - [@ZLabe](https://twitter.com/ZLabe)
+Zachary Labe - [Research Website](https://zacklabe.com/) - [@ZLabe](https://twitter.com/ZLabe)
 
 ## Description
-Compiled academic CV using Garamond fonts (```garamond.sty```). The resume style class is found in ```res.cls```.
+Compiled academic CV using Raleway fonts (```raleway.sty```). The resume style class is found in ```res.cls```.
 
 ## Resources
 + CV Template 1 - [[SOURCE]](https://flipdazed.github.io/blog/jobs/latex-cv-template)
 + CV Template 2 - [[SOURCE]](https://www.overleaf.com/latex/templates/recent-grad-resume-template/gjxncvsftpqr)
-+ Garamond Fonts - [[SOURCE]](http://gael-varoquaux.info/science/garamond-fonts-for-latex.html)
++ Raleway Fonts - [[SOURCE]](https://www.ctan.org/tex-archive/fonts/raleway)
 + TeXShop - [[SOURCE]](http://pages.uoregon.edu/koch/texshop/)
