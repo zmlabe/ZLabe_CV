@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  4 DEC 2022 14:30
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  13 DEC 2022 17:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1032,17 +1032,17 @@ File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 [1
 
 ]
-Overfull \hbox (2.4693pt too wide) in paragraph at lines 179--180
+Overfull \hbox (2.4693pt too wide) in paragraph at lines 180--181
 \TU/Raleway(1)/m/n/10 Spring Onsets in the CESM Large Ensemble Project, Climate
  Dynamics, DOI:10.10
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 182--184
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 183--185
 
  []
 
-[2]
+
 Underfull \hbox (badness 10000) in paragraph at lines 193--195
 
  []
@@ -1121,13 +1121,13 @@ Underfull \hbox (badness 1147) in paragraph at lines 359--360
  []
 
 
-Underfull \hbox (badness 2671) in paragraph at lines 361--362
+Underfull \hbox (badness 2671) in paragraph at lines 363--364
 []\TU/Raleway(0)/m/it/10 CASSINI Hackathon\TU/Raleway(1)/m/n/10 , Climate Chang
 e in the Arctic, Nordic
  []
 
 
-Underfull \hbox (badness 1430) in paragraph at lines 364--365
+Underfull \hbox (badness 1430) in paragraph at lines 366--367
 []\TU/Raleway(0)/m/it/10 US Climate Variability and Predictability\TU/Raleway(1
 )/m/n/10 , 2021 June CLIVAR
  []
@@ -1158,7 +1158,7 @@ Underfull \hbox (badness 1910) in paragraph at lines 381--382
  []
 
 
-Underfull \hbox (badness 4193) in paragraph at lines 387--388
+Underfull \hbox (badness 4193) in paragraph at lines 389--390
 []\TU/Raleway(0)/m/it/10 Climate, Literacy, Empowerment And iNquiry (CLEAN)\TU/
 Raleway(1)/m/n/10 , The
  []
@@ -1210,10 +1210,10 @@ Overfull \hbox (10.77255pt too wide) in paragraph at lines 352--410
  []
 
 [8]
-Overfull \vbox (7.40717pt too high) has occurred while \output is active []
+Overfull \vbox (10.84703pt too high) has occurred while \output is active []
 
 
-[9]
+[9] [10]
 Underfull \hbox (badness 1496) in paragraph at lines 428--429
 []\TU/Raleway(1)/m/n/10 Student Board Member, American Meteorological Society’s
 
@@ -1235,7 +1235,7 @@ Overfull \hbox (10.77255pt too wide) in paragraph at lines 416--435
 [] 
  []
 
-[10]
+
 Overfull \hbox (10.77255pt too wide) in paragraph at lines 436--447
 [] 
  []
@@ -1287,7 +1287,7 @@ Overfull \hbox (155.31256pt too wide) in paragraph at lines 484--492
  []
 
 
-Underfull \hbox (badness 3343) in paragraph at lines 508--509
+Underfull \hbox (badness 3343) in paragraph at lines 510--511
 []\TU/Raleway(0)/m/it/10 La Libre\TU/Raleway(1)/m/n/10 , “Cette statistique mon
 tre vraiment à quel point
  []
@@ -1305,7 +1305,7 @@ treme heat in the Arctic”
  []
 
 
-Underfull \hbox (badness 1221) in paragraph at lines 533--534
+Underfull \hbox (badness 1221) in paragraph at lines 535--536
 []\TU/Raleway(0)/m/it/10 The Independent\TU/Raleway(1)/m/n/10 , “Merciless temp
 eratures push Moscow to
  []
@@ -1400,11 +1400,19 @@ Overfull \hbox (10.77255pt too wide) in paragraph at lines 501--654
 [] 
  []
 
-[12] [13]
-Overfull \vbox (16.05687pt too high) has occurred while \output is active []
+[12]
+Overfull \vbox (8.87685pt too high) has occurred while \output is active []
 
 
-[14] [15]
+[13]
+Overfull \vbox (11.15697pt too high) has occurred while \output is active []
+
+
+[14]
+Overfull \vbox (10.72678pt too high) has occurred while \output is active []
+
+
+[15]
 Overfull \vbox (4.00659pt too high) has occurred while \output is active []
 
 
@@ -1425,7 +1433,7 @@ Package rerunfilecheck Info: File `ZLabe_CV.out' has not changed.
 Here is how much of TeX's memory you used:
  23532 strings out of 492916
  439471 string characters out of 6133346
- 618949 words of memory out of 5000000
+ 619949 words of memory out of 5000000
  27286 multiletter control sequences out of 15000+600000
  575419 words of font info for 115 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
