@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.7.6)  11 JUL 2023 14:45
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.7.6)  20 JUL 2023 13:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -922,13 +922,13 @@ Overfull \hbox (1.78014pt too wide) in paragraph at lines 216--217
 p Seminar\TU/Raleway(1)/m/n/10 , Washington State University Van-
  []
 
-
+[3]
 Overfull \hbox (1.79594pt too wide) in paragraph at lines 220--221
 \TU/Raleway(0)/m/it/10 entific Machine Learning Community\TU/Raleway(1)/m/n/10 
 , University of Leeds, UK (Jan 2023). (\TU/Raleway(1)/b/n/10 Invited-
  []
 
-[3]
+
 Overfull \hbox (6.7401pt too wide) in paragraph at lines 226--227
 \TU/Raleway(0)/m/it/10 lecture for “Adaptation to Climate Change”\TU/Raleway(1)
 /m/n/10 , North Carolina State University, Raleigh,
@@ -983,7 +983,7 @@ Overfull \hbox (10.77255pt too wide) in paragraph at lines 344--354
 [] 
  []
 
-
+[8]
 Overfull \hbox (10.77255pt too wide) in paragraph at lines 355--364
 []
  []
@@ -993,7 +993,7 @@ Overfull \hbox (10.77255pt too wide) in paragraph at lines 355--364
 [] 
  []
 
-[8]
+
 Underfull \hbox (badness 2865) in paragraph at lines 369--370
 []\TU/Raleway(0)/m/it/10 La Uni Climática\TU/Raleway(1)/m/n/10 , Monitoring ind
 icators of climate change
@@ -1029,7 +1029,7 @@ e in the Arctic, Nordic
  []
 
 
-Underfull \hbox (badness 1430) in paragraph at lines 383--384
+Underfull \hbox (badness 1430) in paragraph at lines 385--386
 []\TU/Raleway(0)/m/it/10 US Climate Variability and Predictability\TU/Raleway(1
 )/m/n/10 , 2021 June CLIVAR
  []
@@ -1111,7 +1111,11 @@ Overfull \hbox (10.77255pt too wide) in paragraph at lines 365--429
 [] 
  []
 
-[9] [10]
+[9]
+Overfull \vbox (7.50716pt too high) has occurred while \output is active []
+
+
+[10]
 Underfull \hbox (badness 1496) in paragraph at lines 454--455
 []\TU/Raleway(1)/m/n/10 Student Board Member, American Meteorological Society’s
 
@@ -1193,8 +1197,8 @@ Overfull \hbox (155.31256pt too wide) in paragraph at lines 513--521
 [][] 
  []
 
-
-Underfull \hbox (badness 3343) in paragraph at lines 546--547
+[13]
+Underfull \hbox (badness 3343) in paragraph at lines 544--545
 []\TU/Raleway(0)/m/it/10 La Libre\TU/Raleway(1)/m/n/10 , “Cette statistique mon
 tre vraiment à quel point
  []
@@ -1206,19 +1210,19 @@ fiken zum Klimawandel”
  []
 
 
-Underfull \hbox (badness 1226) in paragraph at lines 569--570
+Underfull \hbox (badness 1226) in paragraph at lines 567--568
 []\TU/Raleway(0)/m/it/10 ABC News\TU/Raleway(1)/m/n/10 , “It’s Not Too Late: Ex
 treme heat in the Arctic”
  []
 
 
-Underfull \hbox (badness 1221) in paragraph at lines 571--572
+Underfull \hbox (badness 1221) in paragraph at lines 569--570
 []\TU/Raleway(0)/m/it/10 The Independent\TU/Raleway(1)/m/n/10 , “Merciless temp
 eratures push Moscow to
  []
 
 
-Underfull \hbox (badness 4168) in paragraph at lines 575--576
+Underfull \hbox (badness 4168) in paragraph at lines 573--574
 []\TU/Raleway(0)/m/it/10 Bloomberg\TU/Raleway(1)/m/n/10 , “Arctic Lightning Str
 ikes Tripled in a Decade”
  []
@@ -1230,19 +1234,19 @@ Underfull \hbox (badness 3407) in paragraph at lines 581--582
  []
 
 
-Underfull \hbox (badness 2368) in paragraph at lines 592--593
+Underfull \hbox (badness 2368) in paragraph at lines 590--591
 []\TU/Raleway(0)/m/it/10 ABC News\TU/Raleway(1)/m/n/10 , “2nd-lowest Arctic sea
  ice increases concerns
  []
 
 
-Underfull \hbox (badness 1005) in paragraph at lines 613--614
+Underfull \hbox (badness 1005) in paragraph at lines 611--612
 []\TU/Raleway(0)/m/it/10 National Geographic\TU/Raleway(1)/m/n/10 , “A heat wav
 e thawed Siberia’s tundra.
  []
 
 
-Underfull \hbox (badness 1389) in paragraph at lines 615--616
+Underfull \hbox (badness 1389) in paragraph at lines 613--614
 \TU/Raleway(1)/m/n/10 mafrost melt as Russian village sees record temperatures”
 
  []
@@ -1253,7 +1257,7 @@ Underfull \hbox (badness 1648) in paragraph at lines 635--636
  []
 
 
-Underfull \hbox (badness 2469) in paragraph at lines 658--659
+Underfull \hbox (badness 2469) in paragraph at lines 656--657
 \TU/Raleway(1)/m/n/10 above freezing in the dead of winter, stunning scientists
 ”
  []
@@ -1307,29 +1311,29 @@ Overfull \hbox (10.77255pt too wide) in paragraph at lines 530--690
 [] 
  []
 
-[13]
-Overfull \vbox (8.97672pt too high) has occurred while \output is active []
+[14]
+Overfull \vbox (8.87697pt too high) has occurred while \output is active []
 
 
-[14] [15] [16]
-Overfull \vbox (12.43686pt too high) has occurred while \output is active []
+[15]
+Overfull \vbox (6.08673pt too high) has occurred while \output is active []
 
 
-[17]
-Overfull \vbox (21.3966pt too high) has occurred while \output is active []
+[16]
+Overfull \vbox (2.26686pt too high) has occurred while \output is active []
 
 
-[18] [19] (./ZLabe_CV.aux)
+[17] [18] [19] [20] (./ZLabe_CV.aux)
 Package rerunfilecheck Info: File `ZLabe_CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
  15242 strings out of 476683
  294404 string characters out of 5804048
- 1919018 words of memory out of 5000000
+ 1912018 words of memory out of 5000000
  35155 multiletter control sequences out of 15000+600000
  555400 words of font info for 127 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  72i,15n,114p,1071b,521s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on ZLabe_CV.pdf (19 pages).
+Output written on ZLabe_CV.pdf (20 pages).
