@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.7.6)  23 AUG 2023 16:57
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.7.6)  1 SEP 2023 13:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1111,89 +1111,84 @@ Overfull \hbox (10.77255pt too wide) in paragraph at lines 365--432
  []
 
 [9] [10] [11]
-Underfull \hbox (badness 1496) in paragraph at lines 458--459
+Underfull \hbox (badness 1496) in paragraph at lines 457--458
 []\TU/Raleway(1)/m/n/10 Student Board Member, American Meteorological Society’s
 
  []
 
 
-Underfull \hbox (badness 1496) in paragraph at lines 460--461
+Underfull \hbox (badness 1496) in paragraph at lines 459--460
 []\TU/Raleway(1)/m/n/10 Student Board Member, American Meteorological Society’s
 
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 438--465
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 438--464
 [][]
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 438--465
-[]
- []
-
-
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 438--465
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 438--464
 [] 
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 466--479
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 465--478
 []
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 466--479
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 465--478
 [] 
  []
 
 [12]
-Underfull \hbox (badness 3029) in paragraph at lines 484--485
+Underfull \hbox (badness 3029) in paragraph at lines 483--484
 []\TU/Raleway(1)/m/n/10 INTPART Arctic Field Summer Schools: Norway–Canada–
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 481--486
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 480--485
 [] 
  []
 
 
-Underfull \hbox (badness 6204) in paragraph at lines 500--501
+Underfull \hbox (badness 6204) in paragraph at lines 499--500
 []\TU/Raleway(1)/m/n/10 2nd Workshop on Knowledge Guided Machine Learning
  []
 
 
-Underfull \hbox (badness 2334) in paragraph at lines 504--505
+Underfull \hbox (badness 2334) in paragraph at lines 503--504
 []\TU/Raleway(1)/m/n/10 Transdisciplinary Research on the Changing Arctic and I
 ts
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 487--508
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 486--507
 []
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 487--508
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 486--507
 [] 
  []
 
 LaTeX Font Info:    Font shape `TU/Raleway(1)/m/n' will be
-(Font)              scaled to size 7.0pt on input line 519.
+(Font)              scaled to size 7.0pt on input line 518.
 
-Overfull \hbox (8.48744pt too wide) in paragraph at lines 520--520
+Overfull \hbox (8.48744pt too wide) in paragraph at lines 519--519
 []\TU/Raleway(1)/m/n/10 Software/Tools: 
  []
 
 File: github.png Graphic file (type bmp)
 <github.png>
 
-Overfull \hbox (155.31256pt too wide) in paragraph at lines 517--527
+Overfull \hbox (155.31256pt too wide) in paragraph at lines 516--526
 [][]
  []
 
 
-Overfull \hbox (155.31256pt too wide) in paragraph at lines 517--527
+Overfull \hbox (155.31256pt too wide) in paragraph at lines 516--526
 [] 
  []
 
@@ -1277,57 +1272,57 @@ Underfull \hbox (badness 1668) in paragraph at lines 693--694
 File: twitter.png Graphic file (type bmp)
 <twitter.png>
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 536--698
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 535--698
 [][]
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 536--698
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 535--698
 []
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 536--698
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 535--698
 []
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 536--698
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 535--698
 []
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 536--698
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 535--698
 []
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 536--698
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 535--698
 []
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 536--698
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 535--698
 []
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 536--698
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 535--698
 [] 
  []
 
-[14] [15]
-Overfull \vbox (16.25673pt too high) has occurred while \output is active []
+[14] [15] [16] [17] [18]
+Overfull \vbox (3.48688pt too high) has occurred while \output is active []
 
 
-[16] [17] [18] [19] [20] (./ZLabe_CV.aux)
+[19] [20] (./ZLabe_CV.aux)
 Package rerunfilecheck Info: File `ZLabe_CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
  15242 strings out of 476683
  294404 string characters out of 5804048
- 1912018 words of memory out of 5000000
+ 1913018 words of memory out of 5000000
  35155 multiletter control sequences out of 15000+600000
  555400 words of font info for 127 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
