@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.7.6)  23 APR 2024 14:07
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.7.6)  26 APR 2024 08:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1228,61 +1228,61 @@ Overfull \hbox (155.31256pt too wide) in paragraph at lines 560--570
  []
 
 
-Underfull \hbox (badness 1092) in paragraph at lines 586--587
+Underfull \hbox (badness 1092) in paragraph at lines 588--589
 []\TU/Raleway(0)/m/it/10 Carbon Brief\TU/Raleway(1)/m/n/10 , “‘Exceptional’ Ant
 arctic melt drives months of
  []
 
 
-Underfull \hbox (badness 3343) in paragraph at lines 604--605
+Underfull \hbox (badness 3343) in paragraph at lines 606--607
 []\TU/Raleway(0)/m/it/10 La Libre\TU/Raleway(1)/m/n/10 , “Cette statistique mon
 tre vraiment à quel point
  []
 
 
-Underfull \hbox (badness 3954) in paragraph at lines 615--616
+Underfull \hbox (badness 3954) in paragraph at lines 619--620
 []\TU/Raleway(0)/m/it/10 EnergieWinde\TU/Raleway(1)/m/n/10 , “Zachary Labes Gra
 fiken zum Klimawandel”
  []
 
 
-Underfull \hbox (badness 1226) in paragraph at lines 627--628
+Underfull \hbox (badness 1226) in paragraph at lines 629--630
 []\TU/Raleway(0)/m/it/10 ABC News\TU/Raleway(1)/m/n/10 , “It’s Not Too Late: Ex
 treme heat in the Arctic”
  []
 
 
-Underfull \hbox (badness 1221) in paragraph at lines 629--630
+Underfull \hbox (badness 1221) in paragraph at lines 631--632
 []\TU/Raleway(0)/m/it/10 The Independent\TU/Raleway(1)/m/n/10 , “Merciless temp
 eratures push Moscow to
  []
 
 
-Underfull \hbox (badness 4168) in paragraph at lines 633--634
+Underfull \hbox (badness 4168) in paragraph at lines 635--636
 []\TU/Raleway(0)/m/it/10 Bloomberg\TU/Raleway(1)/m/n/10 , “Arctic Lightning Str
 ikes Tripled in a Decade”
  []
 
 
-Underfull \hbox (badness 3407) in paragraph at lines 639--640
+Underfull \hbox (badness 3407) in paragraph at lines 643--644
 []\TU/Raleway(0)/m/it/10 Australian Broadcasting Corporation\TU/Raleway(1)/m/n/
 10 , “The vanishing Arctic”
  []
 
 
-Underfull \hbox (badness 2368) in paragraph at lines 650--651
+Underfull \hbox (badness 2368) in paragraph at lines 652--653
 []\TU/Raleway(0)/m/it/10 ABC News\TU/Raleway(1)/m/n/10 , “2nd-lowest Arctic sea
  ice increases concerns
  []
 
 
-Underfull \hbox (badness 1005) in paragraph at lines 671--672
+Underfull \hbox (badness 1005) in paragraph at lines 673--674
 []\TU/Raleway(0)/m/it/10 National Geographic\TU/Raleway(1)/m/n/10 , “A heat wav
 e thawed Siberia’s tundra.
  []
 
 
-Underfull \hbox (badness 1389) in paragraph at lines 673--674
+Underfull \hbox (badness 1389) in paragraph at lines 675--676
 \TU/Raleway(1)/m/n/10 mafrost melt as Russian village sees record temperatures”
 
  []
@@ -1349,11 +1349,6 @@ Overfull \hbox (10.77255pt too wide) in paragraph at lines 579--752
 
 
 Overfull \hbox (10.77255pt too wide) in paragraph at lines 579--752
-[]
- []
-
-
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 579--752
 [] 
  []
 
@@ -1362,10 +1357,22 @@ Overfull \vbox (8.97672pt too high) has occurred while \output is active []
 
 
 [17]
-Overfull \vbox (21.28697pt too high) has occurred while \output is active []
+Overfull \vbox (8.87697pt too high) has occurred while \output is active []
 
 
-[18] [19] [20] [21] [22] [23] (./ZLabe_CV.aux)
+[18]
+Overfull \vbox (4.22673pt too high) has occurred while \output is active []
+
+
+[19]
+Overfull \vbox (2.26686pt too high) has occurred while \output is active []
+
+
+[20]
+Overfull \vbox (5.67673pt too high) has occurred while \output is active []
+
+
+[21] [22] [23] (./ZLabe_CV.aux)
 Package rerunfilecheck Info: File `ZLabe_CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
