@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.7.6)  20 SEP 2024 08:26
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.7.6)  23 SEP 2024 08:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -882,12 +882,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 170--172
 
  []
 
-
-Overfull \hbox (9.32019pt too wide) in paragraph at lines 174--175
-[]\TU/Raleway(1)/m/n/10 Bushuk, M., S. Ali, D. Bailey, Q. Bao, L. Batte, U.S. B
-hatt, E. Blanchard-Wrigglesworth,
- []
-
 LaTeX Font Info:    Font shape `TU/Raleway(0)/m/it' will be
 (Font)              scaled to size 10.0pt on input line 175.
 LaTeX Font Info:    Font shape `TU/Raleway(0)/m/it' will be
@@ -904,8 +898,14 @@ LaTeX Font Info:    Font shape `TU/Raleway(0)/b/n' will be
 (Font)              scaled to size 8.0pt on input line 175.
 [1
 
-] [2]
-Underfull \hbox (badness 10000) in paragraph at lines 202--204
+]
+Overfull \hbox (9.32019pt too wide) in paragraph at lines 175--176
+[]\TU/Raleway(1)/m/n/10 Bushuk, M., S. Ali, D. Bailey, Q. Bao, L. Batte, U.S. B
+hatt, E. Blanchard-Wrigglesworth,
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 203--205
 
  []
 
