@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.7.6)  23 SEP 2024 08:53
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.7.6)  27 SEP 2024 09:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -883,29 +883,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 170--172
  []
 
 LaTeX Font Info:    Font shape `TU/Raleway(0)/m/it' will be
-(Font)              scaled to size 10.0pt on input line 175.
+(Font)              scaled to size 10.0pt on input line 174.
 LaTeX Font Info:    Font shape `TU/Raleway(0)/m/it' will be
-(Font)              scaled to size 8.0pt on input line 175.
+(Font)              scaled to size 8.0pt on input line 174.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 175.
+(Font)              <8> on input line 174.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 175.
+(Font)              <6> on input line 174.
 LaTeX Font Info:    Font shape `TU/Raleway(0)/m/it' will be
-(Font)              scaled to size 6.0pt on input line 175.
+(Font)              scaled to size 6.0pt on input line 174.
 LaTeX Font Info:    Font shape `TU/Raleway(0)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 175.
+(Font)              scaled to size 8.0pt on input line 174.
 LaTeX Font Info:    Font shape `TU/Raleway(0)/b/n' will be
-(Font)              scaled to size 8.0pt on input line 175.
+(Font)              scaled to size 8.0pt on input line 174.
 [1
 
 ]
-Overfull \hbox (9.32019pt too wide) in paragraph at lines 175--176
+Overfull \hbox (9.32019pt too wide) in paragraph at lines 176--177
 []\TU/Raleway(1)/m/n/10 Bushuk, M., S. Ali, D. Bailey, Q. Bao, L. Batte, U.S. B
 hatt, E. Blanchard-Wrigglesworth,
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 203--205
+Underfull \hbox (badness 10000) in paragraph at lines 204--206
 
  []
 
@@ -944,13 +944,13 @@ Overfull \hbox (1.79594pt too wide) in paragraph at lines 257--258
 , University of Leeds, UK (Jan 2023). (\TU/Raleway(1)/b/n/10 Invited-
  []
 
-
+[5]
 Overfull \hbox (6.7401pt too wide) in paragraph at lines 263--264
 \TU/Raleway(0)/m/it/10 lecture for “Adaptation to Climate Change”\TU/Raleway(1)
 /m/n/10 , North Carolina State University, Raleigh,
  []
 
-[5]
+
 Overfull \hbox (1.08014pt too wide) in paragraph at lines 280--281
 []\TU/Raleway(1)/b/n/10 Labe, Z.M. \TU/Raleway(1)/m/n/10 Observations and clima
 te model projections of Arctic climate change.
@@ -1154,7 +1154,11 @@ Overfull \hbox (10.77255pt too wide) in paragraph at lines 412--497
 [] 
  []
 
-[11] [12]
+[11]
+Overfull \vbox (21.94727pt too high) has occurred while \output is active []
+
+
+[12]
 Overfull \vbox (21.08702pt too high) has occurred while \output is active []
 
 
@@ -1388,6 +1392,6 @@ Here is how much of TeX's memory you used:
  35155 multiletter control sequences out of 15000+600000
  555400 words of font info for 127 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 72i,15n,114p,1071b,521s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,15n,114p,1071b,519s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on ZLabe_CV.pdf (23 pages).
