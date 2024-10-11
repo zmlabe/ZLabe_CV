@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.7.6)  7 OCT 2024 09:48
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.7.6)  11 OCT 2024 11:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -944,13 +944,13 @@ Overfull \hbox (1.79594pt too wide) in paragraph at lines 257--258
 , University of Leeds, UK (Jan 2023). (\TU/Raleway(1)/b/n/10 Invited-
  []
 
-[5]
+
 Overfull \hbox (6.7401pt too wide) in paragraph at lines 263--264
 \TU/Raleway(0)/m/it/10 lecture for “Adaptation to Climate Change”\TU/Raleway(1)
 /m/n/10 , North Carolina State University, Raleigh,
  []
 
-
+[5]
 Overfull \hbox (1.08014pt too wide) in paragraph at lines 280--281
 []\TU/Raleway(1)/b/n/10 Labe, Z.M. \TU/Raleway(1)/m/n/10 Observations and clima
 te model projections of Arctic climate change.
@@ -968,13 +968,13 @@ Overfull \hbox (4.68607pt too wide) in paragraph at lines 296--297
 reaking Extreme Heat
  []
 
-[7] [8]
+[7]
 Overfull \hbox (6.61015pt too wide) in paragraph at lines 322--323
 \TU/Raleway(1)/m/n/10 anthropogenic aerosols on the South Asian summer monsoon 
 in a high-resolution
  []
 
-
+[8]
 Overfull \hbox (6.42007pt too wide) in paragraph at lines 328--329
 \TU/Raleway(1)/m/n/10 warming inferred from CMIP6 large ensembles, \TU/Raleway(
 0)/m/it/10 2022 American Geophysical Union
@@ -1402,7 +1402,7 @@ Package rerunfilecheck Info: File `ZLabe_CV.out' has not changed.
 Here is how much of TeX's memory you used:
  15242 strings out of 476683
  294404 string characters out of 5804048
- 1924018 words of memory out of 5000000
+ 1925018 words of memory out of 5000000
  35155 multiletter control sequences out of 15000+600000
  555400 words of font info for 127 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
