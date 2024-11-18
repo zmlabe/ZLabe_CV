@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.7.6)  8 NOV 2024 16:26
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.7.6)  18 NOV 2024 09:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -899,17 +899,17 @@ LaTeX Font Info:    Font shape `TU/Raleway(0)/b/n' will be
 [1
 
 ]
-Overfull \hbox (9.32019pt too wide) in paragraph at lines 177--178
+Overfull \hbox (9.32019pt too wide) in paragraph at lines 178--179
 []\TU/Raleway(1)/m/n/10 Bushuk, M., S. Ali, D. Bailey, Q. Bao, L. Batte, U.S. B
 hatt, E. Blanchard-Wrigglesworth,
  []
 
-[2]
-Underfull \hbox (badness 10000) in paragraph at lines 205--207
+[2] [3]
+Underfull \hbox (badness 10000) in paragraph at lines 206--208
 
  []
 
-[3]
+
 Underfull \hbox (badness 10000) in paragraph at lines 220--222
 
  []
@@ -1397,6 +1397,6 @@ Here is how much of TeX's memory you used:
  35148 multiletter control sequences out of 15000+600000
  555400 words of font info for 127 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 72i,15n,114p,1071b,517s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,15n,114p,1071b,519s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on ZLabe_CV.pdf (24 pages).
