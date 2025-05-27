@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.7.6)  3 MAY 2025 13:21
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.7.6)  27 MAY 2025 08:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -813,364 +813,365 @@ LaTeX Font Info:    Font shape `TU/Raleway(0)/m/sc' will be
 (Font)              scaled to size 12.0pt on input line 76.
 LaTeX Font Info:    Font shape `TU/Raleway(0)/b/sc' will be
 (Font)              scaled to size 12.0pt on input line 76.
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 9
-0.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 8
+2.
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 9
-0.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 8
+2.
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-90.
+82.
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-90.
+82.
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 90.
+(Font)              <10> on input line 82.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 90.
+(Font)              <7> on input line 82.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 90.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 90.
+(Font)              <5> on input line 82.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 82.
 
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 90.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 82.
 
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+mvs on input line 91.
+LaTeX Font Info:    Trying to load font information for U+mvs on input line 83.
 
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/marvosym/umvs.fd)
 File: ORCID_iD.png Graphic file (type bmp)
 <ORCID_iD.png>
 
-Overfull \hbox (54.135pt too wide) in paragraph at lines 90--98
+Overfull \hbox (54.135pt too wide) in paragraph at lines 82--89
 [][] 
  []
 
 LaTeX Font Info:    Font shape `TU/Raleway(1)/m/it' will be
-(Font)              scaled to size 10.0pt on input line 125.
+(Font)              scaled to size 10.0pt on input line 126.
 LaTeX Font Info:    Font shape `TU/Raleway(1)/b/n' will be
-(Font)              scaled to size 10.0pt on input line 135.
+(Font)              scaled to size 10.0pt on input line 136.
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 134--169
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 135--174
 [][] 
  []
 
-LaTeX Font Info:    Font shape `TU/Raleway(1)/b/it' will be
-(Font)              scaled to size 10.0pt on input line 178.
-
-Underfull \hbox (badness 10000) in paragraph at lines 178--180
-
- []
-
 LaTeX Font Info:    Font shape `TU/Raleway(0)/m/it' will be
-(Font)              scaled to size 10.0pt on input line 183.
+(Font)              scaled to size 10.0pt on input line 182.
 LaTeX Font Info:    Font shape `TU/Raleway(0)/m/it' will be
-(Font)              scaled to size 8.0pt on input line 183.
+(Font)              scaled to size 8.0pt on input line 182.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 183.
+(Font)              <8> on input line 182.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 183.
+(Font)              <6> on input line 182.
 LaTeX Font Info:    Font shape `TU/Raleway(0)/m/it' will be
-(Font)              scaled to size 6.0pt on input line 183.
+(Font)              scaled to size 6.0pt on input line 182.
 LaTeX Font Info:    Font shape `TU/Raleway(0)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 183.
+(Font)              scaled to size 8.0pt on input line 182.
 LaTeX Font Info:    Font shape `TU/Raleway(0)/b/n' will be
-(Font)              scaled to size 8.0pt on input line 183.
+(Font)              scaled to size 8.0pt on input line 182.
 [1
 
 ]
-Overfull \hbox (9.32019pt too wide) in paragraph at lines 188--189
+LaTeX Font Info:    Font shape `TU/Raleway(1)/b/it' will be
+(Font)              scaled to size 10.0pt on input line 184.
+
+Underfull \hbox (badness 10000) in paragraph at lines 184--186
+
+ []
+
+
+Overfull \hbox (9.32019pt too wide) in paragraph at lines 194--195
 []\TU/Raleway(1)/m/n/10 Bushuk, M., S. Ali, D. Bailey, Q. Bao, L. Batte, U.S. B
 hatt, E. Blanchard-Wrigglesworth,
  []
 
 [2] [3]
-Underfull \hbox (badness 10000) in paragraph at lines 216--218
+Underfull \hbox (badness 10000) in paragraph at lines 222--224
 
  []
 
 
-Overfull \hbox (4.69016pt too wide) in paragraph at lines 223--224
+Overfull \hbox (4.69016pt too wide) in paragraph at lines 229--230
 []\TU/Raleway(1)/m/n/10 Kalashnikov, D.A., J.T. Abatzoglou, F.V. Davenport, \TU
 /Raleway(1)/b/n/10 Z.M. Labe\TU/Raleway(1)/m/n/10 , P.C. Loikith, D. Touma,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 233--235
+Underfull \hbox (badness 10000) in paragraph at lines 239--241
 
  []
 
-
-Overfull \hbox (6.29015pt too wide) in paragraph at lines 253--254
+[4]
+Overfull \hbox (6.29015pt too wide) in paragraph at lines 259--260
 []\TU/Raleway(1)/b/n/10 Labe, Z.M. \TU/Raleway(1)/m/n/10 Utility of explainable
  machine learning for scenarios of climate change,
  []
 
-[4]
-Overfull \hbox (1.2193pt too wide) in paragraph at lines 255--256
+
+Overfull \hbox (1.2193pt too wide) in paragraph at lines 261--262
 []\TU/Raleway(1)/b/n/10 Labe, Z.M. \TU/Raleway(1)/m/n/10 XAI for detecting scen
 arios of future climate change, Climate & Global
  []
 
 
-Overfull \hbox (18.92014pt too wide) in paragraph at lines 257--258
+Overfull \hbox (18.92014pt too wide) in paragraph at lines 263--264
 []\TU/Raleway(1)/b/n/10 Labe, Z.M. \TU/Raleway(1)/m/n/10 Machine learning for c
 limate prediction at decadal and longer timescales,
  []
 
 
-Overfull \hbox (5.14012pt too wide) in paragraph at lines 258--259
+Overfull \hbox (5.14012pt too wide) in paragraph at lines 264--265
 []\TU/Raleway(1)/b/n/10 Labe, Z.M. \TU/Raleway(1)/m/n/10 Reexamining future pro
 jections of Arctic climate linkages, \TU/Raleway(0)/m/it/10 Atmospheric
  []
 
 
-Overfull \hbox (3.50014pt too wide) in paragraph at lines 261--262
+Overfull \hbox (3.50014pt too wide) in paragraph at lines 267--268
 []\TU/Raleway(1)/b/n/10 Labe, Z.M. \TU/Raleway(1)/m/n/10 Explainable neural net
 works for evaluating patterns of climate change
  []
 
 
-Overfull \hbox (1.78014pt too wide) in paragraph at lines 269--270
+Overfull \hbox (1.78014pt too wide) in paragraph at lines 275--276
 \TU/Raleway(1)/m/n/10 mate change, \TU/Raleway(0)/m/it/10 Natural Sciences Grou
 p Seminar\TU/Raleway(1)/m/n/10 , Washington State University Van-
  []
 
 [5]
-Overfull \hbox (1.79594pt too wide) in paragraph at lines 273--274
+Overfull \hbox (1.79594pt too wide) in paragraph at lines 279--280
 \TU/Raleway(0)/m/it/10 entific Machine Learning Community\TU/Raleway(1)/m/n/10 
 , University of Leeds, UK (Jan 2023). (\TU/Raleway(1)/b/n/10 Invited-
  []
 
 
-Overfull \hbox (6.7401pt too wide) in paragraph at lines 279--280
+Overfull \hbox (6.7401pt too wide) in paragraph at lines 285--286
 \TU/Raleway(0)/m/it/10 lecture for “Adaptation to Climate Change”\TU/Raleway(1)
 /m/n/10 , North Carolina State University, Raleigh,
  []
 
 [6]
-Overfull \hbox (1.08014pt too wide) in paragraph at lines 296--297
+Overfull \hbox (1.08014pt too wide) in paragraph at lines 302--303
 []\TU/Raleway(1)/b/n/10 Labe, Z.M. \TU/Raleway(1)/m/n/10 Observations and clima
 te model projections of Arctic climate change.
  []
 
 
-Overfull \hbox (0.62592pt too wide) in paragraph at lines 296--297
+Overfull \hbox (0.62592pt too wide) in paragraph at lines 302--303
 \TU/Raleway(1)/m/n/10 Geography Department, Irvine Valley College, CA (May 2020
 ). (\TU/Raleway(1)/b/n/10 Invited-Remote\TU/Raleway(1)/m/n/10 ) 
  []
 
 [7]
-Overfull \hbox (4.68607pt too wide) in paragraph at lines 313--314
+Overfull \hbox (4.68607pt too wide) in paragraph at lines 319--320
 \TU/Raleway(0)/m/it/10 Emerging Risks from Concurrent, Compounding and Record-b
 reaking Extreme Heat
  []
 
 
-Overfull \hbox (0.45682pt too wide) in paragraph at lines 329--330
+Overfull \hbox (0.45682pt too wide) in paragraph at lines 335--336
 \TU/Raleway(1)/m/n/10 and D. Signh. Projections of Lightning-Ignited Wildfire R
 isk in the Western United
  []
 
 [8] [9]
-Overfull \hbox (6.61015pt too wide) in paragraph at lines 344--345
+Overfull \hbox (6.61015pt too wide) in paragraph at lines 350--351
 \TU/Raleway(1)/m/n/10 anthropogenic aerosols on the South Asian summer monsoon 
 in a high-resolution
  []
 
 
-Overfull \hbox (6.42007pt too wide) in paragraph at lines 350--351
+Overfull \hbox (6.42007pt too wide) in paragraph at lines 356--357
 \TU/Raleway(1)/m/n/10 warming inferred from CMIP6 large ensembles, \TU/Raleway(
 0)/m/it/10 2022 American Geophysical Union
  []
 
 [10]
-Overfull \hbox (6.94006pt too wide) in paragraph at lines 363--364
+Overfull \hbox (6.94006pt too wide) in paragraph at lines 369--370
 \TU/Raleway(0)/m/it/10 2020 American Geophysical Union Annual Meeting\TU/Ralewa
 y(1)/m/n/10 , Virtual Conference (Dec 2020).
  []
 
 [11]
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 381--399
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 387--405
 [][] 
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 410--416
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 416--422
 [] 
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 417--427
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 423--433
 []
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 417--427
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 423--433
 [] 
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 428--437
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 434--443
 []
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 428--437
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 434--443
 [] 
  []
 
 
-Underfull \hbox (badness 1127) in paragraph at lines 445--446
+Underfull \hbox (badness 1127) in paragraph at lines 451--452
 []\TU/Raleway(0)/m/it/10 Canadian Meteorological and Oceanographic Society\TU/R
 aleway(1)/m/n/10 , Virtual
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 452--453
+Underfull \hbox (badness 10000) in paragraph at lines 458--459
 []\TU/Raleway(0)/m/it/10 Arctic Congress 2024\TU/Raleway(1)/m/n/10 , Session ch
 air for “Cross/Trans-
  []
 
 
-Underfull \hbox (badness 1107) in paragraph at lines 455--456
+Underfull \hbox (badness 1107) in paragraph at lines 461--462
 []\TU/Raleway(0)/m/it/10 GFDL Polar Climate Interest Group\TU/Raleway(1)/m/n/10
  , Machine learning in the
  []
 
 
-Underfull \hbox (badness 1412) in paragraph at lines 456--457
+Underfull \hbox (badness 1412) in paragraph at lines 462--463
 []\TU/Raleway(0)/m/it/10 Temple University, Climate Communication Workshop: Lea
 rn
  []
 
 
-Underfull \hbox (badness 3302) in paragraph at lines 465--466
+Underfull \hbox (badness 3302) in paragraph at lines 471--472
 []\TU/Raleway(0)/m/it/10 NJ State Museum Planetarium\TU/Raleway(1)/m/n/10 , Vis
 ualizing climate change
  []
 
 
-Underfull \hbox (badness 2865) in paragraph at lines 470--471
+Underfull \hbox (badness 2865) in paragraph at lines 476--477
 []\TU/Raleway(0)/m/it/10 La Uni Climática\TU/Raleway(1)/m/n/10 , Monitoring ind
 icators of climate change
  []
 
 
-Underfull \hbox (badness 1043) in paragraph at lines 473--474
+Underfull \hbox (badness 1043) in paragraph at lines 479--480
 \TU/Raleway(1)/m/n/10 mate change through the lens of data visualization, NOAA
  []
 
 
-Underfull \hbox (badness 3492) in paragraph at lines 474--475
+Underfull \hbox (badness 3492) in paragraph at lines 480--481
 []\TU/Raleway(0)/m/it/10 AGU Fall Meeting 2022\TU/Raleway(1)/m/n/10 , Outstandi
 ng student presentation
  []
 
 
-Underfull \hbox (badness 1147) in paragraph at lines 479--480
+Underfull \hbox (badness 1147) in paragraph at lines 485--486
 \TU/Raleway(1)/m/n/10 mate science by thinking creatively with machine learning
 ,
  []
 
 
-Underfull \hbox (badness 2671) in paragraph at lines 481--482
+Underfull \hbox (badness 2671) in paragraph at lines 487--488
 []\TU/Raleway(0)/m/it/10 CASSINI Hackathon\TU/Raleway(1)/m/n/10 , Climate Chang
 e in the Arctic, Nordic
  []
 
 
-Underfull \hbox (badness 1430) in paragraph at lines 484--485
+Underfull \hbox (badness 1430) in paragraph at lines 490--491
 []\TU/Raleway(0)/m/it/10 US Climate Variability and Predictability\TU/Raleway(1
 )/m/n/10 , 2021 June CLIVAR
  []
 
 
-Underfull \hbox (badness 1275) in paragraph at lines 493--494
+Underfull \hbox (badness 1275) in paragraph at lines 499--500
 []\TU/Raleway(0)/m/it/10 AMS Early Career Leadership Academy\TU/Raleway(1)/m/n/
 10 , Session on Climate
  []
 
 
-Underfull \hbox (badness 4193) in paragraph at lines 496--497
+Underfull \hbox (badness 4193) in paragraph at lines 502--503
 []\TU/Raleway(0)/m/it/10 Climate, Literacy, Empowerment And iNquiry (CLEAN)\TU/
 Raleway(1)/m/n/10 , The
  []
 
 LaTeX Font Info:    Font shape `TU/Raleway(1)/m/it' will be
-(Font)              scaled to size 7.0pt on input line 497.
+(Font)              scaled to size 7.0pt on input line 503.
 
-Underfull \hbox (badness 2460) in paragraph at lines 501--502
+Underfull \hbox (badness 2460) in paragraph at lines 507--508
 []\TU/Raleway(0)/m/it/10 Geological Society of America Annual Meeting\TU/Ralewa
 y(1)/m/n/10 , Geoscience
  []
 
 
-Underfull \hbox (badness 1910) in paragraph at lines 501--502
+Underfull \hbox (badness 1910) in paragraph at lines 507--508
 \TU/Raleway(1)/m/n/10 Communication in the Modern Age – “A Changing Arctic”,
  []
 
 
-Underfull \hbox (badness 4193) in paragraph at lines 507--508
+Underfull \hbox (badness 4193) in paragraph at lines 513--514
 []\TU/Raleway(0)/m/it/10 Climate, Literacy, Empowerment And iNquiry (CLEAN)\TU/
 Raleway(1)/m/n/10 , The
  []
 
 
-Underfull \hbox (badness 4193) in paragraph at lines 518--519
+Underfull \hbox (badness 4193) in paragraph at lines 524--525
 []\TU/Raleway(0)/m/it/10 Climate, Literacy, Empowerment And iNquiry (CLEAN)\TU/
 Raleway(1)/m/n/10 , The
  []
 
 
-Underfull \hbox (badness 2460) in paragraph at lines 521--522
+Underfull \hbox (badness 2460) in paragraph at lines 527--528
 []\TU/Raleway(0)/m/it/10 NASA DIRECT-STEM Program\TU/Raleway(1)/m/n/10 , Assess
 ing a changing Arctic
  []
 
 
-Underfull \hbox (badness 1742) in paragraph at lines 525--526
+Underfull \hbox (badness 1742) in paragraph at lines 531--532
 []\TU/Raleway(0)/m/it/10 Orange County Regional Science Olympiad\TU/Raleway(1)/
 m/n/10 , Severe Storms-
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 438--530
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 444--536
 []
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 438--530
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 444--536
 []
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 438--530
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 444--536
 []
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 438--530
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 444--536
 [] 
  []
 
@@ -1187,213 +1188,213 @@ Overfull \vbox (7.40717pt too high) has occurred while \output is active []
 
 
 [15]
-Underfull \hbox (badness 1062) in paragraph at lines 544--545
+Underfull \hbox (badness 1062) in paragraph at lines 550--551
 []\TU/Raleway(1)/m/n/10 Task Team - WMO’s World Weather Research Programme,
  []
 
 
-Underfull \hbox (badness 1496) in paragraph at lines 560--561
+Underfull \hbox (badness 1496) in paragraph at lines 566--567
 []\TU/Raleway(1)/m/n/10 Student Board Member, American Meteorological Society’s
 
  []
 
 
-Underfull \hbox (badness 1496) in paragraph at lines 562--563
+Underfull \hbox (badness 1496) in paragraph at lines 568--569
 []\TU/Raleway(1)/m/n/10 Student Board Member, American Meteorological Society’s
 
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 536--566
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 542--572
 [][]
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 536--566
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 542--572
 [] 
  []
 
 [16]
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 567--581
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 573--587
 []
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 567--581
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 573--587
 [] 
  []
 
 [17]
-Underfull \hbox (badness 3029) in paragraph at lines 586--587
+Underfull \hbox (badness 3029) in paragraph at lines 592--593
 []\TU/Raleway(1)/m/n/10 INTPART Arctic Field Summer Schools: Norway–Canada–
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 583--588
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 589--594
 [] 
  []
 
 
-Underfull \hbox (badness 6204) in paragraph at lines 608--609
+Underfull \hbox (badness 6204) in paragraph at lines 614--615
 []\TU/Raleway(1)/m/n/10 2nd Workshop on Knowledge Guided Machine Learning
  []
 
 
-Underfull \hbox (badness 2334) in paragraph at lines 614--615
+Underfull \hbox (badness 2334) in paragraph at lines 620--621
 []\TU/Raleway(1)/m/n/10 Transdisciplinary Research on the Changing Arctic and I
 ts
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 589--618
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 595--624
 []
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 589--618
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 595--624
 [] 
  []
 
 [18]
 LaTeX Font Info:    Font shape `TU/Raleway(1)/m/n' will be
-(Font)              scaled to size 7.0pt on input line 628.
+(Font)              scaled to size 7.0pt on input line 634.
 
-Overfull \hbox (8.48744pt too wide) in paragraph at lines 631--631
+Overfull \hbox (8.48744pt too wide) in paragraph at lines 637--637
 []\TU/Raleway(1)/m/n/10 Software/Tools: 
  []
 
 File: github.png Graphic file (type bmp)
 <github.png>
 
-Overfull \hbox (155.31256pt too wide) in paragraph at lines 627--635
+Overfull \hbox (155.31256pt too wide) in paragraph at lines 633--641
 [][]
  []
 
 
-Overfull \hbox (155.31256pt too wide) in paragraph at lines 627--635
+Overfull \hbox (155.31256pt too wide) in paragraph at lines 633--641
 [] 
  []
 
 
-Underfull \hbox (badness 1092) in paragraph at lines 660--661
+Underfull \hbox (badness 1092) in paragraph at lines 666--667
 []\TU/Raleway(0)/m/it/10 Carbon Brief\TU/Raleway(1)/m/n/10 , “‘Exceptional’ Ant
 arctic melt drives months of
  []
 
 
-Underfull \hbox (badness 3343) in paragraph at lines 678--679
+Underfull \hbox (badness 3343) in paragraph at lines 684--685
 []\TU/Raleway(0)/m/it/10 La Libre\TU/Raleway(1)/m/n/10 , “Cette statistique mon
 tre vraiment à quel point
  []
 
 
-Underfull \hbox (badness 3954) in paragraph at lines 691--692
+Underfull \hbox (badness 3954) in paragraph at lines 697--698
 []\TU/Raleway(0)/m/it/10 EnergieWinde\TU/Raleway(1)/m/n/10 , “Zachary Labes Gra
 fiken zum Klimawandel”
  []
 
 
-Underfull \hbox (badness 1226) in paragraph at lines 701--702
+Underfull \hbox (badness 1226) in paragraph at lines 707--708
 []\TU/Raleway(0)/m/it/10 ABC News\TU/Raleway(1)/m/n/10 , “It’s Not Too Late: Ex
 treme heat in the Arctic”
  []
 
 
-Underfull \hbox (badness 1221) in paragraph at lines 703--704
+Underfull \hbox (badness 1221) in paragraph at lines 709--710
 []\TU/Raleway(0)/m/it/10 The Independent\TU/Raleway(1)/m/n/10 , “Merciless temp
 eratures push Moscow to
  []
 
 
-Underfull \hbox (badness 4168) in paragraph at lines 707--708
+Underfull \hbox (badness 4168) in paragraph at lines 713--714
 []\TU/Raleway(0)/m/it/10 Bloomberg\TU/Raleway(1)/m/n/10 , “Arctic Lightning Str
 ikes Tripled in a Decade”
  []
 
 
-Underfull \hbox (badness 3407) in paragraph at lines 715--716
+Underfull \hbox (badness 3407) in paragraph at lines 721--722
 []\TU/Raleway(0)/m/it/10 Australian Broadcasting Corporation\TU/Raleway(1)/m/n/
 10 , “The vanishing Arctic”
  []
 
 
-Underfull \hbox (badness 2368) in paragraph at lines 724--725
+Underfull \hbox (badness 2368) in paragraph at lines 730--731
 []\TU/Raleway(0)/m/it/10 ABC News\TU/Raleway(1)/m/n/10 , “2nd-lowest Arctic sea
  ice increases concerns
  []
 
 
-Underfull \hbox (badness 1005) in paragraph at lines 745--746
+Underfull \hbox (badness 1005) in paragraph at lines 751--752
 []\TU/Raleway(0)/m/it/10 National Geographic\TU/Raleway(1)/m/n/10 , “A heat wav
 e thawed Siberia’s tundra.
  []
 
 
-Underfull \hbox (badness 1389) in paragraph at lines 747--748
+Underfull \hbox (badness 1389) in paragraph at lines 753--754
 \TU/Raleway(1)/m/n/10 mafrost melt as Russian village sees record temperatures”
 
  []
 
 
-Underfull \hbox (badness 1648) in paragraph at lines 769--770
+Underfull \hbox (badness 1648) in paragraph at lines 775--776
 \TU/Raleway(1)/m/n/10 and Greenland ice sheet have seen record June ice loss”
  []
 
 
-Underfull \hbox (badness 2469) in paragraph at lines 790--791
+Underfull \hbox (badness 2469) in paragraph at lines 796--797
 \TU/Raleway(1)/m/n/10 above freezing in the dead of winter, stunning scientists
 ”
  []
 
 
-Underfull \hbox (badness 3029) in paragraph at lines 792--793
+Underfull \hbox (badness 3029) in paragraph at lines 798--799
 []\TU/Raleway(0)/m/it/10 USA Today\TU/Raleway(1)/m/n/10 , “Arctic sea ice at re
 cord low January levels”
  []
 
 
-Underfull \hbox (badness 1668) in paragraph at lines 819--820
+Underfull \hbox (badness 1668) in paragraph at lines 825--826
 []\TU/Raleway(0)/m/it/10 Cornell University\TU/Raleway(1)/m/n/10 , “Early-onset
  spring models may indicate
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 644--824
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 650--830
 [][]
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 644--824
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 650--830
 []
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 644--824
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 650--830
 []
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 644--824
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 650--830
 []
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 644--824
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 650--830
 []
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 644--824
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 650--830
 []
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 644--824
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 650--830
 []
  []
 
 
-Overfull \hbox (10.77255pt too wide) in paragraph at lines 644--824
+Overfull \hbox (10.77255pt too wide) in paragraph at lines 650--830
 [] 
  []
 
@@ -1428,6 +1429,6 @@ Here is how much of TeX's memory you used:
  35148 multiletter control sequences out of 15000+600000
  555400 words of font info for 127 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 72i,15n,114p,1071b,521s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,15n,114p,1071b,499s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on ZLabe_CV.pdf (26 pages).
