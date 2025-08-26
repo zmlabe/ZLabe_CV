@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.7.6)  14 AUG 2025 09:46
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.7.6)  26 AUG 2025 17:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -900,20 +900,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 184--186
  []
 
 
-Overfull \hbox (9.32019pt too wide) in paragraph at lines 195--196
+Overfull \hbox (4.69016pt too wide) in paragraph at lines 187--188
+[]\TU/Raleway(1)/m/n/10 Kalashnikov, D.A., J.T. Abatzoglou, F.V. Davenport, \TU
+/Raleway(1)/b/n/10 Z.M. Labe\TU/Raleway(1)/m/n/10 , P.C. Loikith, D. Touma,
+ []
+
+
+Overfull \hbox (9.32019pt too wide) in paragraph at lines 196--197
 []\TU/Raleway(1)/m/n/10 Bushuk, M., S. Ali, D. Bailey, Q. Bao, L. Batte, U.S. B
 hatt, E. Blanchard-Wrigglesworth,
  []
 
 [2] [3]
-Underfull \hbox (badness 10000) in paragraph at lines 223--225
+Underfull \hbox (badness 10000) in paragraph at lines 224--226
 
- []
-
-
-Overfull \hbox (4.69016pt too wide) in paragraph at lines 230--231
-[]\TU/Raleway(1)/m/n/10 Kalashnikov, D.A., J.T. Abatzoglou, F.V. Davenport, \TU
-/Raleway(1)/b/n/10 Z.M. Labe\TU/Raleway(1)/m/n/10 , P.C. Loikith, D. Touma,
  []
 
 
@@ -1413,6 +1413,6 @@ Here is how much of TeX's memory you used:
  35148 multiletter control sequences out of 15000+600000
  555400 words of font info for 127 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 72i,15n,114p,1223b,499s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,15n,114p,1248b,499s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on ZLabe_CV.pdf (27 pages).
